@@ -1,0 +1,9 @@
+# Fourth Schedule - (Regulation 18)
+FORM OF WARRANT TO WARRANT OFFICER (FORCE CHIEF PETTY OFFICER)
+WARRANT
+The National Security Council
+To..................................................................................................
+By virtue of Authority granted to us under the Defence Act.
+we do hereby Constitute and Appoint you the said.....................
+to be a Warrant Officer in The Royal Bahamas Defence Force from the .............. day of .................., 19 .... and to continue in the said Office during the pleasure of the National Security Council. You are therefore carefully and diligently to discharge your duty as such by doing and performing all manner of things thereunto belonging, as required by or under the Defence Act, or any regulations made thereunder, and you are to observe and follow lawful orders and directions as you shall receive from your Commanding Officer or any other Superior Officer.
+GIVEN under our Hand this ................ day of............... 19.........
