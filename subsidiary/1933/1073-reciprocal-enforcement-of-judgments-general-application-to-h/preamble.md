@@ -1,0 +1,2 @@
+Legislature of that part of His Majesty's Dominions outside the United Kingdom hereinafter mentioned has made reciprocal provisions for the enforcement within that part of judgments obtained in the High Court in England, the Court of Session in Scotland, and the High Court in Ireland:
+Now, therefore, His Majesty, by virtue and in exercise of the powers by the above-recited Act in His Majesty vested, is pleased, by and with the advice of His Privy Council, to order, and it is hereby ordered as follows:
