@@ -1,0 +1,7 @@
+# First Schedule
+1. Offences under the following sections of the Penal Code:
+ss. 269 (causing wound); 270 (causing grievous harm); 276 (garrotting); 339(2) robbery being armed with an offensive weapon); 340(4) - (7) (stealing in certain cases on second or subsequent conviction); 362 (housebreaking); and 363 (burglary).
+2. Offences under the following sections of the Sexual Offences and Domestic Violence Act 1991:
+ss. 6(1) (rape); 6(2) (attempt or assault with intent to commit rape upon second or subsequent conviction); 10(1) (sexual intercourse with person under fourteen years); 10(2) (attempt to have sexual intercourse with person under fourteen years on second or subsequent conviction); 12(1) (unlawful sexual intercourse with a person suffering from a mental disorder); 12(2) (attempt to have unlawful sexual intercourse with a person suffering from a mental disorder on second or subsequent conviction); 13(1)(a) (act of incest by adult with a minor); 13(2)(a) (attempted act of incest by adult with a minor on second or subsequent conviction); 14(1) (adult unlawful sexual intercourse with dependent child); and 14(2) (adult attempted unlawful sexual intercourse with dependent child on second or subsequent conviction).
+3. Offences under the following sections of the Firearms Act:
+ss. 33 (possession of firearms with intent to injure); 34 (use or possession of firearm or imitation firearm in certain cases).
