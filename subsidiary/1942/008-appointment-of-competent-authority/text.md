@@ -1,0 +1,1 @@
+of the Dog Licence Act, His Excellency the Governor in Council hereby appoints The Bahamas Humane Society to be the competent authority in New Providence for the purpose of The. Dog Licence Act as from the 30th May, 1942.
