@@ -1,0 +1,13 @@
+# Second Schedule EXCEPTIONS AND MODIFICATIONS TO BE MADE IN THE EXTENSION OF THE ACT TO THE TERRITORIES SPECIFIED IN THE FIRST SCHEDULE 1. (1) For the words "United Kingdom" wherever they occur there shall be substituted the word "Territory".
+(2) For the words "the Secretary of State", "the Army Council" or "the Board of Trade" wherever they occur there shall be substituted the words "the Governor". 2. (1) In subsection (1) of section 1 for the word "felony" there shall be substituted the words "an offence".
+(2) In subsection (2) of section 1 the word "indicated" shall be omitted.
+(3) For subsection (3) of section 1 the following subsection shall be substituted - "(3) Proceedings for an offence under this section shall not be instituted in the Territory without the consent of the appropriate legal officer of the Territory."
+(4) Subsection (5) of section 1 shall be omitted. 3. (1) In section 3 for the word "counsel" wherever it occurs there shall be substituted the words "an advocate" except where the following provisions of this paragraph otherwise require.
+(2) In paragraph (ii) of subsection (1) of section 3 for the words "the solicitor by whom that counsel was instructed" there shall be substituted the words "that advocate or, where that advocate is instructed by a solicitor, to the solicitor by whom he is instructed".
+(3) In subsection (3) of section 3 for the words "a solicitor and counsel" there shall be substituted the words "an advocate and, where the law or practice of the Territory requires that in proceedings before the court an advocate shall be instructed by a solicitor, a solicitor".
+(4) Subsection (4) of section 3 shall be omitted.
+(5) In subsection (5) of section 3 -
+(a) for the words "A solicitor or counsel shall be assigned in pursuance of subsection (3) of this section in such manner as Her Majesty may by Order in Council prescribe, and any solicitor or counsel" there shall be substituted the words "An advocate or solicitor shall be assigned in pursuance of subsection (3) of this section in such manner as the Governor may be regulations prescribe, and any advocate or solicitor";
+(b) for the word "Parliament" there shall be substituted the words "the legislature of the Territory";
+(c) the words "made by statutory instrument" shall be omitted.
+(6) After subsection (5) of section 3 there shall be inserted the following subsection - "(6) In this section - 'advocate' means, in relation to proceedings before any court, a legal practitioner who has a right of audience in that court; and 'solicitor' means, in relation to proceedings before any court, a legal practitioner who has a right to instruct an advocate in such proceedings."
