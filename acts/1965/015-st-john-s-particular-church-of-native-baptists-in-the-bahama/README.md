@@ -1,0 +1,19 @@
+# St. John’s Particular Church of Native Baptists in The Bahamas Incorporation Act
+
+Statute Law of The Bahamas, Act, legislation number 1965-0015; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1965/1965-0015/1965-0015_1.pdf
+
+Commenced: 1965-03-31. Laws the edition lists: Act 15 of 1965.
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. |
+| [s-002](s-002.md) | 2. |
+| [s-003](s-003.md) | 3. |
+| [s-004](s-004.md) | 4. |
+| [s-005](s-005.md) | 5. |
+| [s-006](s-006.md) | 6. |
+| [s-007](s-007.md) | 7. |
+| [s-008](s-008.md) | 8. |
+| [s-009](s-009.md) | 9. |
+| [s-010](s-010.md) | 10. |
+| [s-011](s-011.md) | 11. |
