@@ -1,0 +1,41 @@
+# Schedule - IV
+BAHAMA ISLANDS,
+NEW PROVIDENCE.
+AN AGREEMENT made the tenth day of December in the year of Our Lord One thousand Nine hundred and Thirty-seven BETWEEN The Honourable James Henry Jarrett one of His Majesty's Counsel for the Bahama Islands, Colonial Secretary of the Bahama Islands, acting for and on behalf of the Government of the said Bahama Islands (hereinafter called the Government which expression shall include the present and successive persons in office of Colonial Secretary and his assigns) of the one part AND The Colonial Hotel Company Limited a Company incorporated under the Laws of and carrying on business within the Bahama Islands and having its registered office in the City of Nassau in the Island of New Providence (hereinafter called the Company) of the other part:
+WHEREBY IT IS AGREED BETWEEN THE PARTIES HERETO AS follows:
+In this Agreement:
+"Annual Hotel Year" means the twelve months ending the Thirty-first day of May in any year.
+"Hotel" means the property known as the British Colonial Hotel and includes all buildings thereon (including the building known as the Hotel Nassau being servants' quarters) used in connection therewith together with all equipment, furnishing and accessories.
+"Management" means a person or corporation delegated by the Company to operate the Hotel on behalf of the Company.
+1. The Company Agrees:
+(a) To operate the Hotel or cause the Hotel to be operated as a first Class Hotel during the currency of this Agreement for a period of not less than twelve weeks in every year:
+Provided that:
+(1) If the Company satisfies the Government before the first day of October in any year that it is unlikely to be able to operate the Hotel or cause the Hotel to be operated during the ensuing season without incurring substantial loss or if between the first day of October in any year and the ensuing season or during the season the Company will be prejudiced by the operation of the Hotel during the season or any part thereof by reason of the Act of God, war, pestilence or fire; or if the Company at any time during a seasonal operation satisfies the Government that there is insufficient business to justify the Hotel being operated for the full period of twelve weeks the Government may permit the Hotel to be closed for the whole season or authorize the reduction of the said period of twelve weeks or may operate or cause the Hotel to be operated for that season or part thereof but the Government shall not be liable to account to the Company for the proceeds of any profits arising out of any such operation of the Hotel by the Government;
+(2) if the Company without first obtaining the authority of the Government as required by sub-clause (1) of this Clause fails to operate the Hotel as required in sub-clause (a) the Government shall have the right to enter into possession of the Hotel for the said period of twelve weeks or the unexpired part thereof and operate the Hotel or delegate the operation of the Hotel and will return possession of the Hotel to the Company as soon as possible after the expiration of such period but not later than the first day of May following the said period. While in possession for the said period of twelve weeks or the unexpired part thereof the Government shall keep the Hotel in good and tenantable repair and condition (reasonable wear, and damage by fire, and/or hurricane excepted);
+(3) in the event of the appointment of a Receiver of the Company or of its going into bankruptcy, or if any execution attachment or Writ is served upon the Company or its interest in the Hotel and is not discharged or bonded against within thirty days or if for any other cause within the control of the Company it shall fail to operate or cause the Hotel to be operated the Government shall have the right to enter into possession of the Hotel and exercise any of its rights as Mortgagees.
+(b) In the event of the Company deciding to delegate the operation of the Hotel the Company shall prepare and submit to the Government for approval the document setting out the terms and conditions on which it is proposed to delegate its obligations to the management;
+(c) to keep the Hotel in good condition and repair and to renovate the property both real and personal throughout the currency of the Agreement;
+(d) to prepare and keep an inventory of the furniture effects utensils and things together with all fixtures and fittings comprised in the Indenture of Mortgage dated the 10th day of December A.D. 1937, and made between The Colonial Hotel Company Limited of the one part and The Treasurer of the Bahama Islands of the other part (hereinafter called the said Indenture of Mortgage) to secure the repayment of the prinicipal sum of One hundred and Thirty thousand pounds with interest thereon as in the said Indenture set out;
+(e) that the Government shall have the right by a regularly appointed officer to enter upon and inspect the said Hotel and the inventory of and contents thereof at such times as may seem proper to the Government;
+(f) that the premises forming the said Hotel shall not be let used or occupied for any other purpose than that of a Hotel or customary accessories without the written consent of the Government;
+AND IT IS HEREBY FURTHER AGREED BETWEEN THE PARTIES HERETO as follows:
+That the Government will use its best endeavours to ensure that the guests of the Hotel will at all times be privileged to enjoy the privileges of membership of the Bahamas Country Club on the same terms and conditions imposed by the Rules of the said Club upon members and guests thereof and to ensure that the Company be permitted to organise for development and publicity purposes an annual golf tournament to take place on the eighteen hole Golf Course of the said Bahamas Country Club.
+AND IT IS HEREBY AGREED AND DECLARED THAT:
+(a) All differences and disputes which may arise between the parties hereto under this Agreement shall be referred to a single arbitrator in case the parties agree upon one; otherwise to two arbitrators, one to be appointed by each party under a Chairman appointed by the parties or in the event of dispute as to such appointment, under a Chairman to be appointed by the Chief Justice. Such a Chairman shall have a casting vote and a decision of any such arbitration shall be final. The procedure to be followed in any such arbitration as aforesaid shall be that provided in the Arbitration Acts of the Bahama Islands.
+(b) This Agreement shall be construed and interpreted according to the Laws of the Bahama Islands and may be sued on in any Court of Law therein having jurisdiction to decide any cause or matter arising between the parties hereto.
+(c) This Agreement shall remain in force until the 31st day of May 1953 unless the Company shall before that date pay the sum of One hundred and Thirty thousand pounds as provided for in the said Indenture of Mortgage in which event this Agreement shall forthwith terminate and cease to have any effect, save and except the Agreement hereinbefore contained by the Government with reference to the Bahamas Country Club and an annual Golf tournament.
+IN WITNESS WHEREOF The Honourable James Henry Jarrett, one of His Majesty's Counsel for the Bahama Islands, Colonial Secretary of the Bahama Islands, bath hereunto set his hand and seal at the said City of Nassau and the Colonial Hotel Company Limited have caused their Common Seal to be hereunto affixed the day and year first hereinbefore written.
+(L.S.) (Sgd.) J. H. JARRETT,
+Colonial Secretary.
+Signed, Sealed and Delivered by the said Honourable James Henry Jarrett, K.C., in the presence of,
+(Sgd.) J. B. GRIFFIN,
+(L.S.) (Sgd.) CHARLES M. MOON,
+President,
+The Colonial Hotel Company Limited.
+(Sgd.) T. A. LUCCHESI,
+Secretary-Treasurer.
+The Colonial Hotel Company Limited.
+The Common Seal of the Colonial Hotel Company Limited was affixed hereto by Charles Morris Moon, the President of the Colonial Hotel Company Limited and the said Charles Morris Moon and Theodore Ameargo Lucchesi, the Secretary-Treasurer of the said Company, affixed their signatures hereto on the tenth day of December in the year of Our Lord One thousand Nine hundred and Thirty-seven in the presence of,
+(Sgd.) CHAS. P. BETHEL,
+Assistant Colonial Secretary,
+Bahamas.
