@@ -1,0 +1,14 @@
+# Road Traffic and Speed Limit (Kemps Bay, Andros) Regulations
+
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1969-0004; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1969/1969-0004/1969-0004_1.pdf
+
+Made under the Act numbered 1958-0057 in the publisher's index.
+
+Commenced: 1969-03-01. Laws the edition lists: S.I. 4/1969.
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. |
+| [s-002](s-002.md) | 2. |
+| [s-003](s-003.md) | 3. |
+| [s-004](s-004.md) | 4. |
