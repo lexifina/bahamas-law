@@ -1,0 +1,2 @@
+# First Schedule - (Section 2)
+ALL that piece parcel or lot of land situate on the Settlement of Hope Town in the Island of Elbow Cay which said piece parcel or lot of land is bounded on the north by land the property of Hutchins Malone and running thereon one hundred and fifteen (115) feet, on the east by a public road and running thereon forty-nine (49) feet, on the south by land the property of the said Charles Sumner Dolley and running thereon one hundred and twenty-three (123) feet, and on the west by a public road and running thereon fifty (50) feet.
