@@ -1,0 +1,5 @@
+ROAD TRAFFIC [Original Service 2001] 4.
+Any person who contravenes or fails to comply with these Regulations shall be guilty of an offence and shall be liable on summary conviction, in the case of a first offence, to a fine of one hundred dollars or to imprisonment for a term not exceeding three months, and in the case of a second or subsequent offence, to a fine of two hundred dollars or to imprisonment for a term not exceeding six months.
+APPLICATION OF ACT (SECTION 103(1)) The Governor-General by Order has applied the whole of the Road Traffic Act to the Out Islands except the provisions of section 70 (2).
+Offences.
+G.N. 192/1958 G.N. 263/1966 G.N. 111/1961
