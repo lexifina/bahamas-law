@@ -1,0 +1,155 @@
+# First Schedule - (Regulation 2(1))
+Building Materials
+1. Aggregate
+2. Bar Joists (Steel)
+3. Beading (Wood, Ceramic)
+4. Bolts
+5. Caulking
+6. Cement
+7. Clamps (Metal)
+8. Colour Additive (Concrete)
+9. Corian
+10. Decking (Steel, Wood)
+11. Doors & Frames
+12. Duro-Wall (Reinforcement for Masonry Walls)
+13. Felt
+14. Fire Hose Reels & Cabinets
+15. Fire Hoses
+16. Fire Suppression System (Water, Chemical)
+17. Flashing (Copper)
+18. Formica
+19. Glass
+20. Glue (Epoxy, Carpenter's)
+21. Grout
+22. Gutters
+23. Hinges
+24. Hurricane clips
+25. Insulation
+26. Joint tape
+27. Joist hangers
+28. Kitchen Cabinets
+29. Lag Bolts
+30. Lally Columns
+31. Lattice (wood)
+32. Lime
+33. Locks
+34. Lumber
+35. Metal Lath
+36. Molding & Trimmings
+37. Nails
+38. Nuts
+39. Particle (Fibre) Board
+40. Paver Stones (SPECIALIZED ONLY)
+41. Plywood
+42. Railings (Metal, Wood, PVC)
+43. Rods (Threaded)
+44. Roof Tiles (Cement, Clay, Metal)
+45. Roof Trusses
+46. Screen (Insect)
+47. Screws
+48. Sheetrock
+49. Shingles (Asphalt, Wood)
+50. Sills
+51. Solder
+52. Sonotube (Cardboard Concrete Formwork)
+53. Staircase (Prefabricated)
+54. Staples (Construction)
+55. Steel (Reinforcement, Sections, Channels, Angles)
+56. Suspended Ceilings
+57. Tabs
+58. Tennis Court Material (excluding paints)
+59. Tire Wire (Reinforcement)
+60. Tile Cement
+61. Tiles (Ceramic, Vinyl, Acoustic, Marble)
+62. Vanities
+63. Visqueen (Plastic Sheets)
+64. Windows
+65 Wire Mesh (Steel)
+Electrical Materials
+1. Air conditioners
+2. Air conditioning Ducts (Metal Flexible)
+3. Air Diffuser (Air conditioning)
+4. Cable (Electric)
+5. Capacitors (Electric)
+6. Circuit Breakers
+7. Contractors
+8. Control Panels (Electric)
+9. Fan Coil (Refrigeration)
+10. Fans (Ceiling, Exhaust)
+11. Fuse Boxes
+12. Generators
+13. Junction Boxes
+14. Light Fixtures
+15. Relays
+16. Sensors
+17. Switch Gear
+18. Switches (Electric)
+19. Transformers
+20. Vents (Air conditioning)
+21. Wire (Electric)
+22. Pipes (PVC, Copper, Aluminum, Galvanized, etc.)
+Equipment
+1. Air Handlers
+2. BBQ Grill
+3. Blender (Industrial)
+4. Charbroiler
+5. China (Dining)
+6. Coffee Maker (Industrial)
+7. Compressor (Refrigeration)
+8. Computers
+9. Condensing Units (Air conditioners, Freezers, etc.)
+10. Copier Machine
+1. Cutlery
+12. Dryer (Clothes)
+13. Evaporators (Refrigeration)
+14. Facsimile Machine
+15. Fire Extinguishers (Portable)
+16. Food Processor (Industrial
+17. Freezers
+18. Fryers
+19. Ice Machine
+20. Juice Machine (Industrial)
+21. Kettles (Floor Mounted)
+22. Laundry Trucks
+23. Oven
+24. Range
+25. Refrigerator
+26. Satellite
+27. Stereo Equipment
+28. Stove
+29. Televisions
+30. Thermostats
+31. Toaster (Industrial)
+32. Washing Machine
+33. Water Cooler
+34. Water Dispensers
+Entertainment Equipment
+1. Audible Public Address Sound Systems 2. Backgammon Tables 3. Disco Sound & Lighting Equipment 4. Fixed Public Address Sound Equipment 5. Tennis Court Lighting 6. Umpires Chairs
+Furniture
+1. Bed Furnishings 2. Bedroom sets (Excluding Mattresses & Box Springs) 3. Carpet 4. Chairs 5. Coffee Tables 6. Fabric (Upholstery) 7. Lamps 8. Linen (Dining Room) 9. Lockers (Staff, Sports) 10. Side Tables 11. Stools 12. Tables 13. Window blinds
+Landscape Materials
+1. Greenhouse Cloth
+2. Irrigation Equipment
+3. Peat Moss
+4. Pebbles
+Plumbing Materials
+1. Backflow Preventers
+2. Bathroom Fittings
+3. Bathtubs
+4. Coupling (PVC, Metal)
+5. Faucets
+6. Gaskets
+7. Grease Traps (Prefabricated)
+8. Lavatories
+9. Lift Stations
+10. Pressure Gauges
+11. Pumps (Water)
+12. PVC Tape
+13. Sealants
+14. Showers
+15. Toilets
+16. Urinals
+17. Valves
+18. Water Heaters
+19. Water Tanks (Steel, Fibreglass, Aluminum, etc.)
+20. Pipes (PVC, Copper, Aluminum, Galvanized, etc.)
