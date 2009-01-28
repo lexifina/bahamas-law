@@ -1,0 +1,13 @@
+# Second Schedule
+(Regulation 3)
+THE AIRPORTS (CUSTOMS DUTIES AND EXCISE TAX EXEMPTION) ACT
+FORM
+APPLICATION FOR CUSTOMS DUTIES AND EXCISE
+TAX EXEMPTION
+To: Financial Secretary, Ministry of Finance. I .............................................................................................
+of .............................................................................................
+am responsible for the development of the ..................................
+............................................................................................. I hereby apply for customs duties and excise tax exemption with respect to the under-mentioned goods. Description Estimated quantity
+[ ] TICK WHERE APPLICABLE
+[here list the relevant goods specified in Schedule 1 of the Regulations, and the quantities for which tax exemption is claimed]
+Signature of Applicant ................................................................. Date .............................................................................................

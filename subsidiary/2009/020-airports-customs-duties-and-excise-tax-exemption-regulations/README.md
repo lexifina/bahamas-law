@@ -1,0 +1,14 @@
+# Airports (Customs Duties and Excise Tax Exemption) Regulations
+
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0020; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0020/2009-0020_1.pdf
+
+Made under the Act numbered 2008-0017 in the publisher's index.
+
+Commenced: 2009-01-28. Laws the edition lists: S.I. 20/2009.
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. |
+| [s-002](s-002.md) | 2. |
+| [s-003](s-003.md) | 3. |
+| [schedule-2](schedule-2.md) | Second Schedule |
