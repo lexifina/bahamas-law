@@ -1,0 +1,11 @@
+# Schedule - 3
+FUNDING OF THE TRIBUNAL
+(1) To the extent that they are not met by sums collected in accordance with section 10(2), the expenses of the Tribunal and the salaries and allowances of the President, Registrar and members of the Tribunal (the 'relevant expenditure') shall be paid out of sums collected in accordance with this Schedule.
+(2) The Registrar shall, at the direction of the President, within three months after establishment of the Tribunal publish and certify as reasonable an estimate of the anticipated relevant expenditure of the Tribunal for the first period of at least twelve months ending on 31 December following establishment of the Tribunal.
+(3) For each subsequent period of twelve months ending on 31 December (each being a 'relevant period') the Registrar shall, at the direction of the President, publish and certify as reasonable an estimate of the anticipated relevant expenditure of the Tribunal for the relevant period based on -
+(a) actual relevant expenditure properly incurred by the Tribunal in exercise of its functions and powers during the previous twelve months, and
+(b) an estimate of any additional or extraordinary relevant expenditure reasonably anticipated by the Registrar during the relevant period.
+(4) Any estimate published and certified by the Registrar in accordance with paragraphs (2) and (3) shall indicate whether any element of anticipated relevant expenditure relates specifically to one or more regulated sectors so that URCA may in levying and collecting the Tribunal Fee under paragraph (5) apportion that Tribunal Fee between regulated sectors.
+(5) As soon as reasonably practicable and in any event within three (3) months after publication of the Registrar's estimate in accordance with paragraphs (2) and (3) shall demand and collect from all licensees or regulated persons in the regulated sectors a fee (the 'Tribunal Fee').
+(6) All sums demanded and collected by URCA under paragraph (5) shall be paid to the Registrar for the account of the Tribunal and those sums shall be applied by the Registrar to secure the efficient performance by the Tribunal of its functions and powers.
+(7) The Registrar shall retain any excess sums collected under this Schedule for application to relevant expenditure during the next or any subsequent relevant period.
