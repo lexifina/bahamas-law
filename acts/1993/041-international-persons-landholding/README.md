@@ -1,8 +1,8 @@
 # International Persons Landholding Act
 
-Statute Law of The Bahamas, Act, legislation number 1993-0041; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1993/1993-0041/1993-0041_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1993-0041; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1993/1993-0041/1993-0041_2.pdf
 
-Commenced: 1994-01-01. Laws the edition lists: Act 41 of 1993, Act 12 of 1995, Act 32 of 1995, S.I. 36/2005, S.I. 61/2007, Act 26 of 2009, Act 31 of 2009.
+Commenced: 1994-01-01. Laws the edition lists: Act 41 of 1993, Act 12 of 1995, Act 32 of 1995, S.I. 36/2005, S.I. 61/2007, Act 26 of 2009, Act 31 of 2009, Act 9 of 2011.
 
 | File | Provision |
 | --- | --- |
