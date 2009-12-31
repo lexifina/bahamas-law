@@ -1,8 +1,8 @@
 # Criminal Procedure (Plea Discussion and Plea Agreement) Act
 
-Statute Law of The Bahamas, Act, legislation number 2008-0032; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2008/2008-0032/2008-0032_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2008-0032; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2008/2008-0032/2008-0032_2.pdf
 
-Commenced: 2008-12-22. Laws the edition lists: Act 32 of 2008.
+Commenced: 2008-12-22. Laws the edition lists: Act 32 of 2008, Act 9 of 2011.
 
 | File | Provision |
 | --- | --- |
@@ -22,7 +22,5 @@ Commenced: 2008-12-22. Laws the edition lists: Act 32 of 2008.
 | [s-014](s-014.md) | 14. Appeal against sentence |
 | [s-015](s-015.md) | 15. Inadmissable evidence |
 | [s-016](s-016.md) | 16. Plea agreement not binding on the Court |
-| [s-017](s-017.md) | 17. Taking outstanding offences into consideration |
+| [s-017](s-017.md) | 17. Taking outstanding offences into consideration. SCHEDULE FORM 1 |
 | [schedule-1](schedule-1.md) | Schedule |
-| [schedule-2](schedule-2.md) | Schedule |
-| [schedule-3](schedule-3.md) | Schedule |
