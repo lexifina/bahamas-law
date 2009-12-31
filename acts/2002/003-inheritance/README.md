@@ -1,8 +1,8 @@
 # Inheritance Act
 
-Statute Law of The Bahamas, Act, legislation number 2002-0003; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0003/2002-0003_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2002-0003; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0003/2002-0003_2.pdf
 
-Commenced: 2002-02-01. Laws the edition lists: Act 3 of 2002.
+Commenced: 2002-02-01. Laws the edition lists: Act 3 of 2002, Act 9 of 2011.
 
 | File | Provision |
 | --- | --- |
@@ -28,7 +28,7 @@ Commenced: 2002-02-01. Laws the edition lists: Act 3 of 2002.
 | [s-020](s-020.md) | 20. Property held on a joint tenancy |
 | [s-021](s-021.md) | 21. Effect, duration and form of orders |
 | [s-022](s-022.md) | 22. Provisions as to personal representatives |
-| [s-023](s-023.md) | 23. Interpretation of Part III. PART IV SUPPLEMENTAL |
+| [s-023](s-023.md) | 23. Interpretation of Part III |
 | [s-024](s-024.md) | 24. Protection against eviction from matrimonial home of spouse |
 | [s-025](s-025.md) | 25. Protection against eviction from matrimonial home of child |
 | [s-026](s-026.md) | 26. |
