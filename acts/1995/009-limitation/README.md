@@ -1,8 +1,8 @@
 # Limitation Act
 
-Statute Law of The Bahamas, Act, legislation number 1995-0009; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1995/1995-0009/1995-0009_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1995-0009; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1995/1995-0009/1995-0009_2.pdf
 
-Commenced: 1995-08-31. Laws the edition lists: Act 9 of 1995.
+Commenced: 1995-08-31. Laws the edition lists: Act 9 of 1995, Act 42 of 2009.
 
 | File | Provision |
 | --- | --- |
@@ -47,7 +47,7 @@ Commenced: 1995-08-31. Laws the edition lists: Act 9 of 1995.
 | [s-039](s-039.md) | 39. Formal provisions as to acknowledgements and part payments. Fraud, Mistake and Deliberate Concealment |
 | [s-040](s-040.md) | 40. Effect of acknowledgement or part payment on persons other than the maker or recipient |
 | [s-041](s-041.md) | 41. Postponement of limitation period in case of fraud, mistake or concealment. PART IV GENERAL |
-| [s-042](s-042.md) | 42. Application of Act and other limitation written laws to arbitrations |
+| [s-042](s-042.md) | 42. |
 | [s-043](s-043.md) | 43. Provisions as to set-off or counterclaim |
 | [s-044](s-044.md) | 44. Acquiescence |
 | [s-045](s-045.md) | 45. Application to the Crown |
