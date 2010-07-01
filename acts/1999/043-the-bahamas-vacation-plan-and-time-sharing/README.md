@@ -1,8 +1,8 @@
 # The Bahamas Vacation Plan and Time-Sharing Act
 
-Statute Law of The Bahamas, Act, legislation number 1999-0043; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1999/1999-0043/1999-0043_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1999-0043; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1999/1999-0043/1999-0043_2.pdf
 
-Commenced: 2000-01-12. Laws the edition lists: Act 43 of 1999.
+Commenced: 2000-01-12. Laws the edition lists: Act 43 of 1999, S.I. 75/2010.
 
 | File | Provision |
 | --- | --- |
@@ -38,8 +38,8 @@ Commenced: 2000-01-12. Laws the edition lists: Act 43 of 1999.
 | [s-030](s-030.md) | 30. Developing owner to provide insurance |
 | [s-031](s-031.md) | 31. Escrow fund |
 | [s-032](s-032.md) | 32. Sinking fund |
-| [s-033](s-033.md) | 33. |
-| [s-034](s-034.md) | 34. |
+| [s-033](s-033.md) | 33. Trust fund |
+| [s-034](s-034.md) | 34. Assurances |
 | [s-035](s-035.md) | 35. Books and records |
 | [s-036](s-036.md) | 36. Inspection of books and records |
 | [s-037](s-037.md) | 37. Occupancy tax. PART VI INSPECTION |
