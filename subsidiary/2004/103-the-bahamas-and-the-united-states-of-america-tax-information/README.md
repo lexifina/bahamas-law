@@ -1,10 +1,10 @@
 # The Bahamas and the United States of America Tax Information Exchange Agreement Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2004-0103; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2004/2004-0103/2004-0103_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2004-0103; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2004/2004-0103/2004-0103_2.pdf
 
 Made under the Act numbered 2003-0022 in the publisher's index.
 
-Commenced: 2004-12-17. Laws the edition lists: S.I. 103/2004.
+Commenced: 2004-12-17. Laws the edition lists: S.I. 103/2004, S.I. 91/2010.
 
 | File | Provision |
 | --- | --- |
@@ -24,3 +24,5 @@ Commenced: 2004-12-17. Laws the edition lists: S.I. 103/2004.
 | [s-014](s-014.md) | 14. Residuary power to regulate proceedings |
 | [s-015](s-015.md) | 15. Examiner's report |
 | [s-016](s-016.md) | 16. Authentication of documents |
+| [s-017](s-017.md) | 17. Request for Interview |
+| [s-018](s-018.md) | 18. Conducting the interview |
