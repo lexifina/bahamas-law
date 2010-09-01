@@ -1,10 +1,10 @@
 # Banks and Trust Companies (Temporary Business Continuity Operations) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0033; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0033/2009-0033_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0033; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0033/2009-0033_2.pdf
 
 Made under the Act numbered 2020-0022 in the publisher's index.
 
-Commenced: 2009-02-20. Laws the edition lists: S.I. 33/2009.
+Commenced: 2009-02-20. Laws the edition lists: S.I. 33/2009, Act 23 of 2010.
 
 | File | Provision |
 | --- | --- |
