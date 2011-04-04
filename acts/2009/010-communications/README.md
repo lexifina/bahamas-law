@@ -1,8 +1,8 @@
 # Communications Act
 
-Statute Law of The Bahamas, Act, legislation number 2009-0010; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2009/2009-0010/2009-0010_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2009-0010; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2009/2009-0010/2009-0010_2.pdf
 
-Commenced: 2009-09-01. Laws the edition lists: Act 10 of 2009.
+Commenced: 2009-09-01. Laws the edition lists: Act 10 of 2009, Act 5 of 2011.
 
 | File | Provision |
 | --- | --- |
@@ -118,8 +118,9 @@ Commenced: 2009-09-01. Laws the edition lists: Act 10 of 2009.
 | [s-110](s-110.md) | 110. Jurisdiction of the Tribunal |
 | [s-111](s-111.md) | 111. Appeals |
 | [s-112](s-112.md) | 112. Sector policy |
+| [s-112-a](s-112-a.md) | 112A. Minister may publish amendments to first sector policy |
 | [s-113](s-113.md) | 113. Transitional provisions as to licences |
-| [s-114](s-114.md) | 114. The Bahamas Telecommunications Company |
+| [s-114](s-114.md) | 114. Transitional provisions as to The Bahamas Telecommunications Company |
 | [s-115](s-115.md) | 115. Public service broadcaster |
 | [s-116](s-116.md) | 116. Interim presumptions of SMP |
 | [s-117](s-117.md) | 117. Use of spectrum for maritime or aviation purposes |

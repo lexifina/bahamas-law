@@ -1,6 +1,7 @@
 # Schedule - 2
 LAND ACCESS
-PART I - PROCEDURE FOR OBTAINING A LICENCE TO ACCESS LAND OTHER THAN PUBLIC LAND
+PART I - PROCEDURE FOR OBTAINING A LICENCE TO ACCESS LAND OTHER THAN
+PUBLIC LAND
 1. Interpretation.
 In this Schedule -
 "licensee" means -
@@ -10,7 +11,7 @@ In this Schedule -
 (ii) any person meeting the criteria for general entitlement and to whom URCA has by determination stated that this Schedule shall apply;
 "licensee's notice" means a notice served by a licensee under subparagraph 2(1) of paragraph 2 or subparagraph 3(1) of paragraph 3 of this Schedule;
 "occupier" in relation to land means the person in actual possession of that land, or if there is no such person, then whoever is entitled to such possession, and in the case of land of which no person is currently in actual possession the person in whom the fee simple of that land is vested shall be deemed to be entitled to such possession; and
-"persons interested" in land includes every person claiming an interest whether on his own behalf or as trustee for other persons beneficially interested, or as guardian of a minor or committee of a person under a legal disability. but does not include a yearly tenant or tenant by the month or at will.
+"persons interested" in land includes every person claiming an interest whether on his own behalf or as trustee for other persons beneficially interested, or as guardian of a minor or committee of a person under a legal disability but does not include a yearly tenant or tenant by the month or at will.
 2. Access to land for the purposes of an electronic communications network where commercial terms cannot be agreed.
 (1) Subject as provided in this Schedule, whenever a licensee considers it necessary for the purposes of its network to -
 (a) construct or install on, under or over any land, other than public land, any facilities;
@@ -31,7 +32,7 @@ and any licence or consent required for those purposes cannot be obtained by agr
 (b) the carrying out of the works specified in the licensee's notice;
 (c) the licensee's proposals for payment of consideration for the grant of the licence or consent; and
 (d) the licensee's proposals for payment of compensation.
-(5) If no counter-notice is given under and within the time limit specified by subparagraph (4) the licensee shall be deemed to have been granted the licence or consent specified in the licensee's notice, and
+(5) If no counter-notice is given under and within the time limit specified by subparagraph (4) the licensee shall be deemed to have been granted the licence or consent specified in the licensee's notice, and -
 (a) may enter upon the relevant land and carry out the works; and
 (b) thereafter retain on the relevant land and operate the facilities constructed or installed in accordance with the licence or consent deemed to have been granted,
 provided that it has first paid to the person or persons entitled or lodged with the Tribunal to hold on behalf of the person or persons entitled a sum equal to the compensation and any consideration proposed in the licensee's notice.
@@ -47,7 +48,7 @@ provided that it has first paid to the person or persons entitled or lodged with
 (8) It shall be an offence punishable with a fine not exceeding twenty-five thousand dollars for a licensee to enter on the relevant land to take any steps or carry out any works pursuant to the licensee's notice before the earlier of -
 (a) withdrawal of all objections contained in any counter-notice given under subparagraph (4) by any owner or occupier of or person interested in the said land or any part of it; and
 (b) the making of an order by the Tribunal under subparagraph (11) authorising such entry.
-(9) Upon receipt of the copy of the licensee's notice, a coy of the counter-notice and licensee's application provided under subparagraph (7) the Tribunal shall -
+(9) Upon receipt of the copy of the licensee's notice, a copy of the counter-notice and licensee's application provided under subparagraph (7) the Tribunal shall -
 (a) fix a date for the hearing of the objections by any person who gave a counter-notice under subparagraph (4) having due regard to the then believed whereabouts within or without The Bahamas of any person who gave a counter-notice; and
 (b) cause notices of such hearing accompanied by copies of the documents lodged under subparagraph (7) to be served upon all such persons or their authorised agents personally, by registered post or by substituted service as the Tribunal may deem fit.
 (10) If any objection contained in a counter-notice given under subparagraph (4) is not withdrawn before the date fixed for the hearing the Tribunal shall hold an inquiry regarding all objections to matters contained in a licensee's notice that remain outstanding, giving all parties concerned with any such objection an opportunity to be heard and the Tribunal may adjourn such inquiry from time to time as it may deem fit in the interests of the proper administration of justice.
@@ -87,7 +88,7 @@ PART II - RIGHTS TO ENTER LAND
 (c) in the course of those works, fell or lop trees, remove vegetation; and
 (d) do all other things necessary to the said purpose,
 causing as little damage or disturbance as possible and paying full compensation to the occupier and any persons interested for any damage or disturbance that may be caused thereby.
-PART III COMPENSATION
+PART III - COMPENSATION
 1. Compensation payable under Part XIV of this Act.
 (1) In the absence of agreement between the parties the amount of compensation, if any, payable under the any provision of Part XIV of this Act shall be determined and awarded by the Tribunal having due regard to the principles set out in section 28 of the Acquisition of Land Act.
 (2) If any person is aggrieved by the judgement of the amount of any compensation awarded under the provisions of this paragraph, it may appeal to the Court of Appeal within such time and in such manner as may be provided by rules made under section 8 of the Court of Appeal Act.
