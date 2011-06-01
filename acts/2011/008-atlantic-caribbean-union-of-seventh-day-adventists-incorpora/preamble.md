@@ -1,0 +1,1 @@
+WHEREAS the Atlantic Caribbean Union of Seventh-Day Adventists is established for the teaching and spreading of belief in the Bible, the Moral Laws of God, the Fatherhood of God and the brotherhood of Man, and to safeguard and transmit to posterity the purity and righteousness of the precepts and teachings of the Seventh-Day Adventist Church:
