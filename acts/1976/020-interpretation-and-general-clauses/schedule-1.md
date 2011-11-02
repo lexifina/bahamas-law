@@ -1,0 +1,4 @@
+# Schedule - (Section 3)
+BOUNDARIES OF THE CITY OF NASSAU
+All that part of New Providence bounded on the north by the Harbour of Nassau, on the east by Mackey Street, on the south by an imaginary line starting at a point approximately three hundred and eighty yards to the south of the junction of Mackey Street and Shirley Street and continuing in a straight line to the south-east corner of the grounds of the Princess Margaret Hospital, thence south-westerly to Prison Lane, thence to the division wall between the Barracks and the Prison, thence in a straight line westwardly to the junction of Dillet Street and Blue Hill Road and following the centre of Dillet Street and Meeting Street to Nassau Street, and on the west by Nassau Street.
+The City of Nassau shall also include the whole of Paradise Island, also Potters Cay and all other islets and cays in the Harbour of Nassau.
