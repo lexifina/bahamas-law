@@ -1,6 +1,6 @@
 # Schedule - (Section 13 and 15(2))
 FORM A
-IMPORT CERTIFICATE (DANGEROUS DRUGS ACT, 2000)
+IMPORT CERTIFICATE (DANGEROUS DRUGS ACT)
 SINGLE CONVENTION
 CERTIFICATE OF OFFICIAL APPROVAL OF IMPORT
 Serial No ................... File No ......................
@@ -57,13 +57,10 @@ This authorisation is issued subject to the following conditions:
 SCHEDULE specifying the drugs and quantities thereof to be imported.
 This authorisation is not to leave the possession of the importer until it is surrendered to the Minister or to the Customs Officer, who will complete the certificate on the back and return the authorisation to the Minister. Signature mark and Station of customs Officer.
 This authorisation, when all the drugs to which it relates have been imported, must be returned by the Customs officer to the
-ENDORSEMENT BY CUSTOMS OFFICER AT THE TIME OF IMPORTATION Parcel No. Customs entry or
+ENDORSEMENT BY CUSTOMS OFFICER AT THE TIME OF IMPORTATION Parcel No.
 registered parcel insured box post. How Imported. e.g., ex ........... (in the case of a ship) or by post or by
-Quality.
-Number and date of Export
-Authorisation.
-Description imported. of drugs
-Date. Minister.
+imported.
+Minister.
 FORM D (Section 17(1))
 LICENCE FOR THE REMOVAL OF DANGEROUS
 DRUGS IN TRANSIT (DANGEROUS DRUGS ACT, 2000)

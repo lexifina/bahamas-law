@@ -1,8 +1,8 @@
 # Dangerous Drugs Act
 
-Statute Law of The Bahamas, Act, legislation number 2000-0043; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2000/2000-0043/2000-0043_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2000-0043; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2000/2000-0043/2000-0043_2.pdf
 
-Commenced: 2000-12-29. Laws the edition lists: Act 43 of 2000.
+Commenced: 2000-12-29. Laws the edition lists: Act 43 of 2000, Act 39 of 2011.
 
 | File | Provision |
 | --- | --- |
@@ -39,6 +39,7 @@ Commenced: 2000-12-29. Laws the edition lists: Act 43 of 2000.
 | [s-031](s-031.md) | 31. Power of arrest |
 | [s-032](s-032.md) | 32. Forfeiture of dangerous drugs |
 | [s-033](s-033.md) | 33. Forfeiture of property, etc., used in connection with offence |
+| [s-033-a](s-033-a.md) | 33A. Remission of Sentence |
 | [s-034](s-034.md) | 34. Power of Minister to make rules generally |
 | [s-035](s-035.md) | 35. |
 | [s-036](s-036.md) | 36. |
