@@ -1,8 +1,8 @@
 # The Bahamas and the United States of America Tax Information Exchange Agreement Act
 
-Statute Law of The Bahamas, Act, legislation number 2003-0022; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2003/2003-0022/2003-0022_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2003-0022; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2003/2003-0022/2003-0022_2.pdf
 
-Commenced: 2004-01-01. Laws the edition lists: Act 22 of 2003.
+Commenced: 2004-01-01. Laws the edition lists: Act 22 of 2003, Act 17 of 2010, Act 60 of 2011.
 
 | File | Provision |
 | --- | --- |
@@ -19,4 +19,5 @@ Commenced: 2004-01-01. Laws the edition lists: Act 22 of 2003.
 | [s-011](s-011.md) | 11. Advisory Committee |
 | [s-012](s-012.md) | 12. Judicial review |
 | [s-013](s-013.md) | 13. Regulations |
-| [s-014](s-014.md) | 14. The Crown. SCHEDULE - AGREEMENT BETWEEN THE GOVERNMENT OF THE COMMONWEALTH OF THE BAHAMAS AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR THE PROVISION OF INFORMATION WITH RESPECT TO TAXES AND FOR OTHER MATTERS |
+| [s-013-a](s-013-a.md) | 13A. Tax interviews and examinations |
+| [s-014](s-014.md) | 14. The Crown |
