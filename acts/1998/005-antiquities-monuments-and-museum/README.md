@@ -1,8 +1,8 @@
 # Antiquities, Monuments and Museum Act
 
-Statute Law of The Bahamas, Act, legislation number 1998-0005; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1998/1998-0005/1998-0005_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1998-0005; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1998/1998-0005/1998-0005_2.pdf
 
-Commenced: 1999-07-01. Laws the edition lists: Act 5 of 1998.
+Commenced: 1999-07-01. Laws the edition lists: Act 5 of 1998, Act 63 of 2011.
 
 | File | Provision |
 | --- | --- |
@@ -17,11 +17,12 @@ Commenced: 1999-07-01. Laws the edition lists: Act 5 of 1998.
 | [s-009](s-009.md) | 9. Assessment of compensation by Supreme Court. PART III ARTIFACTS |
 | [s-010](s-010.md) | 10. Certain artifacts to be property of Government. PART IV DISCOVERY AND EXCAVATION OF ANTIQUITIES |
 | [s-011](s-011.md) | 11. Discovery of Antiquities |
+| [s-011-a](s-011-a.md) | 11A. Reporting of underwater cultural heritage in the EEZ and the continental shelf |
 | [s-012](s-012.md) | 12. No excavation etc. of antiquities, without licence |
 | [s-013](s-013.md) | 13. Grant of licences |
 | [s-014](s-014.md) | 14. Rights of licensee |
 | [s-015](s-015.md) | 15. Cancellation of licence |
-| [s-016](s-016.md) | 16. Appeal against refusal of licence. PART V |
+| [s-016](s-016.md) | 16. Appeal against refusal of licence |
 | [s-017](s-017.md) | 17. Establishment of National Museum |
 | [s-018](s-018.md) | 18. Common Seal of the National Museum |
 | [s-019](s-019.md) | 19. Functions of the National Museum |
@@ -29,7 +30,7 @@ Commenced: 1999-07-01. Laws the edition lists: Act 5 of 1998.
 | [s-021](s-021.md) | 21. Secretary of the National Museum |
 | [s-022](s-022.md) | 22. Establishment of the Board |
 | [s-023](s-023.md) | 23. Pensions of persons transferred from the public service to the National Museum |
-| [s-024](s-024.md) | 24. Board to be subject to directions of Minister. PART VI FINANCIAL PROVISIONS |
+| [s-024](s-024.md) | 24. Board to be subject to directions of Minister |
 | [s-025](s-025.md) | 25. Funds and resources of the National Museum |
 | [s-026](s-026.md) | 26. Moneys deposited to General Account |
 | [s-027](s-027.md) | 27. Expenditure of gifts and grants |
@@ -37,7 +38,7 @@ Commenced: 1999-07-01. Laws the edition lists: Act 5 of 1998.
 | [s-029](s-029.md) | 29. Surplus moneys |
 | [s-030](s-030.md) | 30. Reserve Fund |
 | [s-031](s-031.md) | 31. Balancing of revenue account and surplus revenue |
-| [s-032](s-032.md) | 32. Accounts and audit. PART VII MISCELLANEOUS |
+| [s-032](s-032.md) | 32. Accounts and audit |
 | [s-033](s-033.md) | 33. |
 | [s-034](s-034.md) | 34. |
 | [s-035](s-035.md) | 35. Payments to be made from funds provided by Parliament |
