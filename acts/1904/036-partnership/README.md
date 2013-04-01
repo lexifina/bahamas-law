@@ -1,8 +1,8 @@
 # Partnership Act
 
-Statute Law of The Bahamas, Act, legislation number 1904-0036; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1904/1904-0036/1904-0036_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1904-0036; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1904/1904-0036/1904-0036_2.pdf
 
-Commenced: 1905-01-01. Laws the edition lists: Act 36 of 1904.
+Commenced: 1905-01-01. Laws the edition lists: Act 36 of 1904, Act 2 of 2013.
 
 | File | Provision |
 | --- | --- |
