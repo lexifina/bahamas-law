@@ -1,8 +1,8 @@
 # Clifton Heritage Authority Act
 
-Statute Law of The Bahamas, Act, legislation number 2004-0003; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2004/2004-0003/2004-0003_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2004-0003; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2004/2004-0003/2004-0003_2.pdf
 
-Commenced: 2005-04-12. Laws the edition lists: Act 3 of 2004.
+Commenced: 2005-04-12. Laws the edition lists: Act 3 of 2004, Act 16 of 2013.
 
 | File | Provision |
 | --- | --- |
