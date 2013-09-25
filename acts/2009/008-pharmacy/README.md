@@ -1,8 +1,8 @@
 # Pharmacy Act
 
-Statute Law of The Bahamas, Act, legislation number 2009-0008; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2009/2009-0008/2009-0008_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2009-0008; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2009/2009-0008/2009-0008_2.pdf
 
-Commenced: 2009-12-17. Laws the edition lists: Act 8 of 2009.
+Commenced: 2009-12-17. Laws the edition lists: Act 8 of 2009, Act 38 of 2013.
 
 | File | Provision |
 | --- | --- |
@@ -57,6 +57,6 @@ Commenced: 2009-12-17. Laws the edition lists: Act 8 of 2009.
 | [s-049](s-049.md) | 49. Penalty where no express penalty |
 | [s-050](s-050.md) | 50. Act binds Crown |
 | [s-051](s-051.md) | 51. Non-derogation from Ch. 228 |
-| [s-052](s-052.md) | 52. Amendments to other Acts |
+| [s-052](s-052.md) | 52. Savings |
 | [schedule-1](schedule-1.md) | First Schedule |
 | [schedule-2](schedule-2.md) | Second Schedule |
