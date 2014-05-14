@@ -1,18 +1,44 @@
 # Forestry Act
 
-Statute Law of The Bahamas, Act, legislation number 2010-0020; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2010/2010-0020/2010-0020_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2010-0020; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2010/2010-0020/2010-0020_2.pdf
 
-Commenced: 2011-01-04. Laws the edition lists: none.
+Commenced: 2011-01-04. Laws the edition lists: Act 20 of 2010, Act 6 of 2014.
 
 | File | Provision |
 | --- | --- |
-| [s-001](s-001.md) | 1. |
-| [s-002](s-002.md) | 2. |
-| [s-003](s-003.md) | 3. |
-| [s-004](s-004.md) | 4. |
-| [s-005](s-005.md) | 5. |
-| [s-006](s-006.md) | 6. |
-| [s-007](s-007.md) | 7. |
-| [s-008](s-008.md) | 8. |
-| [s-009](s-009.md) | 9. |
-| [schedule-1](schedule-1.md) | Schedule (Section 36) REPEALS Short Title Conservation & Protection of the Physical Landscape of The Bahamas Act (Ch. 260) Extent of Repeal Definitions of .. harvesting'' and .. protected tree" in section 2. |
+| [s-001](s-001.md) | 1. Short title |
+| [s-002](s-002.md) | 2. Interpretation |
+| [s-003](s-003.md) | 3. Establishment of a Forestry Unit |
+| [s-004](s-004.md) | 4. Responsibilities of the Director of Forestry |
+| [s-005](s-005.md) | 5. National forest plan |
+| [s-006](s-006.md) | 6. Declaration of a forest reserve |
+| [s-007](s-007.md) | 7. Declaration of protected forest |
+| [s-008](s-008.md) | 8. Declaration of a conservation forest |
+| [s-009](s-009.md) | 9. Forest management plans |
+| [s-010](s-010.md) | 10. Declaration of protected trees |
+| [s-011](s-011.md) | 11. Permit required for harvesting of protected trees |
+| [s-012](s-012.md) | 12. Application for grant of permit to harvest protected trees |
+| [s-013](s-013.md) | 13. Grant of permit to harvest protected trees |
+| [s-014](s-014.md) | 14. Suspension and revocation of permit |
+| [s-015](s-015.md) | 15. Appeal from decision of Director of Forestry |
+| [s-016](s-016.md) | 16. Obligation of holder on termination of permit |
+| [s-017](s-017.md) | 17. Leases, licences and permits |
+| [s-018](s-018.md) | 18. Terms of leases, licences and permits |
+| [s-019](s-019.md) | 19. Validity of leases, licences and permits |
+| [s-020](s-020.md) | 20. Assistance to owners of private lands |
+| [s-021](s-021.md) | 21. Harvesting of private forest land |
+| [s-022](s-022.md) | 22. Designation of authorised officers |
+| [s-023](s-023.md) | 23. Power of arrest |
+| [s-024](s-024.md) | 24. |
+| [s-025](s-025.md) | 25. Power to prosecute offenders |
+| [s-026](s-026.md) | 26. Power to inspect and seize |
+| [s-027](s-027.md) | 27. |
+| [s-028](s-028.md) | 28. Forest offences |
+| [s-029](s-029.md) | 29. Repeat offenders |
+| [s-030](s-030.md) | 30. Limitation Act not to apply |
+| [s-031](s-031.md) | 31. Obstruction of authorised officers |
+| [s-032](s-032.md) | 32. Compensation |
+| [s-033](s-033.md) | 33. Compounding of offences |
+| [s-034](s-034.md) | 34. Power to make Regulations |
+| [s-035](s-035.md) | 35. The Crown |
+| [s-036](s-036.md) | 36. Repealed |
