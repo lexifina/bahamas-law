@@ -1,8 +1,8 @@
 # Bridge Authority Act
 
-Statute Law of The Bahamas, Act, legislation number 1998-0009; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1998/1998-0009/1998-0009_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1998-0009; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1998/1998-0009/1998-0009_2.pdf
 
-Commenced: 1998-06-26. Laws the edition lists: Act 9 of 1998.
+Commenced: 1998-06-26. Laws the edition lists: Act 9 of 1998, Act 14 of 2013, Act 26 of 2014.
 
 | File | Provision |
 | --- | --- |
