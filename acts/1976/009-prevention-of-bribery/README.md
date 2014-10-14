@@ -1,14 +1,17 @@
 # Prevention of Bribery Act
 
-Statute Law of The Bahamas, Act, legislation number 1976-0009; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1976/1976-0009/1976-0009_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1976-0009; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1976/1976-0009/1976-0009_2.pdf
 
-Commenced: 1976-09-02. Laws the edition lists: Act 9 of 1976.
+Commenced: 1976-09-02. Laws the edition lists: Act 9 of 1976, Act 3 of 2014.
 
 | File | Provision |
 | --- | --- |
 | [s-001](s-001.md) | 1. Short title |
 | [s-002](s-002.md) | 2. Interpretation |
 | [s-003](s-003.md) | 3. Bribery |
+| [s-003-a](s-003-a.md) | 3A. Bribing a foreign public official |
+| [s-003-b](s-003-b.md) | 3B. Protection of Routine Acts |
+| [s-003-c](s-003-c.md) | 3C. Accounting |
 | [s-004](s-004.md) | 4. Bribery for giving assistance, etc., in regard to contracts |
 | [s-005](s-005.md) | 5. Bribery for procuring withdrawals of tenders |
 | [s-006](s-006.md) | 6. Bribery in relation to auctions |
