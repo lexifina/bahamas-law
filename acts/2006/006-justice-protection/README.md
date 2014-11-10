@@ -1,8 +1,8 @@
 # Justice Protection Act
 
-Statute Law of The Bahamas, Act, legislation number 2006-0006; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2006/2006-0006/2006-0006_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2006-0006; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2006/2006-0006/2006-0006_2.pdf
 
-Commenced: 2006-09-27. Laws the edition lists: Act 6 of 2006.
+Commenced: 2006-09-27. Laws the edition lists: Act 6 of 2006, S.I. 62/2006, Act 2 of 2014.
 
 | File | Provision |
 | --- | --- |

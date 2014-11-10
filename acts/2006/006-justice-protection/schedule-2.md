@@ -17,4 +17,8 @@ Kidnapping
 Any money laundering offence
 Offences under the Anti-Terrorism Act
 Offences under the Prevention of Bribery Act
-Any domestic violence offence.
+Any domestic violence offence
+Anti-gang offences
+Participation in an organized criminal group
+Obstruction of Justice
+Trafficking in persons.
