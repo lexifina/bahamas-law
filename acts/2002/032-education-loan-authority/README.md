@@ -1,8 +1,8 @@
 # Education Loan Authority Act
 
-Statute Law of The Bahamas, Act, legislation number 2002-0032; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0032/2002-0032_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2002-0032; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0032/2002-0032_2.pdf
 
-Commenced: 2003-02-13. Laws the edition lists: Act 32 of 2002.
+Commenced: 2003-02-13. Laws the edition lists: Act 32 of 2002, Act 12 of 2015.
 
 | File | Provision |
 | --- | --- |
@@ -18,8 +18,12 @@ Commenced: 2003-02-13. Laws the edition lists: Act 32 of 2002.
 | [s-010](s-010.md) | 10. Advances and guarantee of borrowings by the Government of The Bahamas |
 | [s-011](s-011.md) | 11. Payment of, and interest on advances and sums issued to meet guarantee |
 | [s-012](s-012.md) | 12. Accounts and audit |
-| [s-013](s-013.md) | 13. Directions. SCHEDULE Incorporation |
+| [s-013](s-013.md) | 13. Directions. SCHEDULE |
 | [s-014](s-014.md) | 14. |
 | [s-015](s-015.md) | 15. |
 | [s-016](s-016.md) | 16. |
 | [s-017](s-017.md) | 17. |
+| [s-018](s-018.md) | 18. |
+| [s-019](s-019.md) | 19. |
+| [s-020](s-020.md) | 20. |
+| [s-021](s-021.md) | 21. |
