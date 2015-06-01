@@ -1,8 +1,8 @@
 # Co-operative Societies Act
 
-Statute Law of The Bahamas, Act, legislation number 2005-0015; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2005/2005-0015/2005-0015_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2005-0015; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2005/2005-0015/2005-0015_2.pdf
 
-Commenced: 2005-10-04. Laws the edition lists: Act 15 of 2005.
+Commenced: 2005-10-04. Laws the edition lists: Act 15 of 2005, Act 8 of 2015.
 
 | File | Provision |
 | --- | --- |
@@ -124,30 +124,30 @@ Commenced: 2005-10-04. Laws the edition lists: Act 15 of 2005.
 | [s-116](s-116.md) | 116. Functions of Apex Body |
 | [s-117](s-117.md) | 117. Management |
 | [s-118](s-118.md) | 118. Consultation of Director of Societies |
-| [s-119](s-119.md) | 119. Interpretation |
-| [s-120](s-120.md) | 120. Application of this part |
-| [s-121](s-121.md) | 121. Restriction |
-| [s-122](s-122.md) | 122. Reserves and allowances |
-| [s-123](s-123.md) | 123. Loan approval |
-| [s-124](s-124.md) | 124. Security for loans |
-| [s-125](s-125.md) | 125. Loan limits |
-| [s-126](s-126.md) | 126. Reporting loans |
-| [s-127](s-127.md) | 127. Interest on loans |
-| [s-128](s-128.md) | 128. Deposits |
-| [s-129](s-129.md) | 129. Credit Union not bound to see to trust |
-| [s-130](s-130.md) | 130. Credit committee |
-| [s-131](s-131.md) | 131. Duties of credit committee |
-| [s-132](s-132.md) | 132. Removal by membership of credit committee |
-| [s-133](s-133.md) | 133. Officer to approve loan |
-| [s-134](s-134.md) | 134. Credit committee reports |
-| [s-135](s-135.md) | 135. Removal by members |
-| [s-136](s-136.md) | 136. Supervisory committee |
-| [s-137](s-137.md) | 137. Duties |
-| [s-138](s-138.md) | 138. Removal by membership of supervisory committee |
-| [s-139](s-139.md) | 139. Clerks |
-| [s-140](s-140.md) | 140. Misappropriation, etc |
-| [s-141](s-141.md) | 141. Meetings |
-| [s-142](s-142.md) | 142. Removal by members |
+| [s-119](s-119.md) | 119. Repealed |
+| [s-120](s-120.md) | 120. Repealed |
+| [s-121](s-121.md) | 121. Repealed |
+| [s-122](s-122.md) | 122. Repealed |
+| [s-123](s-123.md) | 123. Repealed |
+| [s-124](s-124.md) | 124. Repealed |
+| [s-125](s-125.md) | 125. Repealed |
+| [s-126](s-126.md) | 126. Repealed |
+| [s-127](s-127.md) | 127. Repealed |
+| [s-128](s-128.md) | 128. Repealed |
+| [s-129](s-129.md) | 129. Repealed |
+| [s-130](s-130.md) | 130. Repealed |
+| [s-131](s-131.md) | 131. Repealed |
+| [s-132](s-132.md) | 132. Repealed |
+| [s-133](s-133.md) | 133. Repealed |
+| [s-134](s-134.md) | 134. Repealed |
+| [s-135](s-135.md) | 135. Repealed |
+| [s-136](s-136.md) | 136. Repealed |
+| [s-137](s-137.md) | 137. Repealed |
+| [s-138](s-138.md) | 138. Repealed |
+| [s-139](s-139.md) | 139. Repealed |
+| [s-140](s-140.md) | 140. Repealed |
+| [s-141](s-141.md) | 141. Repealed |
+| [s-142](s-142.md) | 142. Repealed |
 | [s-143](s-143.md) | 143. Interpretation |
 | [s-144](s-144.md) | 144. Application of this Part |
 | [s-145](s-145.md) | 145. Restrictions of directorship |
