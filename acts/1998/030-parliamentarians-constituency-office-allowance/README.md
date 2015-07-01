@@ -1,8 +1,8 @@
 # Parliamentarians (Constituency Office Allowance) Act
 
-Statute Law of The Bahamas, Act, legislation number 1998-0030; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1998/1998-0030/1998-0030_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1998-0030; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1998/1998-0030/1998-0030_2.pdf
 
-Commenced: 1997-10-01. Laws the edition lists: Act 30 of 1998.
+Commenced: 1997-10-01. Laws the edition lists: Act 30 of 1998, Act 32 of 2015.
 
 | File | Provision |
 | --- | --- |

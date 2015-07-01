@@ -2,7 +2,7 @@
 PART I
 Constituency Allowance
 New Providence,
-(Grand Bahama and Bimini) $18,000.00
+(Grand Bahama and Bimini) $30,000.00
 PART II
 Family Islands
-(other than Grand Bahama and Bimini) $18,000.00
+(other than Grand Bahama and Bimini) $30,000.00
