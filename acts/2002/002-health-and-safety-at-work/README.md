@@ -1,8 +1,8 @@
 # Health and Safety at Work Act
 
-Statute Law of The Bahamas, Act, legislation number 2002-0002; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0002/2002-0002_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2002-0002; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0002/2002-0002_2.pdf
 
-Commenced: 2002-02-01. Laws the edition lists: Act 2 of 2002.
+Commenced: 2002-02-01. Laws the edition lists: Act 2 of 2002, Act 37 of 2015.
 
 | File | Provision |
 | --- | --- |
