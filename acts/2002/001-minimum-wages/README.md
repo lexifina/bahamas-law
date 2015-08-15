@@ -1,8 +1,8 @@
 # Minimum Wages Act
 
-Statute Law of The Bahamas, Act, legislation number 2002-0001; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0001/2002-0001_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2002-0001; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0001/2002-0001_2.pdf
 
-Commenced: 2002-01-21. Laws the edition lists: Act 1 of 2002.
+Commenced: 2002-01-21. Laws the edition lists: Act 1 of 2002, S.I. 59/2015.
 
 | File | Provision |
 | --- | --- |
