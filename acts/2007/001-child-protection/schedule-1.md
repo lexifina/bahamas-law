@@ -15,10 +15,9 @@ DIRECTIONS
 (a) to live at a place or places specified in the directions for a period or periods so specified;
 (b) to present himself to a person or persons specified in the directions at a place or places and on a day or days;
 (c) to participate in activities specified in the directions on a day or days to be specified.
-(2) It shall be for the supervisor to decide whether and to what extent he exercises any power to give directions under sub-paragraph (1).
+(2) It shall be for the supervisor to decide whether and to what extent he exercises any power to give directions under subparagraph (1).
 (3) This paragraph does not confer on a supervisor power to give directions in respect of any medical or psychiatric examination or treatment.
-REQUIREMENTS IMPOSED ON RESPONSIBLE
-PERSONS
+REQUIREMENTS IMPOSED ON RESPONSIBLE PERSONS
 3. (1) With the consent of any responsible person, a supervision order may include a requirement -
 (a) that he take all reasonable steps to ensure that the supervised person complies with any direction given by the supervisor under paragraph 2;
 (b) that he take all reasonable steps to ensure that the supervised person complies with any requirement included in the order under paragraph 4 or 5;
@@ -53,12 +52,12 @@ MEDICAL AND PSYCHIATRIC TREATMENT
 (a) where the child has sufficient understanding to make an informed decision, he consents to its inclusion; and
 (b) satisfactory arrangements have been, or can be, made for the treatment.
 (4) If a medical practitioner by whom or under whose direction a supervised person is being treated in pursuance of a requirement included in a supervision order by virtue of this paragraph -
-(a) is unwilling to treat or direct the treatment of the supervised person, or (b) is of the opinion -
+(a) is unwilling to treat or direct the treatment of the supervised person, or
+(b) is of the opinion -
 (i) that the treatment should be continued beyond the period specified in that behalf in the order, or
-(ii) chat the supervised person needs different treatment, or
+(ii) that the supervised person needs different treatment, or
 (iii) that he is not susceptible to treatment, or
-(iv) that he does not require further treatment,
-the practitioner shall make a report in writing to that effect to the supervisor.
+(iv) that he does not require further treatment, the practitioner shall make a report in writing to that effect to the supervisor.
 (5) On receiving a report under sub-paragraph (4) the supervisor shall refer it to the magistrate's court, and on such a reference the court may make an order cancelling or varying the requirement.
 (6) This paragraph does not apply in the case of an interim order or an order pending appeal.
 RESTRICTION ON DIRECTIONS
@@ -82,8 +81,7 @@ DURATION OF SUPERVISION ORDER
 (a) the end of the period. elf three years beginning with the date on which it was initially made; or
 (b) the date on which the supervised person attains the age of eighteen.
 (4) This paragraph is without prejudice to any other law.
-VARIATION AND REVOCATION OF SUPERVISION
-ORDER
+VARIATION AND REVOCATION OF SUPERVISION ORDER
 9. (1) A supervision order may be revoked or varied by the court on the application of -
 (a) any person who has parental responsibility for the child;
 (b) the child himself if he has attained age fourteen years; or

@@ -1,8 +1,8 @@
 # Child Protection Act
 
-Statute Law of The Bahamas, Act, legislation number 2007-0001; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2007/2007-0001/2007-0001_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2007-0001; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2007/2007-0001/2007-0001_2.pdf
 
-Commenced: 2009-10-01. Laws the edition lists: Act 1 of 2007.
+Commenced: 2009-10-01. Laws the edition lists: Act 1 of 2007, Act 12 of 2014.
 
 | File | Provision |
 | --- | --- |
@@ -26,6 +26,7 @@ Commenced: 2009-10-01. Laws the edition lists: Act 1 of 2007.
 | [s-018](s-018.md) | 18. Powers of guardians |
 | [s-019](s-019.md) | 19. Power of court to remove or substitute guardian |
 | [s-020](s-020.md) | 20. Guardianship in case of divorce or judicial separation |
+| [s-020-a](s-020-a.md) | 20A. General power of court as to guardianship |
 | [s-021](s-021.md) | 21. Guardianship and custody of a child born to a single woman |
 | [s-022](s-022.md) | 22. Court may make order as to custody |
 | [s-023](s-023.md) | 23. Effect of separation deed between parents |
@@ -137,7 +138,7 @@ Commenced: 2009-10-01. Laws the edition lists: Act 1 of 2007.
 | [s-129](s-129.md) | 129. Enforcement of recognizance |
 | [s-130](s-130.md) | 130. Special provisions relating to probation |
 | [s-131](s-131.md) | 131. Provisions relating to committal to child correctional centre |
-| [s-132](s-132.md) | 132. Representation by counsel.9 |
+| [s-132](s-132.md) | 132. Representation by counsel |
 | [s-133](s-133.md) | 133. Signification of judgments, orders and process |
 | [s-134](s-134.md) | 134. Application |
 | [s-135](s-135.md) | 135. Minister may declare places or premises to be places of detention |
@@ -154,6 +155,8 @@ Commenced: 2009-10-01. Laws the edition lists: Act 1 of 2007.
 | [s-146](s-146.md) | 146. Permission for resident to visit home or be absent from centre or place of detention in certain circumstances |
 | [s-147](s-147.md) | 147. Offence in publication of particulars of child |
 | [s-148](s-148.md) | 148. Persons liable for publication contrary to section 147 |
+| [s-148-a](s-148-a.md) | 148A. Missing children alert |
+| [s-148-b](s-148-b.md) | 148B. Minister to establish protocols for alerts |
 | [s-149](s-149.md) | 149. Appeals |
 | [s-150](s-150.md) | 150. Rules of court |
 | [s-151](s-151.md) | 151. Determination of parentage issue |

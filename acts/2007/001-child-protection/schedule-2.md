@@ -9,8 +9,7 @@ EXCLUSION REQUIREMENT
 POWER OF ARREST
 2. (1) Where the court makes a relevant order containing an exclusion requirement, the court may attach a power of arrest to the exclusion requirement.
 (2) Where the court attaches a power of arrest to an exclusion requirement of the relevant order, it may provide that the power of arrest is to have effect for a shorter period than the exclusion requirement.
-EXTENSION OF PERIOD OF REQUIREMENT OR
-POWER OF ARREST
+EXTENSION OF PERIOD OF REQUIREMENT OR POWER OF ARREST
 3. Any period specified for the purposes of paragraph 1(2) or 2(2) may be extended by the court (on one or more occasions) on an application to vary or revoke the relevant order.
 EXECUTION OF POWER OF ARREST
 4. (1) Where a power of arrest is attached to an exclusion requirement of a relevant order by virtue of paragraph 2, a police officer may arrest without warrant any person whom he has reasonable cause to believe to be in breach of the requirement.
