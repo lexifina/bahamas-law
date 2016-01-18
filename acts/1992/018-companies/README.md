@@ -1,8 +1,8 @@
 # Companies Act
 
-Statute Law of The Bahamas, Act, legislation number 1992-0018; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1992/1992-0018/1992-0018_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1992-0018; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1992/1992-0018/1992-0018_2.pdf
 
-Commenced: 1992-08-01. Laws the edition lists: Act 18 of 1992, Act 24 of 1993, Act 28 of 1994, Act 30 of 1995, Act 2 of 1998, Act 1 of 1999, Act 2 of 1999, Act 23 of 1999, S.I. 36/2005, Act 13 of 2009.
+Commenced: 1992-08-01. Laws the edition lists: Act 18 of 1992, Act 24 of 1993, Act 28 of 1994, Act 30 of 1995, Act 2 of 1998, Act 1 of 1999, Act 2 of 1999, Act 23 of 1999, S.I. 36/2005, Act 13 of 2009, Act 53 of 2011, Act 8 of 2012, Act 1 of 2013, Act 35 of 2014.
 
 | File | Provision |
 | --- | --- |
@@ -20,15 +20,17 @@ Commenced: 1992-08-01. Laws the edition lists: Act 18 of 1992, Act 24 of 1993, A
 | [s-012](s-012.md) | 12. Restriction on name of company |
 | [s-013](s-013.md) | 13. Requirement as to name |
 | [s-014](s-014.md) | 14. Exclusion of "Limited" from name of companies |
-| [s-015](s-015.md) | 15. Reserving name |
+| [s-015](s-015.md) | 15. Reserving name. Incorporation |
+| [s-015-a](s-015-a.md) | 15A. |
 | [s-016](s-016.md) | 16. Certificate of incorporation and consequences thereof |
+| [s-016-a](s-016-a.md) | 16A. |
 | [s-017](s-017.md) | 17. Registered office |
 | [s-018](s-018.md) | 18. Company records |
 | [s-019](s-019.md) | 19. Register of companies |
 | [s-020](s-020.md) | 20. Copies of memorandum and articles to be given to members |
 | [s-021](s-021.md) | 21. Publication of name |
 | [s-022](s-022.md) | 22. Pre-incorporation contracts |
-| [s-023](s-023.md) | 23. Service of documents on company |
+| [s-023](s-023.md) | 23. Service of documents on company. Capacity and Powers |
 | [s-024](s-024.md) | 24. Capacity and powers |
 | [s-025](s-025.md) | 25. Contracts |
 | [s-026](s-026.md) | 26. Company seals |
@@ -39,7 +41,7 @@ Commenced: 1992-08-01. Laws the edition lists: Act 18 of 1992, Act 24 of 1993, A
 | [s-031](s-031.md) | 31. Prohibited loans |
 | [s-032](s-032.md) | 32. Enforcement of prohibited loans |
 | [s-033](s-033.md) | 33. Power to refer matters to arbitration |
-| [s-034](s-034.md) | 34. Authentication of summons, notice or proceeding |
+| [s-034](s-034.md) | 34. Authentication of summons, notice or proceeding. PART III SHARE CAPITAL, SHAREHOLDERS AND RELATED MATTERS |
 | [s-035](s-035.md) | 35. Nature of shares and of certain transfers |
 | [s-036](s-036.md) | 36. Classes of shares and issue thereof |
 | [s-037](s-037.md) | 37. Variation of shareholders' rights |
@@ -123,8 +125,9 @@ Commenced: 1992-08-01. Laws the edition lists: Act 18 of 1992, Act 24 of 1993, A
 | [s-115](s-115.md) | 115. Right to indemnify |
 | [s-116](s-116.md) | 116. Indemnity approved by court |
 | [s-117](s-117.md) | 117. Insurance of directors, etc |
+| [s-117-a](s-117-a.md) | 117A. Obligation to maintain accounting records |
 | [s-118](s-118.md) | 118. Annual financial returns |
-| [s-119](s-119.md) | 119. Excemption of certain matters |
+| [s-119](s-119.md) | 119. Exemption of certain matters |
 | [s-120](s-120.md) | 120. Approval of financial statements |
 | [s-121](s-121.md) | 121. Auditors' report to be appended to financial statements |
 | [s-122](s-122.md) | 122. Members' copies |
@@ -156,7 +159,7 @@ Commenced: 1992-08-01. Laws the edition lists: Act 18 of 1992, Act 24 of 1993, A
 | [s-148](s-148.md) | 148. Directions by court |
 | [s-149](s-149.md) | 149. Liability of receivers, etc |
 | [s-150](s-150.md) | 150. Preparation of statement for receiver |
-| [s-151](s-151.md) | 151. Content of statement |
+| [s-151](s-151.md) | 151. Content of statement. PART V |
 | [s-152](s-152.md) | 152. Definitions for purposes of Part V |
 | [s-153](s-153.md) | 153. Merger and consolidation |
 | [s-154](s-154.md) | 154. Merger with subsidiary |
@@ -164,7 +167,7 @@ Commenced: 1992-08-01. Laws the edition lists: Act 18 of 1992, Act 24 of 1993, A
 | [s-156](s-156.md) | 156. Disposition of assets |
 | [s-157](s-157.md) | 157. Redemption of minority shares |
 | [s-158](s-158.md) | 158. Arrangements |
-| [s-159](s-159.md) | 159. Rights of dissenters |
+| [s-159](s-159.md) | 159. Rights of dissenters. PART VI |
 | [s-160](s-160.md) | 160. Application of sections 161 to 169 |
 | [s-161](s-161.md) | 161. Form of memorandum |
 | [s-162](s-162.md) | 162. By-laws |
@@ -188,89 +191,91 @@ Commenced: 1992-08-01. Laws the edition lists: Act 18 of 1992, Act 24 of 1993, A
 | [s-180](s-180.md) | 180. Name display |
 | [s-181](s-181.md) | 181. Registered office |
 | [s-182](s-182.md) | 182. Returns |
-| [s-183](s-183.md) | 183. Definition of "contributory" |
-| [s-184](s-184.md) | 184. Nature of liability of contributory |
-| [s-185](s-185.md) | 185. Contributories in case of death |
-| [s-186](s-186.md) | 186. Contributories in case of bankruptcy |
-| [s-187](s-187.md) | 187. Circumstances giving rise to winding-up by court |
-| [s-188](s-188.md) | 188. Company when deemed unable to pay its debts |
-| [s-189](s-189.md) | 189. Application for winding up to be made by petition |
-| [s-190](s-190.md) | 190. Power of court |
-| [s-191](s-191.md) | 191. Commencement of winding up |
-| [s-192](s-192.md) | 192. Court may grant injunction |
-| [s-193](s-193.md) | 193. Course to be pursued by court |
-| [s-194](s-194.md) | 194. Actions and suits to be stayed |
-| [s-195](s-195.md) | 195. Copy of order to be forwarded to Registrar |
-| [s-196](s-196.md) | 196. Power of court to stay proceedings |
-| [s-197](s-197.md) | 197. Effect of order on share capital of company limited by guarantee |
-| [s-198](s-198.md) | 198. Court may have regard to wishes of creditors or contributories |
-| [s-199](s-199.md) | 199. Appointment of official liquidator |
-| [s-200](s-200.md) | 200. Registrations, removals, etc |
-| [s-201](s-201.md) | 201. Style and duties of official liquidator |
-| [s-202](s-202.md) | 202. Powers of official liquidator |
-| [s-203](s-203.md) | 203. Discretion of official liquidator |
-| [s-204](s-204.md) | 204. Vesting of property in liquidator |
-| [s-205](s-205.md) | 205. Assistance for liquidator |
-| [s-206](s-206.md) | 206. Collection and application of assets |
-| [s-207](s-207.md) | 207. Provisions as to representative contributories |
-| [s-208](s-208.md) | 208. Power of court to require delivery of property |
-| [s-209](s-209.md) | 209. Power of court to order payment of debts by contributory |
-| [s-210](s-210.md) | 210. Power of court to make calls |
-| [s-211](s-211.md) | 211. Power of court to order payment into bank |
-| [s-212](s-212.md) | 212. Regulation of account with court |
-| [s-213](s-213.md) | 213. Representative contributory not paying monies ordered |
-| [s-214](s-214.md) | 214. Order conclusive evidence |
-| [s-215](s-215.md) | 215. Creditors not proving in time |
-| [s-216](s-216.md) | 216. Court to adjust rights |
-| [s-217](s-217.md) | 217. Court to order costs |
-| [s-218](s-218.md) | 218. Dissolution of company |
-| [s-219](s-219.md) | 219. Registrar to make minute of dissolution |
-| [s-220](s-220.md) | 220. Power of court to summon persons |
-| [s-221](s-221.md) | 221. Examination of parties by court |
-| [s-222](s-222.md) | 222. Power of arrest |
-| [s-223](s-223.md) | 223. Powers of court cumulative |
-| [s-224](s-224.md) | 224. Power to enforce orders |
-| [s-225](s-225.md) | 225. Circumstances under which company may be wound up voluntarily |
-| [s-226](s-226.md) | 226. Commencement of voluntary winding up |
-| [s-227](s-227.md) | 227. Effect of voluntary winding up |
-| [s-228](s-228.md) | 228. Notice of resolution to wind up |
-| [s-229](s-229.md) | 229. Consequences of voluntary winding up |
-| [s-230](s-230.md) | 230. Special powers and duties of liquidator |
-| [s-231](s-231.md) | 231. Effect of winding up on share capital of company limited by guarantee |
-| [s-232](s-232.md) | 232. Power of company to delegate authority to appoint liquidator |
-| [s-233](s-233.md) | 233. Arrangement when binding on creditors |
-| [s-234](s-234.md) | 234. Power of creditor or contributory to appeal |
-| [s-235](s-235.md) | 235. Power of liquidators or contributories in voluntary winding up to apply to |
-| [s-236](s-236.md) | 236. Power of liquidator to call general meeting |
-| [s-237](s-237.md) | 237. Power to fill vacancy of liquidator |
-| [s-238](s-238.md) | 238. Power of court to appoint liquidators |
-| [s-239](s-239.md) | 239. Liquidators on conclusion of winding-up to make up an account |
-| [s-240](s-240.md) | 240. Liquidator to report meeting to Registrar |
-| [s-241](s-241.md) | 241. Costs of voluntary liquidation |
-| [s-242](s-242.md) | 242. Saving of rights of creditors |
-| [s-243](s-243.md) | 243. Power of court to adopt proceedings of voluntary winding-up |
-| [s-244](s-244.md) | 244. Power of court on application to direct winding up subject to supervision |
-| [s-245](s-245.md) | 245. Petition for winding-up subject to supervision |
-| [s-246](s-246.md) | 246. Court may have regard to wishes of creditors |
-| [s-247](s-247.md) | 247. Powers of court to appoint additional liquidators in winding-up subject to |
-| [s-248](s-248.md) | 248. Effect of order of court for winding up subject to supervision |
-| [s-249](s-249.md) | 249. Appointment of voluntary liquidators to office of official liquidators |
-| [s-250](s-250.md) | 250. Dispositions after the commencement of winding up to be rendered void |
-| [s-251](s-251.md) | 251. Books of the company to be evidence |
-| [s-252](s-252.md) | 252. Disposal of books, accounts and documents of the company |
-| [s-253](s-253.md) | 253. Inspection of books |
-| [s-254](s-254.md) | 254. Power of assignee to sue |
-| [s-255](s-255.md) | 255. Debts to be proved |
-| [s-256](s-256.md) | 256. Rules to be observed |
-| [s-257](s-257.md) | 257. Preferential payments |
-| [s-258](s-258.md) | 258. Liquidation scheme may be approved |
-| [s-259](s-259.md) | 259. Acceptance of shares, etc., as consideration for sale of property of |
-| [s-260](s-260.md) | 260. Mode of determining price |
-| [s-261](s-261.md) | 261. Certain attachments and executions to be void |
-| [s-262](s-262.md) | 262. Fraudulent preference |
-| [s-263](s-263.md) | 263. Assessment of damages against delinquent directors and officers |
-| [s-264](s-264.md) | 264. Prosecution of delinquent directors in winding-up by court |
-| [s-265](s-265.md) | 265. Prosecution of delinquent directors in voluntary winding up |
+| [s-183](s-183.md) | 183. Definitions |
+| [s-184](s-184.md) | 184. Alternative modes of winding up |
+| [s-185](s-185.md) | 185. Jurisdiction of the Court |
+| [s-186](s-186.md) | 186. Circumstances in which a company may be wound up by the court |
+| [s-187](s-187.md) | 187. Meaning of "insolvent" |
+| [s-188](s-188.md) | 188. Definition of inability to pay debts |
+| [s-189](s-189.md) | 189. Hearing to set aside statutory demand |
+| [s-190](s-190.md) | 190. Application for winding up |
+| [s-191](s-191.md) | 191. Powers of the court |
+| [s-192](s-192.md) | 192. Power to stay or restrain proceeedings |
+| [s-193](s-193.md) | 193. Avoidance of attachments and stay of proceedings |
+| [s-194](s-194.md) | 194. Notice of winding up order |
+| [s-195](s-195.md) | 195. Commencement of winding up by court |
+| [s-196](s-196.md) | 196. Company's statement of affairs |
+| [s-197](s-197.md) | 197. Investigation by liquidator |
+| [s-198](s-198.md) | 198. Duty to co-operate and the private examination of relevant persons |
+| [s-199](s-199.md) | 199. Provisional liquidator: appointment, powers and termination |
+| [s-200](s-200.md) | 200. Appointment of official liquidatior |
+| [s-201](s-201.md) | 201. Appointment of joint liquidators |
+| [s-202](s-202.md) | 202. Removal of official liquidators |
+| [s-203](s-203.md) | 203. Qualifications of official liquidators |
+| [s-204](s-204.md) | 204. Remuneration of official liquidators |
+| [s-205](s-205.md) | 205. Duties, functions and powers of official liquidators |
+| [s-206](s-206.md) | 206. Power to stay winding up |
+| [s-207](s-207.md) | 207. Settlement of list of contributories |
+| [s-208](s-208.md) | 208. Power to make calls |
+| [s-209](s-209.md) | 209. Inspection of documents by creditors, etc |
+| [s-210](s-210.md) | 210. Meetings to ascertain wishes of creditors or contributories |
+| [s-211](s-211.md) | 211. Circumstances in which a company may be wound up voluntarily |
+| [s-212](s-212.md) | 212. Commencement of voluntary winding up |
+| [s-213](s-213.md) | 213. Effect on business and status of the company |
+| [s-214](s-214.md) | 214. Appointment of voluntary liquidator |
+| [s-215](s-215.md) | 215. Qualifications of voluntary liquidators |
+| [s-216](s-216.md) | 216. Removal of voluntary liquidators |
+| [s-217](s-217.md) | 217. Resignation of voluntary liquidator |
+| [s-218](s-218.md) | 218. Notice of voluntary winding up |
+| [s-219](s-219.md) | 219. Application for supervision order |
+| [s-220](s-220.md) | 220. Avoidance of share transfers |
+| [s-221](s-221.md) | 221. General meeting at year's end |
+| [s-222](s-222.md) | 222. Final meeting prior to dissolution |
+| [s-223](s-223.md) | 223. Reference of questions to court |
+| [s-224](s-224.md) | 224. Expenses of voluntary winding up |
+| [s-225](s-225.md) | 225. Application for supervision order |
+| [s-226](s-226.md) | 226. Appointment of official liquidator under a supervision order |
+| [s-227](s-227.md) | 227. Effect of supervision order |
+| [s-228](s-228.md) | 228. Fraud, etc. in anticipation of winding up |
+| [s-229](s-229.md) | 229. Transactions in fraud of creditors |
+| [s-230](s-230.md) | 230. Misconduct in course of winding up |
+| [s-231](s-231.md) | 231. Material ommissions from statement relatting to company's affairs |
+| [s-232](s-232.md) | 232. Other effects of winding up |
+| [s-233](s-233.md) | 233. Rescission of contracts by the court |
+| [s-234](s-234.md) | 234. Getting in the company's property and disclaimer |
+| [s-235](s-235.md) | 235. Provable debts |
+| [s-236](s-236.md) | 236. Distribution of the company's property |
+| [s-237](s-237.md) | 237. Preferential debts |
+| [s-238](s-238.md) | 238. Secured creditors |
+| [s-239](s-239.md) | 239. Preferential charge on goods distrained |
+| [s-240](s-240.md) | 240. Effect of execution or attachment |
+| [s-240-a](s-240-a.md) | 240A. Protection of designated systems from insolvency proceedings |
+| [s-241](s-241.md) | 241. Voidable preference |
+| [s-242](s-242.md) | 242. Avoidance of dispositions made at an undervalue |
+| [s-243](s-243.md) | 243. Fraudulent trading |
+| [s-244](s-244.md) | 244. Insolvent trading |
+| [s-245](s-245.md) | 245. Supply of utilities |
+| [s-246](s-246.md) | 246. Currency of the liquidation |
+| [s-247](s-247.md) | 247. Additional Powers of the Court |
+| [s-248](s-248.md) | 248. Dissolution following voluntary winding up |
+| [s-249](s-249.md) | 249. Dissolution following winding up the by the court |
+| [s-250](s-250.md) | 250. Unclaimed dividends and undistributed assets |
+| [s-251](s-251.md) | 251. Liquidation Rules Committee |
+| [s-252](s-252.md) | 252. Powers of the Liquidation Rules Committee |
+| [s-253](s-253.md) | 253. Definitions |
+| [s-254](s-254.md) | 254. Ancillary orders |
+| [s-255](s-255.md) | 255. Criteria upon which the court's discretion shall be exercised |
+| [s-256](s-256.md) | 256. Publication of foreign proceedings |
+| [s-256-a](s-256-a.md) | 256A. Non-recognition of insolvency order of foreign court |
+| [s-257](s-257.md) | 257. Repealed |
+| [s-258](s-258.md) | 258. Repealed |
+| [s-259](s-259.md) | 259. Repealed |
+| [s-260](s-260.md) | 260. Repealed |
+| [s-261](s-261.md) | 261. Repealed |
+| [s-262](s-262.md) | 262. |
+| [s-263](s-263.md) | 263. Repealed |
+| [s-264](s-264.md) | 264. Repealed |
+| [s-265](s-265.md) | 265. Repealed |
 | [s-266](s-266.md) | 266. Responsibility of Registrar |
 | [s-267](s-267.md) | 267. Application for directions |
 | [s-268](s-268.md) | 268. Registrar's seal |
@@ -300,10 +305,10 @@ Commenced: 1992-08-01. Laws the edition lists: Act 18 of 1992, Act 24 of 1993, A
 | [s-292](s-292.md) | 292. False return regarding beneficial ownership of shares |
 | [s-293](s-293.md) | 293. False reports and false statements |
 | [s-294](s-294.md) | 294. Unsigned balance sheet |
-| [s-295](s-295.md) | 295. Falsification of company books, etc |
-| [s-296](s-296.md) | 296. Offences in the course of winding up |
+| [s-295](s-295.md) | 295. Repealed |
+| [s-296](s-296.md) | 296. Repealed |
 | [s-297](s-297.md) | 297. Miscellaneous offences |
-| [s-298](s-298.md) | 298. Penalty of perjury |
+| [s-298](s-298.md) | 298. Penalty of perjury. PART X MISCELLANEOUS |
 | [s-299](s-299.md) | 299. Exemptions |
 | [s-300](s-300.md) | 300. Fees |
 | [s-301](s-301.md) | 301. Amendment of Third Schedule |
@@ -313,4 +318,5 @@ Commenced: 1992-08-01. Laws the edition lists: Act 18 of 1992, Act 24 of 1993, A
 | [schedule-1](schedule-1.md) | First Schedule - (Section 10(2)) |
 | [schedule-2](schedule-2.md) | Second Schedule - (Section 162) |
 | [schedule-3](schedule-3.md) | Third Schedule - (Section 300(1)) |
-| [schedule-4](schedule-4.md) | Fourth Schedule - (Section 303(1)) |
+| [schedule-4](schedule-4.md) | Fourth Schedule - (Section 205(3)) |
+| [schedule-5](schedule-5.md) | Fifth Schedule - (Section 303(1)) |

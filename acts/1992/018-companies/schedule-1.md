@@ -46,7 +46,8 @@ Lien
 9. The company shall have a lien on every share (not being a
 fully paid-up share) for all moneys (whether presently payable or
 not) called or payable at a fixed time in respect of that share, and
-the company shall also have a lien on all shares (other than fully paid-up shares) standing registered in the name of a single person, for
+the company shall also have a lien on all shares (other than fully
+paid-up shares) standing registered in the name of a single person, for
 all moneys presently payable by him or his estate to the company, but
 the directors may at any time declare any share to be wholly or in part
 exempt from the provisions of this clause. The company's lien, if any,
@@ -61,8 +62,7 @@ been given to the registered holder for the time being of the share or
 the person entitled by reason of his death or bankruptcy to the share.
 11. The proceeds of the sale shall be applied in payment of
 such part of the amount in respect of which the lien exists as is
-presently payable, and the residue shall (subject to a like lien for sums
-not presently payable as existed upon the shares prior to the sale) be
+presently payable, and the residue shall (subject to a like lien for sums not presently payable as existed upon the shares prior to the sale) be
 paid to the person entitled to the shares at the date of the sale. The
 purchaser shall be registered as the holder of the shares and he shall not
 be bound to see to the application of the purchase money, nor shall his
@@ -94,18 +94,14 @@ per cent) as may be agreed upon between the member paying the sum
 in advance and the directors.
 Transfer and Transmission of Shares
 17. The instrument of transfer of any share in the company shall be executed both by the transferor and transferee, and the transferor shall be deemed to remain a holder of the share until the name of the transferee is entered in the register of members in respect thereof.
-18. Shares in the company shall be transferred in the following form, or in any usual of common form which the directors shall approve:
-I, A.B. .......................... of .............. in consideration of the sum of $ ..... paid to me by C.D. .............. of .................... (hereinafter called "the said transferee") do hereby transfer to the said transferee, the share (or shares) numbered ..................... in the undertaking called the Company Limited to hold unto the said transferee, his executors, administrators and assigns subject to the several conditions on which I held the same at the time of the execution thereof; and I, the said transferee, do hereby agree to take the said share (or shares) subject to the conditions aforesaid.
+18. Shares in the company shall be transferred in the following form, or in any usual of common form which the directors shall approve: I, A.B. .......................... of .............. in consideration of the sum of $ ..... paid to me by C.D. .............. of .................... (hereinafter called "the said transferee") do hereby transfer to the said transferee, the share (or shares) numbered ..................... in the undertaking called the Company Limited to hold unto the said transferee, his executors, administrators and assigns subject to the several conditions on which I held the same at the time of the execution thereof; and I, the said transferee, do hereby agree to take the said share (or shares) subject to the conditions aforesaid.
 As witness our hands the .............. day of .......................................
 Witness to the signatures of, etc.
 19. The directors may decline to register any transfer of shares, not being fully paid-up shares, to a person of whom they do not approve and may also decline to register any transfer of shares on which the company has a lien. The directors may also suspend the registration of transfers during the fourteen days immediately preceding the ordinary general meeting in each year. The directors may decline to recognise any instrument of transfer unless -
 (a) any prescribed fee is paid to the company in respect thereof; and
 (b) the instrument of transfer is accompanied by the certificate of the shares to which it relates, and such other evidence as the directors may reasonably require to show the right of the transferor to make the transfer.
 20. The executors or administrators of a deceased sole holder of a share shall be the only persons recognised by the company as having any title to the share. In the case of a share registered in the names of two or more holders, the survivors or the executors or administrators of the deceased survivor shall be the only persons recognised by the company as having any title to the share.
-21. Any person becoming entitled to a share in consequence of the death or bankruptcy of a member shall, upon such evidence being produced as may from time to time be required by the directors, having the right, either to be registered as a member in respect of the share or, instead of being registered himself, to make such transfer of the share as the deceased or bankrupt person could have made; but the directors shall, in either case, have the same right to
-decline or suspend registration as they would have had in the case of a
-transfer of the share by the deceased or bankrupt person before the
-death or bankruptcy.
+21. Any person becoming entitled to a share in consequence of the death or bankruptcy of a member shall, upon such evidence being produced as may from time to time be required by the directors, having the right, either to be registered as a member in respect of the share or, instead of being registered himself, to make such transfer of the share as the deceased or bankrupt person could have made; but the directors shall, in either case, have the same right to decline or suspend registration as they would have had in the case of a transfer of the share by the deceased or bankrupt person before the death or bankruptcy.
 22. A person becoming entitled to a share by reason of the
 death or bankruptcy of the holder shall be entitled to the same
 dividends and other advantages to which he would be entitled if he
@@ -145,13 +141,14 @@ receives payment in full of the nominal amount of the shares.
 director of the company and that a share in the company has been duly
 forfeited on a date stated in the declaration shall be conclusive
 evidence of the facts therein stated, as against all persons claiming to
-be entitled to the share, and that declaration, and the receipt of the company for the consideration, if any, given for the share on the
-sale or disposition thereof, shall constitute a good title to the share and
-the person to whom the share is sold or disposed of shall be registered
-as the holder of the share and shall not be bound to see to the
-application of the purchase money, if any, nor shall his title to the share
-be affected by any irregularity or invalidity in the proceedings in
-reference to the forfeiture, sale or disposal of the share.
+be entitled to the share, and that declaration, and the receipt of the
+company for the consideration, if any, given for the share on the sale or
+disposition thereof, shall constitute a good title to the share and the
+person to whom the share is sold or disposed of shall be registered as
+the holder of the share and shall not be bound to see to the application
+of the purchase money, if any, nor shall his title to the share be affected
+by any irregularity or invalidity in the proceedings in reference to the
+forfeiture, sale or disposal of the share.
 29. The provisions of these regulations as to forfeiture shall
 apply in the case of non-payment of any sum which by the terms of
 issue of a share becomes payable at a fixed time, whether on account
@@ -185,7 +182,15 @@ include "stock" and "stockholder".
 Share Warrants
 34. The company may issue share warrants, and accordingly
 the directors may in their discretion with respect to any share which
-is fully paid-up, on application in writing signed by the person registered as holder of the share and authenticated by such evidence if any, as the directors may from time to time require as to the identity of the person signing the request, and on receiving the certificate, if any, of the share and such fee as the directors may from time to time require, issue under the company's seal a warrant, stating that the bearer of the warrant is entitled to the share therein specified and may provide by coupons, or otherwise, for the payment or dividends or other moneys on the shares included in the warrant.
+is fully paid-up, on application in writing signed by the person
+registered as holder of the share and authenticated by such evidence if
+any, as the directors may from time to time require as to the identity of
+the person signing the request, and on receiving the certificate, if any,
+of the share and such fee as the directors may from time to time
+require, issue under the company's seal a warrant, stating that the
+bearer of the warrant is entitled to the share therein specified and may
+provide by coupons, or otherwise, for the payment or dividends or
+other moneys on the shares included in the warrant.
 35. A share warrant shall entitle the bearer to the shares included in it, and the shares shall be transferred by the delivery of the share warrant, and the provisions of the regulations of the company with respect to transfer and transmission of shares shall not apply thereto.
 36. The bearer of a share warrant shall, on surrender of the warrant to the company for cancellation and payment of such sum as the directors may from time to time prescribe, be entitled to have his name entered as a member in the register of members in respect of the shares included in the warrant.
 37. The bearer of a share warrant may at any time deposit the warrant at the office the company and so long as the warrant remains so deposited the depositor shall have the same right of signing a requisition for calling a meeting of the company, and of attending and voting and exercising the other privileges of a member of any meeting held after the expiration of two clear days from the time of deposit, as if his name were inserted in the register of members as the holder of the shares included in the deposited warrant. Not more than one person shall be recognised as depositor of the share warrant. The company shall, on two days' written notice, return the deposited share warrant to the depositor.
@@ -193,11 +198,7 @@ is fully paid-up, on application in writing signed by the person registered as h
 39. The directors may from time to time make rules as to the terms on which (if they shall think fit) a new share warrant or coupon may be issued by way of renewal in case of defacement, loss or destruction.
 Alteration of Capital
 40. The company may, by a resolution of shareholders, increase the share capital by such sum to be divided into shares of such amount as the resolution shall prescribe.
-41. (1) All new shares shall, before issue, be offered to such
-persons as at the date of the offer are entitled to receive notices from
-the company of general meetings in proportion, as nearly as the
-circumstances admit, to the amount of the existing shares to which they
-are entitled.
+41. (1) All new shares shall, before issue, be offered to such persons as at the date of the offer are entitled to receive notices from the company of general meetings in proportion, as nearly as the circumstances admit, to the amount of the existing shares to which they are entitled.
 (2) The offer shall be made by notice specifying the number
 of shares offered and limiting a time within which the offer, if not
 accepted, will be deemed to be declined, and after the expiration of that
@@ -235,11 +236,10 @@ occurs, and at such place, as the directors shall appoint.
 (2) In default of a general meeting being so held, a general
 meeting shall be held in the month next following and may be
 convened by any two members in the same manner as nearly as
-possible as that in which meetings are to be convened by the
-directors.
+possible as that in which meetings are to be convened by the directors.
 46. The above-mentioned general meetings shall be called
-ordinary meetings; all other general meetings shall be called
-extraordinary.
+ordinary meetings; all other general meetings shall be called extra-
+ordinary.
 47. (1) The directors may, whenever they think fit, convene
 an extraordinary general meeting, and extraordinary general meetings
 shall also be convened on such requisition, or in default, may be
@@ -253,8 +253,7 @@ meetings may be convened by the directors.
 Proceedings at General Meetings
 48. Seven days' notice at the least (exclusive of the day on
 which the notice is served or deemed to be served, out inclusive of the
-day for which notice is given) specifying the place, the day and the
-hour of meeting and in case of special business, the general nature of
+day for which notice is given) specifying the place, the day and the hour of meeting and in case of special business, the general nature of
 that business, shall be given in the manner hereinafter mentioned, or in
 such other manner, if any, as may be prescribed by the company in
 general meeting, to such persons as are under the regulations of the
@@ -281,7 +280,10 @@ within half and hour from the time appointed for the meeting, the
 members present shall be a quorum.
 52. The chairman, if any, of the board of directors shall
 preside as chairman at every general meeting of the company.
-53. Where there is no such chairman or at any meeting he is not present within fifteen minutes after the time appointed for holding the meeting or is unwilling to act as chairman, the members present shall choose some one of their number to be chairman.
+53. Where there is no such chairman or at any meeting he is
+not present within fifteen minutes after the time appointed for holding
+the meeting or is unwilling to act as chairman, the members present
+shall choose some one of their number to be chairman.
 54. (1) The chairman may, with the consent of any meeting at which a quorum is present (and shall if so directed by the meeting) adjourn the meeting from time to time and from place to place, but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
 (2) When a meeting is adjourned for ten days or more, notice of the adjourned meeting shall be given as in the case of an original meeting.
 (3) Save as aforesaid, it shall not be necessary to give any notice of an adjournment or the business to be transacted at an adjourned meeting.
@@ -312,8 +314,7 @@ his own behalf to be present and vote at the meeting at which he acts as
 proxy or he has been appointed to act at the meeting as proxy for a
 corporation.
 65. The instrument appointing a proxy and the power of
-attorney or other authority, if any, under which it is signed or a
-certified copy of that power or authority shall be deposited at the
+attorney or other authority, if any, under which it is signed or a certified copy of that power or authority shall be deposited at the
 registered office of the company not less than forty-eight hours before
 the holding of the meeting at which the person named in the instrument
 proposes to vote, and in default the instrument of proxy shall not be
@@ -352,8 +353,7 @@ meeting resolve that his tenure of the office of managing director or
 manager be determined.
 70. The amount for the time being remaining undischarged of
 moneys borrowed or raised by the directors for the purposes of the
-company (otherwise than by the issue of share capital) shall not at any
-time exceed the issued share capital of the company without the
+company (otherwise than by the issue of share capital) shall not at any time exceed the issued share capital of the company without the
 sanction of the company in general meeting.
 71. The directors shall duly comply with the Companies Act
 and in particular with the provisions in regard to the registration of the
@@ -369,9 +369,7 @@ provided for the purpose -
 (a) of all appointments of officers made by the directors;
 (b) of the names of the directors present at each meeting of the
 directors and of any committee of the directors; and
-(c) of all resolution and proceedings at all meetings of the company
-and of the directors and of committees of directors, and every director present at any meeting of directors or committee of
-directors shall sign his name in a book to be kept for that purpose.
+(c) of all resolution and proceedings at all meetings of the company and of the directors and of committees of directors, and every director present at any meeting of directors or committee of directors shall sign his name in a book to be kept for that purpose.
 The Seal
 73. The seal of the company shall not be affixed to any
 instrument except by the authority of a resolution of the directors, and
@@ -436,8 +434,7 @@ of the directors may be fixed by the directors and unless so fixed shall
 (when the number of directors exceeds three) be three.
 85. The continuing directors may act notwithstanding any
 vacancy in their body, but if and so long as their number is reduced
-below the number fixed by or pursuant to the regulations of the
-company as the necessary quorum of directors, the continuing directors
+below the number fixed by or pursuant to the regulations of the company as the necessary quorum of directors, the continuing directors
 may act for the purpose of increasing the number of directors to that
 number or of summoning a general meeting of the company, but for no
 other purpose.
@@ -480,8 +477,7 @@ profits of the company.
 with special rights as to dividends, all dividends shall be declared and
 paid according to the amounts paid-up on the shares, but if and so long
 as nothing is paid-up on any of the shares in the company dividends
-may be declared and paid according to the amounts of the shares. No
-amount paid-up on a share in advance of calls shall, while carrying
+may be declared and paid according to the amounts of the shares. No amount paid-up on a share in advance of calls shall, while carrying
 interest be, treated for the purposes of this article as paid-up on the
 shares.
 95. The directors may before recommending any dividend set
@@ -569,6 +565,5 @@ manner hereinbefore authorised to every member of the company
 to the company an address within The Bahamas for the giving of
 notices to them, and also to every person entitled to a share in
 consequence of the death or bankruptcy of a member, who, but for his
-death or bankruptcy, would be entitled to receive notice of the meeting.
-No other persons shall be entitled to receive notices of general
+death or bankruptcy, would be entitled to receive notice of the meeting. No other persons shall be entitled to receive notices of general
 meetings.
