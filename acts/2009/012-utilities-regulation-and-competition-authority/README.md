@@ -1,8 +1,8 @@
 # Utilities Regulation and Competition Authority Act
 
-Statute Law of The Bahamas, Act, legislation number 2009-0012; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2009/2009-0012/2009-0012_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2009-0012; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2009/2009-0012/2009-0012_2.pdf
 
-Commenced: 2009-08-01. Laws the edition lists: Act 12 of 2009.
+Commenced: 2009-08-01. Laws the edition lists: Act 12 of 2009, Act 28 of 2010, Act 4 of 2011, Act 32 of 2012, Act 17 of 2013, Act 47 of 2015.
 
 | File | Provision |
 | --- | --- |
@@ -11,6 +11,11 @@ Commenced: 2009-08-01. Laws the edition lists: Act 12 of 2009.
 | [s-003](s-003.md) | 3. Establishment of URCA |
 | [s-004](s-004.md) | 4. Functions and powers of URCA |
 | [s-005](s-005.md) | 5. Powers of investigation |
+| [s-005-a](s-005-a.md) | 5A. |
+| [s-005-b](s-005-b.md) | 5B. |
+| [s-005-c](s-005-c.md) | 5C. |
+| [s-005-d](s-005-d.md) | 5D. |
+| [s-005-e](s-005-e.md) | 5E. |
 | [s-006](s-006.md) | 6. Search warrants |
 | [s-007](s-007.md) | 7. General provisions as to prosecution |
 | [s-008](s-008.md) | 8. Guidelines |
@@ -25,7 +30,7 @@ Commenced: 2009-08-01. Laws the edition lists: Act 12 of 2009.
 | [s-017](s-017.md) | 17. Proceedings of the board |
 | [s-018](s-018.md) | 18. Appointment of non-executive members |
 | [s-019](s-019.md) | 19. Removal, resignation or death of members |
-| [s-020](s-020.md) | 20. Reappointment of non-executive members |
+| [s-020](s-020.md) | 20. Repealed |
 | [s-021](s-021.md) | 21. Remuneration of non-executive members |
 | [s-022](s-022.md) | 22. Appointment of staff |
 | [s-023](s-023.md) | 23. Appointment of executive members |
@@ -45,11 +50,12 @@ Commenced: 2009-08-01. Laws the edition lists: Act 12 of 2009.
 | [s-037](s-037.md) | 37. Investment of funds |
 | [s-038](s-038.md) | 38. Exemption from business licence |
 | [s-039](s-039.md) | 39. Accounts and Audit |
-| [s-040](s-040.md) | 40. Funding of URCA |
+| [s-040](s-040.md) | 40. Repealed |
 | [s-041](s-041.md) | 41. Annual Plan and Annual Report |
+| [s-041-a](s-041-a.md) | 41A. Minister to lay Annual Report and Annual Plan in Parliament |
 | [s-042](s-042.md) | 42. Initial funding |
 | [s-043](s-043.md) | 43. Dissolution of the legacy regulators |
 | [s-044](s-044.md) | 44. Initial provisions relating to the non-executive members |
 | [s-045](s-045.md) | 45. Repeal enactments |
-| [s-046](s-046.md) | 46. Protection of members of the board and members of staff. SCHEDULE REPEAL OF ENACTMENTS |
-| [schedule-1](schedule-1.md) | Schedule |
+| [s-046](s-046.md) | 46. Protection of members of the board and members of staff |
+| [schedule-1](schedule-1.md) | Schedule - (Section 45) |
