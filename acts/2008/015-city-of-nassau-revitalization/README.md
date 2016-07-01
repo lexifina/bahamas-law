@@ -1,8 +1,8 @@
 # City of Nassau Revitalization Act
 
-Statute Law of The Bahamas, Act, legislation number 2008-0015; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2008/2008-0015/2008-0015_1.pdf
+Statute Law of The Bahamas, Act, legislation number 2008-0015; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2008/2008-0015/2008-0015_2.pdf
 
-Commenced: 2008-07-01. Laws the edition lists: Act 15 of 2008.
+Commenced: 2008-07-01. Laws the edition lists: Act 15 of 2008, Act 19 of 2013, S.I. 59/2013, S.I. 32/2014, Act 25 of 2015, S.I. 44/2015, S.I. 33/2016.
 
 | File | Provision |
 | --- | --- |
