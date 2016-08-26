@@ -1,0 +1,3 @@
+# Fourth Schedule - (Section 26)
+QUALIFICATIONS FOR REGISTRATION AS REGISTERED ASSOCIATE
+A person is qualified for registration as an associate in accordance with this Schedule if he has been called to the Bar or admitted to practice as a barrister or a solicitor or as an attorneyat-law before a court of unlimited jurisdiction in any country whether within or without the Commonwealth and, under the provisions of any enactment for the time being in force regulating the right to engage in gainful occupation or to be employed in The Bahamas, may lawfully be employed to perform the functions allowed to a registered associate under this Act.
