@@ -1,10 +1,10 @@
 # Banks and Trust Companies (Large Exposures) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2006-0003; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2006/2006-0003/2006-0003_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2006-0003; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2006/2006-0003/2006-0003_2.pdf
 
 Made under the Act numbered 2020-0022 in the publisher's index.
 
-Commenced: 2006-01-27. Laws the edition lists: S.I. 3/2006.
+Commenced: 2006-01-27. Laws the edition lists: S.I. 55/2016.
 
 | File | Provision |
 | --- | --- |
@@ -23,4 +23,4 @@ Commenced: 2006-01-27. Laws the edition lists: S.I. 3/2006.
 | [s-013](s-013.md) | 13. Remedial action by the Central Bank |
 | [s-014](s-014.md) | 14. Notice of remedial action for Compliance |
 | [s-015](s-015.md) | 15. Variation of limits |
-| [s-016](s-016.md) | 16. Penalty for non-compliance |
+| [s-016](s-016.md) | 16. Repealed |
