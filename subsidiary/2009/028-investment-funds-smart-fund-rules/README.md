@@ -1,6 +1,6 @@
 # Investment Funds (SMART Fund) Rules
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0028; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0028/2009-0028_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0028; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0028/2009-0028_2.pdf
 
 Made under the Act numbered 2019-0002 in the publisher's index.
 
