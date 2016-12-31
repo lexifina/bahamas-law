@@ -1,0 +1,9 @@
+# Third Schedule
+LYNDEN PINDLING INTERNATIONAL AIRPORT TERMINAL FEES
+No. of Seats Charge Per Flight
+5 to 9 $12.00
+10 to 19 $18.00
+20 to 46 $24.00
+47 to 119 $30.00
+120 to 169 $36.00
+170 and over $42.00

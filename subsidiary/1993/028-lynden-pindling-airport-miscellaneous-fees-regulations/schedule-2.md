@@ -1,0 +1,4 @@
+# Second Schedule
+LYNDEN PINDLING INTERNATIONAL AIRPORT AIRCRAFT LOADING BRIDGE FEES
+Fee for first hour $30.00
+Fee after first hour $12.00
