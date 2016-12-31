@@ -1,6 +1,6 @@
 # Industrial Relations (Increase of Tribunal Members) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1999-0082; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1999/1999-0082/1999-0082_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1999-0082; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1999/1999-0082/1999-0082_2.pdf
 
 Made under the Act numbered 1970-0014 in the publisher's index.
 
