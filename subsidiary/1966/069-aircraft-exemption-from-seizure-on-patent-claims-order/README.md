@@ -1,6 +1,6 @@
 # Aircraft (Exemption from Seizure on Patent Claims) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1966-0069; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1966/1966-0069/1966-0069_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1966-0069; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1966/1966-0069/1966-0069_2.pdf
 
 Made under the Act numbered 2021-0001 in the publisher's index.
 
