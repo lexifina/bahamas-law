@@ -1,6 +1,6 @@
 # Town Planning Zoning Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2008-0006; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2008/2008-0006/2008-0006_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2008-0006; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2008/2008-0006/2008-0006_2.pdf
 
 Made under the Act numbered 2010-0004 in the publisher's index.
 
