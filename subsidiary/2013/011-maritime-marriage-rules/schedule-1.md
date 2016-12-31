@@ -1,30 +1,111 @@
-# First Schedule (Rule 5) FORM I APPLICATION FOR l'tlARRIAGE OFFICER'S LICENCE TO: THE REGISTRAR-GENERAL& THE REGISTRAR OF SHIPPING NAME OF THE SHIP ON WHICH THE APPLICANT MAKES AN APPLICATION TO BE LICENSED AS A MARRIAGE OFFICER:
+# First Schedule - (Rule 5)
+FORM I
+APPLICATION FOR MARRIAGE OFFICER'S LICENCE
+TO: THE REGISTRAR-GENERAL &
+THE REGISTRAR OF SHIPPING
+FULL NAME OF APPLICANT: ................................................. ..................................................................................................... DATE OF BIRTH (dd/mm/yyyy): .............................................. ..................................................................................................... FULL ADDRESS: ....................................................................... ..................................................................................................... ..................................................................................................... NATIONALITY: ......................................................................... CAPACITY/JOB DESCRIPTION: ................................... COMPANY: ................................................................................ COMPANY'S ADDRESS: ......................................................... ..................................................................................................... ..................................................................................................... NAME OF THE SHIP ON WHICH THE APPLICANT MAKES AN APPLICATION TO BE LICENSED AS A MARRIAGE OFFICER: ..................................................................................................... .....................................................................................................
 INDICATE WHETHER THIS APPLICATION IS
-(a) a renewal of a previous permit( )
-(b) a new application for the grant of a marriage officer's licence ( IF IT IS FOR A RENEWAL OF A PREVIOUS APPLICATION, STATE THE ORIGINAL LICENCE NUMBER ____________ __ NOTE:
-IN CASE OF NEW APPLICATIONS, PLEASE SUBMIT PROOF OF CAPTAIN'S LICENCE OR THE LICENCE OF THE PERSON WHO IS SECOND-IN-COMMAND OF THE SHIP AND THE APPLICANT'S PASSPORT OR DRIVER'S LICENCE.
-FOR OFFICIAL USE ONLY:
-DO NOT WRITE IN THIS SPACE NEW( ) RENEWAL( ) REGISTRAR GENERAL'S STAMP (NB: EVERY APPUCANT IS REQUIRED TO AFFIX TO THIS FORM, ONE COLOURED PASSPORT SIZED PHOTOGRAPH.) FOR BAHAMAS MARITIME AUTHORITY USE ONLY Certificate of Endorsement attached:
-Yes ( ) No( ) Page · 7 FORM 11 (Rule 7) APPLICATION FOR A SPECIAL LICENCE TO: THE REGISTRAR-GENERAL THE REGISTRAR-GENERAL'S DEPARTMENT NASSAU, NEW PROVIDENCE, THE BAHAMAS I, ____________ 1, firstly hereunder named and described hereby give you notice that a marriage is intended between me and the person secondly hereunder named and described, that is to say:
-I.
-Full Name [Christian, middle and Surname] Marital Status2 Profession or occupation Date of Birth Sex at birth Age Name of Father Residential address Name of ship on which marriage is to be contracted 2.
-Full Name ' Insert here, the full Christian, middle and surname, of the person giving notice. 'Insert here, the marital status, namely, whether single, widower, widow or divorced.
-Marital Status1 Profession or occupation Date of Birth Sex at birth Age Name of Father Residential address Name of ship on which marriage is to be contracted APP.LICABLE WHERE THE APPLICANT APPLYING FOR A SPECIAL LICENCE INTENDS TO MARRY ANOTHER INTENDED PARTY TO THE MARRIAGE WHO IS AN ADULT I give this notice with the assent of the other party named and described herein and I solemnly declare that I believe there is no impediment of consanguinity or affinity or other lawful hindrance to the said marriage.
-I also solemnly declare tliat the required consent has been obtained of all whose consent is necessary to the said marriage, namely: (Signature) IN WITNESS WHEREOF, I have hereunto set and subscribed my hand this __ day ___ _ _, 20 SIGNATURE 'Insert here, the marital status, namely, whether single, widower, widow or divorced. ---- - ------------- APPLICABLE WHERE THE APPLICANT APPLYING FORA SPECIAL LICENCE INTENDS TO MARRY ANOTHER INTENDED PARTY TO THE MARRIAGE WHO IS A MINOR I give this notice with the assent ot': {I) The parent or parents of the other party to the intended marriage who is a minor, or (2) Tite mother of the other party to the intended marriage who is a minor, or {3) Tite person or persons to whom the minor and other intended party to the marriage has been committed by order of a court, and I solemnly declare that I believe there is no impediment of consanguinity or affinity or other lawful hindrance to the said marriage.
-I also solemnly declare that the required consent has been obtained of all whose consent is necessary to the said marriage, namely: (Signature) IN WITNESS WHEREOF, I have hereunto set and subscribed my hand this _ _ day _____, 20 SIGNATURE ' Insert the applicable name or names and authority of person or persons, whose consent is necessary for the intended marriage to be valid pursuant to the provisions of section 9 of the Maritime Marriage Act No. 27 of 2011.
-Page- lO FORM m (Rule 7) AFFIDAVIT 1N SUPPORT OF AN APPLICATION TO OBTAIN SPECIAL LICENCE COMMONWEALTH OF THE BAHAMAS I [INSERT HERE FULL NAME OF APPLICANT AND INTENDED PARTY TO THE MARRIAGE ("THE APPLICANT")] residing at [INSERT HERE THE RESIDENTIAL AND POSTAL ADDRESSES OF THE APPLICANT], [INSERT HERE THE OCCUPATION OF THE APPLICANT], make oath and say as follows:
-I.
-THAT I AM [INSERT HERE THE AGE OF THE APPLICANT], that I was born at [INSERT HERE THE FULL NAME AND ADDRESS OF THE APPLICANT'S PLACE OF BIRTH AND THE DAY. MONTH AND YEAR OF THE APPLICANT'S BIRTH]. 2.
-THAT I WAS BORN TO [INSERT HERE THE FULL NAMES OF THE APPLICANT'S PARENTS IF THE APPLICANT WAS BORN IN WEDLOCK OR INSERT THE FULL NAi'v!E OF THE APPLICANT'S MOTHER. IF THE APPLICANT WAS BORN OUT OF WEDLOCK]. 3. THAT I SOLEMLY AND SINCERELY DECLARE THAT I WISH FOR A MARRIAGE TO BE CONTRACTED BETWEEN ME AND [INSERT THE CHRISTIAN, !vUDDLE (IF ANY) AND SURNAME OF THE OTHER PARTY TO WHOM THE APPLICANT WISHES TO MARRY] ON [INSERT THE DAY. MONTH AND YEAR UPON WHICH THE APPLICANT INSCRIBES IN THE SUBSTANTIVE APPLICATION FOR SPECIAL LICENCE FOR THE MARRIAGE TO BE CONTRACTED]. 4. THAT I .tvlAKE THIS AFFIDAVIT IN SUPPORT OF MY APPLICAriON TO OBTAIN A SPECIAL LICENCE BASED ON THE FOLLOWING SPECIAL OR EXCEPTIONAL CIRCUMSTANCES: [hV ALPHABETICAL PARAGRAPHING SEQUENCE, WHERE THERE ARE AT LEAST TWO OR MORE SPECIAL OR EXCEPTIONAL CIRCUMSTANCES FOR WHICH THE APPLICANT !v!AKES THIS AFFIDAVIT. EXPRESSLY ITEMISE TH£\1 HERE].
-Page-!! 5.
-THAT I CONSCIENTIOUSLY DECLARE THAT THERE IS NO IMPEDIMENT OF CONSANGUINITY OR AFFINITY OR OTHER LAWFUL HINDRANCE TO THE INTENDED MARRIAGE BETWEEN ME AND [INSERT HERE. THE FULL NAME OR THE CHRISTIAN. MIDDLE AND SURNAME OF THE OTHER PARTY TO THE INTENDED MARRIAGE]. 6.
-THAT BOTH MYSELF AND [INSERT THE FULL NAMES OF THE APPLICANT AND THE OTHER PARTY TO THE INTENDED l.-/ARRIAGE] ARE OF FULL AGE, [OR IF EiTHER OF THE PARTIES TO THE INTENDED MARRIAGE IS NOT OF FULL AGE. THAT THE CONSENT TO THE J.IARRIAGE AS LEGALLY REQUIRED IN ACCORDANCE WITH SECTION 9 OF THE AfARJTIME MARRIAGE ACT NO. 27 OF 2011, HAS BEEN OBTAINED]. 7.
-THAT I CONSCIENTIOUSLY DECLARE THAT ALL STATEMENTS DEPOSED IN THIS AFFIDAVIT ARE TRUE AND CORRECT TO THE BEST OF MY KNOWLEDGE, INFORMATION AND BELIEF.
-SWORN TO AT ) ) THIS DAY OF ____ ,) 20 __ ) ) >·---=~~-~-=~-~~~ [INSERT HERE FULL CHRISTIAN, MIDDLE AND SURNAME OF THE APPLICANT) Before me, NOTARY PUBLIC FORM IV (RULE 8) REGISTER OF MARITIME MARRIAGE (Seclion 19(1)) N;----N-;;rorSIIip and Offi(i.i-···!-·---w•;;M .. friid --i - Positiott otSblp Nu11brr . ~~~!~ s~:.!! : (uliludt & l.oogilwdr) FoiiNoowr I ,--------., --,--- I Muit:r.l 5111115 Ac• Prort'sSioA-;:----r Rtsidtdtiii Adclrus at tinr or Mtrri•cr OttupatioR - -· - ~- -.l __ _ _ ____ _ ____ ___ - - --- - -- .
-I I I l . r------------- --- - --·- - - .--------:----------- -------------i --- :--;--- ·-----------:--··· .
-I ' After Rr&lstrar's Crrlifiutr or Sptclal Lkrncc:
-Consul by whom chn:
-Tltis ~brrilcr wu Crlrbultdbdwtrn •s ------------- Coalnctrd bdorr ner: i ·- - -- __ ___ ! ------ ---------- -------- -----· ·--'--- ------- ·-"-·-··-- ·---·- · --~-- -----·-·- ,, i•tltrprrstnrr ___________ _ ehs Marriagt' Ollitrr lllll<dlkb _ _ dayol , lO __ SECOND SCHEDULE (Rule 3) FEES FOR SERVICES RENDERED UNDER THE ACT Services rendered under I be Act Fee s Application of a Master or Second-in-command of a Bahamian $200 ship to the Registrar-General to obtain a licence to be a marriage officer Fee for the Registrar-General furnishing to a Master or $300 Second-in-command of a Bahamian ship a licence to be a marriage officer Fee to be paid by the Master or Second-in-command of a Bahamian ship to the Registrar-General in order to renew the licence to be a marriage officer under section 3(2) and 3(3)oftheAct $150 Fee for the Registrar-General furnishing a duplicate $100 licence to a Master or Second-in-command of a Bahamian ship to be a marriage officer Fee to publish uotice of intended marriage in two newspapers, $250 published and circulated daily in The Bahamas and these are namely, The Bahama Journal and either The Tribune, l11e Nassau Guardian Fee for the issue of a Certificate for Marriage by the $300 Registrar-General to a party to the intended marriage Fee for entering a caveat against the contracting of a marriage $50 ~.
-Services rendered under the Act Fee $ Application by a party to the intended marriage to the $500 Registrar-General for the grant of a special licence, and the issue of a special licence by the Registrar-General to such party Fee for the Registrar-General to furnish a duplicate special licence SI 00 Fee to contract a marriage in articulo mortis $300 Fee for a general search, or for a particular entry, in the $30 Register of Maritime Mmiages Fee for every certified copy of an entry in the Register of Maritime $40 Marriages (excluding a copy required to be provided to the Court pursuant to section 24 of the Maritime Marriage Act, No. 27 of 2011) Fee to issue a Marriage or Provisional Marriage Officer with the $200 Maritime Marriage Log Book Made this 4'h day of February, 2013.
-Signed Z.C. ALLYSON MAYNARD-GIBSON Attorney General and Minister responsible for the Registry of Records '.
-I ' I
+(a) a renewal of a previous permit ( )
+(b) a new application for the grant of a marriage officer's licence ( )
+IF IT IS FOR A RENEWAL OF A PREVIOUS APPLICATION, STATE THE ORIGINAL LICENCE NUMBER _____________________
+NOTE: IN CASE OF NEW APPLICATIONS, PLEASE SUBMIT
+PROOF OF CAPTAIN'S LICENCE OR THE LICENCE OF THE PERSON WHO IS SECOND-IN-COMMAND OF THE SHIP AND THE APPLICANT'S PASSPORT OR
+DRIVER'S LICENCE.
+FOR OFFICIAL USE ONLY: DO NOT WRITE IN THIS SPACE
+NEW( ) RENEWAL ( )
+SIGNATURE OF OFFICER: ................................................
+DATE OF APPLICATION (dd/mm/yyyy): ........................................ REGISTRAR GENERAL'S STAMP
+(NB: EVERY APPLICANT IS REQUIRED TO AFFIX TO THIS
+FORM, ONE COLOURED PASSPORT SIZED PHOTOGRAPH.)
+_______________________________________________________________
+FOR BAHAMAS MARITIME AUTHORITY USE ONLY
+Certificate of Endorsement attached: Yes ( ) No ( )
+Registrar of Bahamian Ships recommendation: ........................................
+Signature of authorised official: ..................................................................
+Name of authorised official: ............ Date (dd/mm/yyyy): ............
+_______________________________________________________________ FORM II (Rule 7)
+APPLICATION FOR A SPECIAL LICENCE
+TO: THE REGISTRAR-GENERAL THE REGISTRAR-GENERAL'S DEPARTMENT NASSAU, NEW PROVIDENCE, THE BAHAMAS
+I, ______________________, firstly hereunder named and
+described hereby give you notice that a marriage is intended
+between me and the person secondly hereunder named and
+described, that is to say:
+1.
+____________________________________________________
+Full Name [Christian, middle and Surname] ____________________________________________________
+Marital Status ____________________________________________________ Profession or occupation
+____________________________________________________ Date of Birth
+____________________________________________________ Sex at birth ____________________________________________________
+Age ____________________________________________________
+Name of Father ____________________________________________________ Residential address
+____________________________________________________ Name of ship on which marriage is to be contracted
+2.
+Full Name Marital Status ____________________________________________________
+Profession or occupation ____________________________________________________
+Date of Birth ____________________________________________________ Sex at birth
+____________________________________________________ Age
+____________________________________________________ Name of Father ____________________________________________________
+Residential address ____________________________________________________
+Name of ship on which marriage is to be contracted
+APPLICABLE WHERE THE APPLICANT APPLYING FOR A SPECIAL LICENCE INTENDS TO MARRY ANOTHER INTENDED PARTY TO THE MARRIAGE WHO IS AN ADULT
+I give this notice with the assent of the other party named and described herein and I solemnly declare that I believe there is no impediment of consanguinity or affinity or other lawful hindrance to the said marriage.
+I also solemnly declare that the required consent has been obtained of all whose consent is necessary to the said marriage, namely:
+(Signature)
+IN WITNESS WHEREOF, I have hereunto set and subscribed my
+hand this _____ day ___________, 20_____.
+________________________ SIGNATURE
+APPLICABLE WHERE THE APPLICANT APPLYING FOR A
+SPECIAL LICENCE INTENDS TO MARRY ANOTHER
+INTENDED PARTY TO THE MARRIAGE WHO IS A MINOR
+I give this notice with the assent of: (1) The parent or parents of the other party to the intended marriage who is a minor, or (2) The mother of the other party to the intended marriage who is a minor, or (3) The person or persons to whom the minor and other intended party to the marriage has been committed by order of a court, and I solemnly declare that I believe there is no impediment of consanguinity or affinity or other lawful hindrance to the said marriage.
+I also solemnly declare that the required consent has been obtained of all whose consent is necessary to the said marriage, namely:
+(Signature)
+IN WITNESS WHEREOF, I have hereunto set and subscribed
+my hand this _____ day ____________, 20 ___.
+SIGNATURE
+FORM III (Rule 7)
+AFFIDAVIT IN SUPPORT OF AN APPLICATION TO OBTAIN SPECIAL LICENCE
+COMMONWEALTH OF THE BAHAMAS
+I [INSERT HERE FULL NAME OF APPLICANT AND INTENDED PARTY TO THE MARRIAGE ("THE APPLICANT")] residing at [INSERT HERE THE
+RESIDENTIAL AND POSTAL ADDRESSES OF THE APPLICANT], [INSERT HERE THE OCCUPATION OF THE
+APPLICANT], make oath and say as follows:
+1. THAT I AM [INSERT HERE THE AGE OF THE
+APPLICANT], that I was born at [INSERT HERE THE FULL NAME AND ADDRESS OF THE APPLICANT'S PLACE OF
+BIRTH AND THE DAY, MONTH AND YEAR OF THE APPLICANT'S BIRTH].
+2. THAT I WAS BORN TO [INSERT HERE THE FULL
+NAMES OF THE APPLICANT'S PARENTS IF THE APPLICANT WAS BORN IN WEDLOCK OR INSERT THE FULL NAME OF THE APPLICANT'S MOTHER, IF THE
+APPLICANT WAS BORN OUT OF WEDLOCK].
+3. THAT I SOLEMNLY AND SINCERELY DECLARE
+THAT I WISH FOR A MARRIAGE TO BE CONTRACTED
+BETWEEN ME AND [INSERT THE CHRISTIAN, MIDDLE (IF ANY) AND SURNAME OF THE OTHER PARTY TO WHOM THE APPLICANT WISHES TO MARRY] ON [INSERT THE
+DAY, MONTH AND YEAR UPON WHICH THE APPLICANT INSCRIBES IN THE SUBSTANTIVE APPLICATION FOR
+SPECIAL LICENCE FOR THE MARRIAGE TO BE CONTRACTED].
+4. THAT I MAKE THIS AFFIDAVIT IN SUPPORT OF
+MY APPLICATION TO OBTAIN A SPECIAL LICENCE
+BASED ON THE FOLLOWING SPECIAL OR EXCEPTIONAL CIRCUMSTANCES:
+[IN ALPHABETICAL PARAGRAPHING SEQUENCE, WHERE THERE ARE AT LEAST TWO OR MORE SPECIAL OR EXCEPTIONAL CIRCUMSTANCES
+FOR WHICH THE APPLICANT MAKES THIS
+AFFIDAVIT, EXPRESSLY ITEMISE THEM HERE].
+5. THAT I CONSCIENTIOUSLY DECLARE THAT
+THERE IS NO IMPEDIMENT OF CONSANGUINITY OR AFFINITY OR OTHER LAWFUL HINDRANCE TO THE
+INTENDED MARRIAGE BETWEEN ME AND [INSERT HERE, THE FULL NAME OR THE CHRISTIAN, MIDDLE
+AND SURNAME OF THE OTHER PARTY TO THE INTENDED MARRIAGE].
+6. THAT BOTH MYSELF AND [INSERT THE FULL
+NAMES OF THE APPLICANT AND THE OTHER PARTY TO
+THE INTENDED MARRIAGE] ARE OF FULL AGE, [OR IF EITHER OF THE PARTIES TO THE INTENDED MARRIAGE
+IS NOT OF FULL AGE, THAT THE CONSENT TO THE MARRIAGE AS LEGALLY REQUIRED IN ACCORDANCE WITH SECTION 9 OF THE MARITIME MARRIAGE ACT, HAS
+BEEN OBTAINED].
+7. THAT I CONSCIENTIOUSLY DECLARE THAT
+ALL STATEMENTS DEPOSED IN THIS AFFIDAVIT ARE
+TRUE AND CORRECT TO THE BEST OF MY KNOWLEDGE, INFORMATION AND BELIEF.
+SWORN TO AT )
+THIS __ DAY OF ___________ )
+20_____ )
+) _______________________
+INSERT HERE FULL
+CHRISTIAN, MIDDLE
+AND SURNAME OF THE
+APPLICANT]
+Before me,
+_____________________
+NOTARY PUBLIC
