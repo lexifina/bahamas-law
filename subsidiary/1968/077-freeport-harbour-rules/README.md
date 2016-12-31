@@ -1,6 +1,6 @@
 # Freeport Harbour Rules
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1968-0077; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1968/1968-0077/1968-0077_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1968-0077; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1968/1968-0077/1968-0077_2.pdf
 
 Made under the Act numbered 1962-0014 in the publisher's index.
 
