@@ -1,6 +1,6 @@
 # Air Navigation (Investigation of Accidents) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1952-0153; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1952/1952-0153/1952-0153_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1952-0153; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1952/1952-0153/1952-0153_2.pdf
 
 Made under the Act numbered 2021-0001 in the publisher's index.
 
