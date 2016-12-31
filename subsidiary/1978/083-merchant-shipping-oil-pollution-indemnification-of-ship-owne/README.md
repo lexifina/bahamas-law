@@ -1,6 +1,6 @@
 # Merchant Shipping (Oil Pollution)(Indemnification of Ship-Owners) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1978-0083; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1978/1978-0083/1978-0083_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1978-0083; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1978/1978-0083/1978-0083_2.pdf
 
 Made under the Act numbered 1976-0017 in the publisher's index.
 
