@@ -1,6 +1,6 @@
 # Industries Encouragement - Approved Manufacturers
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1971-0093; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1971/1971-0093/1971-0093_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1971-0093; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1971/1971-0093/1971-0093_2.pdf
 
 Made under the Act numbered 1970-0010 in the publisher's index.
 
