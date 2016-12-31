@@ -1,6 +1,6 @@
 # Port Authorities (Prescription of Licensed Pilots) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2002-0042; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2002/2002-0042/2002-0042_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2002-0042; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2002/2002-0042/2002-0042_2.pdf
 
 Made under the Act numbered 1962-0014 in the publisher's index.
 
