@@ -13,7 +13,7 @@ Information submitted -
 (a) Plan of building...................................................................... ...................................................................................................... ......................................................................................................
 (b) specification for...................................................................... ..............................................................................................
 ........................................... SIGNATURE
-........................................... DATE OTE: The Buildings Control Officer may require you to furnish him with additional information.
+........................................... DATE NOTE: The Buildings Control Officer may require you to furnish him with additional information.
 Additional information required - ........................................................................................................ .......................................................................................................
 ............................................. SIGNATURE
 ............................................. DATE
@@ -30,12 +30,15 @@ Address of Applicant ...........................................................
 This Approval is granted subject to the following conditions:...... ........................................................................................................ ........................................................................................................ ........................................................................................................ ........................................................................................................ NOTE: This Approval is valid for the application in question only.
 ........................................................... BUILDINGS CONTROL OFFICER
 ........................................................... DATE
-BUILDINGS REGULATION (EXTENSION TO THE OUT ISLANDS) ORDER
-(SECTION 23)
-[Commencement 15th May, 1975]
-1. This Order may be cited as the Buildings Regulation (Extension to the Out Islands) Order.
-2. Sections 1, 2, 4, 11, 13 to 15 inclusive, 18, 20, 21, and 22 of the Buildings Regulation Act (hereinafter referred to as "the Act") shall extend to all parts of the Out Islands (excluding the Port Area of the Island of Grand Bahama) without any modification.
-3. Sections 3, 5 to 10 inclusive, 12, 17 and 19 of the Act shall extend -
-(a) subject to the following modifications, to the Island of Grand Bahama (excluding the Port Area), that is to say, references in the aforesaid sections to "the Buildings Control Officer" shall be read and construed as reference to "the Area Engineer resident at Grand Bahama or such other officer as the Minister may designate in writing for the purpose";
-(b) to every Family Island (other than Grand Bahama) in respect of -
-(i) any building or group of buildings having a floor area of one thousand two hundred square feet or more or, if there is in the Island a government engineering officer of or above the grade of a District Works Controller advising the Commissioner, a floor area of not less than two thousand five hundred square feet; or
+BUILDINGS REGULATION (ELECTRONIC COMMUNICATIONS TOWER) RULES
+(SECTION 19)
+[Commencement 5th April, 2016]
+PART I - PRELIMINARY
+1. These Rules may be cited as the Buildings Regulation (Electronic Communications Tower) Rules.
+2. In these Rules -
+"agency" means a governmental or nongovernmental agency;
+"building" means an electronic communications tower;
+"day" means a working day;
+"electronic communications tower" means any structure designed and constructed primarily for the purpose of supporting one or more antennae for telephone, radio and similar communication purposes, including self-supporting lattice towers, guyed, stealth or monopole towers, stub masts and includes radio and television transmission towers, microwave towers, common carrier towers, cellular telephone towers, alternative tower structures and any structure and support thereto, but does not include any apparatus used for attaching small antennae to an existing building or structure;
+"land use area" means an area designated by order by the Minister responsible for island and urban planning for the purposes specified in the order;
+"small antennae" means antennae not exceeding two feet in length and includes microcells and picocells;

@@ -1,10 +1,10 @@
 # Buildings Regulation (General) Rules
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1971-0092; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1971/1971-0092/1971-0092_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1971-0092; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1971/1971-0092/1971-0092_2.pdf
 
 Made under the Act numbered 1971-0003 in the publisher's index.
 
-Commenced: 1971-11-01. Laws the edition lists: S.I. 92/1971, S.I. 25/1978, S.I. 44/1981, S.I. 63/1984, S.I. 61/1988, S.I. 27/1993, Act 5 of 1996.
+Commenced: 1971-11-01. Laws the edition lists: S.I. 92/1971, S.I. 25/1978, S.I. 44/1981, S.I. 63/1984, S.I. 61/1988, S.I. 27/1993, Act 5 of 1996, S.I. 70/2013.
 
 | File | Provision |
 | --- | --- |
@@ -24,5 +24,4 @@ Commenced: 1971-11-01. Laws the edition lists: S.I. 92/1971, S.I. 25/1978, S.I. 
 | [s-014](s-014.md) | 14. |
 | [s-015](s-015.md) | 15. |
 | [schedule-1](schedule-1.md) | First Schedule - (Rule 13) |
-| [schedule-2](schedule-2.md) | Second Schedule - (Rule 14) |
 | [schedule-3](schedule-3.md) | Third Schedule - (Rules 7 and 8) |
