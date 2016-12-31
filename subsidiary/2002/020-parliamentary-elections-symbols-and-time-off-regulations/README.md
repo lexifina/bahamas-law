@@ -1,10 +1,10 @@
 # Parliamentary Elections (Symbols and Time Off) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2002-0020; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2002/2002-0020/2002-0020_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2002-0020; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2002/2002-0020/2002-0020_2.pdf
 
 Made under the Act numbered 1992-0001 in the publisher's index.
 
-Commenced: 2002-02-01. Laws the edition lists: none.
+Commenced: 2002-02-01. Laws the edition lists: S.I. 20/2002.
 
 | File | Provision |
 | --- | --- |
