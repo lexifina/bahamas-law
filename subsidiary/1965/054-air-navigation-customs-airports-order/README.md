@@ -1,6 +1,6 @@
 # Air Navigation (Customs Airports) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1965-0054; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1965/1965-0054/1965-0054_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1965-0054; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1965/1965-0054/1965-0054_2.pdf
 
 Made under the Act numbered 2021-0001 in the publisher's index.
 
