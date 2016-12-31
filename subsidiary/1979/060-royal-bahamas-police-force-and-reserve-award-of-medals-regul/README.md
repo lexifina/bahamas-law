@@ -1,6 +1,6 @@
 # Royal Bahamas Police Force and Reserve (Award of Medals) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1979-0060; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1979/1979-0060/1979-0060_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1979-0060; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1979/1979-0060/1979-0060_2.pdf
 
 Made under the Act numbered 2009-0003 in the publisher's index.
 
