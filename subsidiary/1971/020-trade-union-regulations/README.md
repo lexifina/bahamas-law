@@ -1,6 +1,6 @@
 # Trade Union Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1971-0020; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1971/1971-0020/1971-0020_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1971-0020; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1971/1971-0020/1971-0020_2.pdf
 
 Made under the Act numbered 1970-0014 in the publisher's index.
 
