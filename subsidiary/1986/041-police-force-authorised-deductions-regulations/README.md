@@ -1,6 +1,6 @@
 # Police Force (Authorised Deductions) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1986-0041; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1986/1986-0041/1986-0041_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1986-0041; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1986/1986-0041/1986-0041_2.pdf
 
 Made under the Act numbered 2009-0003 in the publisher's index.
 
