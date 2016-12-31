@@ -1,6 +1,6 @@
 # Royal Bahamas Police Force Band (Fees for Private Engagements) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1984-0025; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1984/1984-0025/1984-0025_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1984-0025; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1984/1984-0025/1984-0025_2.pdf
 
 Made under the Act numbered 2009-0003 in the publisher's index.
 
