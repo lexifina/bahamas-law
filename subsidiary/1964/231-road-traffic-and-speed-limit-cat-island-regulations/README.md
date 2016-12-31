@@ -1,6 +1,6 @@
 # Road Traffic and Speed Limit (Cat Island) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1964-0231; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1964/1964-0231/1964-0231_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1964-0231; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1964/1964-0231/1964-0231_2.pdf
 
 Made under the Act numbered 1958-0057 in the publisher's index.
 
