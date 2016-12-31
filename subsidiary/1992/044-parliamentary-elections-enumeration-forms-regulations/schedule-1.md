@@ -1,24 +1,5 @@
-# First Schedule
-PARLIAMENTARY ELECTIONS (ENUMERATION
-FORMS) REGULATIONS
-FORM 1
-ENUMERATION RECORD CERTIFICATE OF PERSON WHOSE NAME APPEARS ON VOTERS LIST
-Office use only No. File No.
-Constituency Polling Division
-........................................................................................................
-USE CAPITAL LETTERS
-........................................................................................................
-SURNAME OF ELECTOR M F
-........................................................................................................
-OTHER NAMES PLACE & DATE OF BIRTH
-........................................................................................................
-PRESENT ADDRESS AND HOW LONG THERE:
-........................................................................................................ PREVIOUS ADDRESS:
-.........................................................................................................
-VOTER'S REGISTRATION NO. SIGNATURE OF VOTER
-..................................................................................................................
-OBSERVATIONS
-.........................................................................................................
-The above named appears on the register of voters for Polling Division .............................. of the .......................... Constituency.
-SIGNATURE OF ENUMERATOR DATE
-......................................................... .................................
+# First Schedule PARLIAMENTARY ELECTIONS (ENUMERATION FORMS) REGULATIONS FORM 1 ENUMERATION RECORD CERTIFICATE OF PERSON WHOSE NAME APPEARS ON VOTERS LIST Office use only File No.
+No.
+Constituency Polling Division USE CAPITAL LETTERS SURNAME OF ELECTOR M F OTHER NAMES PLACE & DATE OF BIRTH PRESENT ADDRESS AND HOW LONG THERE:
+PREVIOUS ADDRESS:
+VOT(5¶65(*,675$7,2112 SIGNATURE OF VOTER OBSERVATIONS The above named appears on the register of voters for Polling SIGNATURE OF ENUMERATOR DATE
