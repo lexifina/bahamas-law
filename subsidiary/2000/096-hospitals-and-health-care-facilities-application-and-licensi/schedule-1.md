@@ -1,6 +1,6 @@
 # Schedule
 FORM I APPLICATION FOR LICENCE TO OPERATE A HOSPITAL OR HEALTH CARE FACILITY
-HOSPITALS AND HEALTH CARE FACILITIES ACT, 1998
+HOSPITALS AND HEALTH CARE FACILITIES ACT
 (To be submitted in duplicate)
 LICENSING BOARD Application Date ...............
 Licensee/Administrator
@@ -30,7 +30,7 @@ Please attach the following -
 (b) three appropriate references; and
 (c) a list of names and qualifications of present staff.
 FORM II LICENCE
-HOSPITALS AND HEALTH CARE FACILITIES ACT, 1998
+HOSPITALS AND HEALTH CARE FACILITIES ACT
 LICENCE NO.: ......................
 The Hospitals and Health Care Facilities Licensing Board hereby grants this Licence
 to ................................................................................................ (Licensee/Administrator)
@@ -44,7 +44,7 @@ Special conditions: ............................................................
 ................................................ .......................................
 (Date) (Chairman)
 FORM III TEMPORARY LICENCE
-HOSPITALS AND HEALTH CARE FACILITIES ACT, 1998
+HOSPITALS AND HEALTH CARE FACILITIES ACT
 LICENCE NO.: ......................
 The Hospitals and Health Care Facilities Licensing Board hereby grants this licence to ..................................................... (Licensee/Administrator)
 to operate ............................. bed as a Hospital or Health Care number
@@ -57,7 +57,7 @@ Special conditions: ............................................................
 ................................................ .......................................
 (Date) (Chairman)
 FORM IV APPLICATION FOR RENEWAL OF LICENCE
-HOSPITALS AND HEALTH CARE FACILITIES ACT, 1998
+HOSPITALS AND HEALTH CARE FACILITIES ACT
 (To be submitted in duplicate)
 I, .................................................. of .......................................... (Licensee/Administrator)
 hereby make application for renewal of Licence No.: .............. to operate the Hospital or Health Care Facility known as
@@ -66,7 +66,7 @@ The following is a list of changes to the operations of the Hospital or Health C
 ............................................ ............................................
 (Date) (Licensee/Administrator)
 FORM V APPLICATION FOR TRANSFER OF LICENCE
-HOSPITALS AND HEALTH CARE FACILITIES ACT, 1998
+HOSPITALS AND HEALTH CARE FACILITIES ACT
 (To be submitted in duplicate)
 1. Name of Hospitals or Health Care Facility .........................
 2. Location ...............................................................................
