@@ -1,6 +1,6 @@
 # Carriage by Air (Bahamian Dollar Equivalents) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1968-0079; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1968/1968-0079/1968-0079_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1968-0079; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1968/1968-0079/1968-0079_2.pdf
 
 Made under the Act numbered 2021-0001 in the publisher's index.
 
