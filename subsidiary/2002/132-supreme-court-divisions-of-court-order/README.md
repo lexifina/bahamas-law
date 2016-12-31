@@ -1,6 +1,6 @@
 # Supreme Court (Divisions of Court) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2002-0132; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2002/2002-0132/2002-0132_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2002-0132; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2002/2002-0132/2002-0132_2.pdf
 
 Made under the Act numbered 1996-0015 in the publisher's index.
 
