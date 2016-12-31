@@ -1,1 +1,13 @@
-# First Schedule (section 2) DESCRIPTION OF HER MAJESTY'S PRISON ALL THAT certain lot piece or parcel of land containing by admeasurement Seventy Four Acres and Two Hundred and Sixty Seven Thousandths of an Acre (74.267 Acres) or thereabouts situate at the junction of Fox Hill and Yamacraw Roads in the Eastern District of the Island of New Providence ABUTTING AND BOUNDING towards the NORTH on Sandilands Rehabilitation Centre towards the EAST on a forty ( 40) feet wide road reservation towards the SOUTH on Yamacraw Road SAVE AND EXCEPT all that piece parcel or tract of land containing by admeasurement Three Acres and Seventy Eight Hundredths (3.78) of an acre or thereabouts being a parcel of land in the vicinity of Her Majesty's Prison compound situate East of Fox Hill Road and North ofYamacraw Road in the Eastern District of the Island of New Providence in The Commonwealth of The Bahamas ABUTTING AND BOUNDING towards the NORTH on land the property of The Bahamas Government (Her Majesty's Prison Compound) towards the SOUTH partly on Yamacraw Road and partly on land the property of The Bahamas Government (Her Majesty Prison Compound) towards the EAST on land the property of The Bahamas Government (Her Majesty's Prison Compound) and towards the WEST on land the property of The Bahamas Government (Her Majesty's Prison Compound) or however the same may About and Bound which said piece parcel or tract of land.
+# First Schedule - (Section 2)
+DESCRIPTION OF HER MAJESTY'S PRISON
+ALL THAT certain lot piece or parcel of land containing by admeasurement Seventy Four Acres and Two Hundred and
+Sixty Seven Thousandths of an Acre (74.267 Acres) or thereabouts situate at the junction of Fox Hill and Yamacraw Roads in the Eastern District of the Island of New Providence
+ABUTTING AND BOUNDING towards the NORTH on Sandilands Rehabilitation Centre towards the EAST on a forty
+(40) feet wide road reservation towards the SOUTH on Yamacraw Road SAVE AND EXCEPT all that piece parcel or tract of land containing by admeasurement Three Acres and
+Seventy Eight Hundredths (3.78) of an acre or thereabouts being a parcel of land in the vicinity of Her Majesty's Prison
+compound situate East of Fox Hill Road and North of Yamacraw Road in the Eastern District of the Island of New Providence in The Commonwealth of The Bahamas
+ABUTTING AND BOUNDING towards the NORTH on land the property of The Bahamas Government (Her Majesty's Prison
+Compound) towards the SOUTH partly on Yamacraw Road and partly on land the property of The Bahamas Government (Her Majesty Prison Compound) towards the EAST on land the
+property of The Bahamas Government (Her Majesty's Prison Compound) and towards the WEST on land the property of The
+Bahamas Government (Her Majesty's Prison Compound) or however the same may About and Bound which said piece
+parcel or tract of land.

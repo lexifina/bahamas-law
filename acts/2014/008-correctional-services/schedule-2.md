@@ -1,8 +1,11 @@
-# Second Schedule (section i 2) \ Old Title New Title
-(i) Superintendent Commissioner ., (i i) Deputy Superintendent Deputy Commissioner ( i i i) Assistant Superintendent Assistant Commissioner .~
-(iv) Chief Officer Chief Corrections Officer I I I
-(v) Principal Corrections Officer Principal Corrections Officer
-(vi) Prison Sergeant Corrections Sergeant
-(vii) Prison Corporal Corrections Corporal
-(viii) Prison Officer Corrections Officer
-(ix) Prison Recruit Trainee Correctional Officer
+# Second Schedule - (Section 12)
+Old Title New Title
+(I) Superintendent Commissioner
+(II) Deputy Superintendent Deputy Commissioner
+(III) Assistant Superintendent Assistant Commissioner
+(IV) Chief Officer Chief Corrections Officer
+(V) Principal Corrections Officer Principal Corrections Officer
+(VI) Prison Sergeant Corrections Sergeant
+(VII) Prison Corporal Corrections Corporal
+(VIII) Prison Officer Corrections Officer
+(IX) Prison Recruit Trainee Correctional Officer
