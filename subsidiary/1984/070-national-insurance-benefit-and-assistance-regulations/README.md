@@ -1,6 +1,6 @@
 # National Insurance (Benefit and Assistance) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1984-0070; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1984/1984-0070/1984-0070_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1984-0070; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1984/1984-0070/1984-0070_2.pdf
 
 Made under the Act numbered 1972-0021 in the publisher's index.
 
@@ -17,18 +17,20 @@ Commenced: 1984-10-01. Laws the edition lists: S.I. 47/1976.
 | [s-007](s-007.md) | 7. Date of claim |
 | [s-008](s-008.md) | 8. Amendment of claim forms |
 | [s-009](s-009.md) | 9. Interchange with claims for other benefits under the Act |
-| [s-010](s-010.md) | 10. Time and manner of payment of injury benefit, sickness benefit or sickness assistance, |
+| [s-010](s-010.md) | 10. Time and manner of payment of injury benefit, sickness benefit or |
 | [s-011](s-011.md) | 11. Time and manner of payment of pensions |
 | [s-012](s-012.md) | 12. Board may make other arrangements for payment of pension in certain cases |
 | [s-013](s-013.md) | 13. Conditions relating to payment of pension |
 | [s-014](s-014.md) | 14. Entitlement to receive benefit or assistance |
-| [s-015](s-015.md) | 15. Extinguishment of right to sums payable by way of benefit or assistance which are not |
+| [s-014-a](s-014-a.md) | 14A. Adjustments to payments |
+| [s-015](s-015.md) | 15. Extinguishment of right to sums payable by way of benefit or assistance which are not obtained within the prescribed time |
 | [s-016](s-016.md) | 16. Information to be given when obtaining payment for benefit or assistance |
 | [s-017](s-017.md) | 17. Certificates of incapacity and confinement |
 | [s-018](s-018.md) | 18. Entitlement to retirement benefit and duration thereof |
 | [s-019](s-019.md) | 19. Rate of retirement benefit |
 | [s-020](s-020.md) | 20. Date of retirement immediately following invalidity benefit |
-| [s-021](s-021.md) | 21. Award of retirement benefit between the age of sixty and sixty-five years |
+| [s-021](s-021.md) | 21. Repealed |
+| [s-021-a](s-021-a.md) | 21A. Retirement Grant |
 | [s-022](s-022.md) | 22. Entitlement to invalidity benefit and duration thereof |
 | [s-023](s-023.md) | 23. Rate of invalidity benefit |
 | [s-024](s-024.md) | 24. Order of priority |
@@ -37,6 +39,7 @@ Commenced: 1984-10-01. Laws the edition lists: S.I. 47/1976.
 | [s-027](s-027.md) | 27. Rate increase for retirement, invalidity and survivor's benefit |
 | [s-028](s-028.md) | 28. Entitlement to orphan benefit and duration thereof |
 | [s-029](s-029.md) | 29. Rate of orphan's benefit |
+| [s-029-a](s-029-a.md) | 29A. Survivor 's Grant |
 | [s-030](s-030.md) | 30. Increase in certain retirement benefits, invalidity benefits and survivor's benefits |
 | [s-030-a](s-030-a.md) | 30A. Increase in certain retirement benefits, invalidity and survivor's benefit |
 | [s-031](s-031.md) | 31. Entitlement to sickness benefit |
@@ -51,8 +54,8 @@ Commenced: 1984-10-01. Laws the edition lists: S.I. 47/1976.
 | [s-040](s-040.md) | 40. Support of claim to maternity benefit |
 | [s-041](s-041.md) | 41. Certificate of confinement |
 | [s-042](s-042.md) | 42. Disqualification |
-| [s-043](s-043.md) | 43. Incapacity for work immediately following the cessation of entitlement to maternity |
-| [s-044](s-044.md) | 44. Maternity grant. Funeral Benefit |
+| [s-043](s-043.md) | 43. Incapacity for work immediately following the cessation of entitlement to maternity benefit |
+| [s-044](s-044.md) | 44. Maternity grant |
 | [s-045](s-045.md) | 45. Entitlement to funeral benefit |
 | [s-046](s-046.md) | 46. Persons who may receive funeral benefit |
 | [s-047](s-047.md) | 47. Amount of funeral benefit |
@@ -64,18 +67,18 @@ Commenced: 1984-10-01. Laws the edition lists: S.I. 47/1976.
 | [s-047-f](s-047-f.md) | 47F. Disqualification for unemployment benefit |
 | [s-047-g](s-047-g.md) | 47G. Duration of disqualification and effect on benefit and contributions |
 | [s-047-h](s-047-h.md) | 47H. Loss of employment through trade dispute |
-| [s-047-i](s-047-i.md) | 47I. Refund to Director. Injury Benefit |
+| [s-047-i](s-047-i.md) | 47I. Refund to Director |
 | [s-048](s-048.md) | 48. Meaning of "injury benefit period" |
 | [s-049](s-049.md) | 49. Entitlement to injury benefit; benefit days |
 | [s-050](s-050.md) | 50. Rate of injury benefit |
-| [s-051](s-051.md) | 51. Adjustment of employer's sick leave payment. Disablement Benefit |
+| [s-051](s-051.md) | 51. Adjustment of employer's sick leave payment |
 | [s-052](s-052.md) | 52. Entitlement of disablement benefit |
 | [s-053](s-053.md) | 53. Duration of disablement benefit and manner of payment |
 | [s-054](s-054.md) | 54. Rate of total disablement benefit and disablement grant |
 | [s-055](s-055.md) | 55. Increase of disablement benefit during hospital treatment or incapacity for work |
 | [s-056](s-056.md) | 56. Assessment of degree of disablement |
 | [s-057](s-057.md) | 57. Additional amount for disablement |
-| [s-058](s-058.md) | 58. Successive accidents. Death Benefit |
+| [s-058](s-058.md) | 58. Successive accidents |
 | [s-059](s-059.md) | 59. Order of priority for entitlement to death benefit and quantum |
 | [s-060](s-060.md) | 60. Death benefit: further conditions affecting title to widows or widowers |
 | [s-061](s-061.md) | 61. Rate of death benefit for orphan |
@@ -110,8 +113,8 @@ Commenced: 1984-10-01. Laws the edition lists: S.I. 47/1976.
 | [s-089](s-089.md) | 89. Persons not entitled to assistance |
 | [s-090](s-090.md) | 90. Award and duration of old age non-contributory pension |
 | [s-091](s-091.md) | 91. Award and duration of invalidity assistance |
-| [s-092](s-092.md) | 92. Award and duration of survivors assistance. Sickness Assistance |
-| [s-093](s-093.md) | 93. Award and duration of sickness assistance. Rates of Assistance |
+| [s-092](s-092.md) | 92. Award and duration of survivors assistance |
+| [s-093](s-093.md) | 93. Award and duration of sickness assistance |
 | [s-094](s-094.md) | 94. Rates of assistance |
 | [s-095](s-095.md) | 95. Determination of invalidity and certification of permanent incapacity for work |
 | [s-096](s-096.md) | 96. Disqualification |
@@ -136,4 +139,5 @@ Commenced: 1984-10-01. Laws the edition lists: S.I. 47/1976.
 | [schedule-4](schedule-4.md) | Fourth Schedule - (Regulation 56) |
 | [schedule-5](schedule-5.md) | Fifth Schedule - (Regulation 68) |
 | [schedule-6](schedule-6.md) | Sixth Schedule - (Regulations 49, 50, |
-| [schedule-7](schedule-7.md) | Seventh Schedule - (Regulations 19(3) |
+| [schedule-7](schedule-7.md) | Seventh Schedule |
+| [schedule-8](schedule-8.md) | Eighth Schedule |
