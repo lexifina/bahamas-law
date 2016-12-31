@@ -1,76 +1,381 @@
-# First Schedule (Regulation 4) FORM NO. I Application for a Permit to harvest Timber and Non-timber Forest Produce (area less than 1,000 acres or small scaled operation) SECTION ONE A I. 2. 3. 4. 5. 6. 7.
-B. 8.
-General Information Permanent Street address of Applicant (or company) Location Name, location and approximate acreage of forest estate (or private forest estate) from which timber or non-timber produce are to be removed: [Please provide GPS co-ordinates and/or GIS map depicting exact location in the forest area] 9. 10.
-C.
-Specific Information 11.
-Specifics of timber or non-timber produce to be removed: 12. 13. \ 14.
-Equipment to be used to harvest produce: 15.
-Are you the holder of a valid permit to use and/transport a Power Saw? Yes No If yes. state
-(i)
-(ii) ! 6. 17. (NB: WHERE REQUIRED, THIS APPLICATION MUST BE ACCOMPANIED BY AN ENVIRONMENTAL IMPACT ASSESSMENT (PURSUANT TO SECTION 17(2) OF TUE FORESTRY ACT), AN ENVIRONMENTAL MANAGEMENT PLAN, A BUSINESS PLAN, A FOREST MANAGEMENT PLAN WHICH IS INCLUSIVE OF A WORKING PLAN AND PLAN OF OPERATIONS.) D Declaration.
-I certify:- That to the best of my knowledge and belief the information supplied by me above is accurate and complete. I understand that any misrepresentation made by me in this regards may result in the disqualification of this application.
-Signature of Applicant/agent on behalf of the applicant/company Date I 'I I . I (Regulation 4) FORMN0.2 Permit No.------- Permit to Remove Timber or Non-Timber Forest Produce (area less than 1,000 acres or small scaled operation) THIS PERMIT IS HEREBY GRANTED to [name of applicantl of [address] in the Settlement of (state Settlement] on the island of [state Island] whose occupation is (state occupation], pursuant to Regulation 4 of the Forestry Regulations, 2014, to carry out the fol !owing activity namely: [The area(s) so affected by this Permit are annotated on attached map as Annex - I] Description of [terns to be removed:
-Type of operation Acres (ha) Type of Forest Produce Approximate size of trees (Ft)(m) Type of Non-limber Forest Produce Total No. ofTrees Estimate Volume (cu ft OB) Pine Hardwood TOTAL VOLUME This permit is valid for a period of three months as of the date of this permit.
-Minister responsible for Forestry Date Page · 23 \ (Regulation 5) FORM NO. 3 (A) Application for a permit to harvest a protected tree File Ref. No. _ _ _ _ _ Date: _ ___ _ I. (Name of Applicant) a.
-ADDRESS P.O. Box:-------------------- Island:------- - ----- - ------ -- Telephone: -------- ------------ Fax: ___________ _______ _ _ _ b.
-PROPERTY OWNER (if different to !(a) above) P.O. Box:
-Island:----------------- - - - ----- Telephone: ----------------- --------- Fax: 2. a.
-Location or site of the tree(s) in question b.
-Is the site covered by a valid Permit for conduct of Excavation or Landfill? YES/NO If yes, provide Permit NO.-------------- · . .
-If no, what is the reason for the removal of the tree(s) (Example: Description of Operation: Land clearing, construction, removaV transplant/destruction of a tree for construction purposes or to prevent damage to existing structures) c.
-Applicant is to provide details of the following that apply to the proposed activity to the extent possible:
-Land Clearing:--------------------- Size of area: ------ ------------------- Common and scientific name of protected tree(s):
-Number of Protected Trees Under the Act:
-Age or size and/or height of tree(s): - -------- - - --- Type of equipment used for harvesting protected tree(s) Proposed method of harvesting protected tree(s) ------- ---- 3.
-Restoration and After-use:
-Applicant to indicate planned restorative and reinstatement plans and future land use plans for the site.
-Signature of Applicant Co-Applicant Date:-------------- ------- --- Please allow 7- 14 business days for processing of application OFFICIAL USE Date of Application:----------- ------ Date of Public Notice if applicable:
-Site Visit By:----- ----- - --- Officer:-------- ----- Date:-------- Evaluation of Application By: _ _______ ___ _ Date:----- --- Comments:
-Status:------------- Approved: -------- Refused: __________ _ \ i I !I ' ' I I : (Regulation 6) FORM NO. 3 (B) PERMIT TO HARVEST A PROTECTED TREE ISSUED BY THE DIRECTOR OF FORESTRY PERMIT NO.: _ ____ _ A permit is issued to Of for the harvest of the Protected Tree(s) named below, under the provisions of section l I of the Forestry Act 20 I 0.
-Subject to the following conditions: a) that the method of harvesting of protected trees adopted and the equipment used in the harvesting shall in all respects comply with the particulars furnished by the holder of the permit to the Director of Forestry upon application therefore (including those contained in the plans, drawings, specifications and calculations) except insofar as the Director of Forestry may in writing at any time authorize any variation in or departure from such particulars; b) This Permit is valid for six months and is not renewable. c) Upon completion of any harvesting carried out for commercial purposes, a surface which has been exposed as a result of the harvesting shall be restored (to the satisfaction of the Director of Forestry) to its original state of vegetation insofar as is reasonably possible.
-Director of Forestry Date \ (Regulation 7) FORM NO. 4 (A) Application for a Timber Licence to harvest Timber or Non-timber Forest Produce (area of 1,000 acres or greater or large scaled operation) SECTION ONE A I. .., J.
-General Information If Company, please indicate Bahamas Business Licence Permanent Street address of Applicant (or company): 4. 5. 6. 7.
-B. 8.
-Location Name, location and approximate acreage of forest estate from which [Please provide GPS co-ordinates and/or GIS map depicting exact location in the forest area] 9. 10.
-C S pecific Information 11.
-Specifics of timber or non-timber produce to be removed 12. 13.
-I' \ 14. 15.
-Are you rhe holder of a valid perm it to use and/transport a Power Saw? Yes No If yes, state
-(i)
-(ii) 16. 17.
-NOTE:
-APPLICATION MUST BE ACCOMPANIED BY AN ENVIRONMENTAL IMPACT ASSESSMENT (SECTION 17(2) OF THE ACT) COMPREHENSIVE BUSINESS PLAN, A FOREST MANAGEMENT PLAN INCORPORATING A WORKING PLAN AND PLAN OF OPERATIONS D Declaration I certify:- That to the best of my knowledge and belief the information supplied by me above is accurate and complete. I understand that any misrepresentation made by me in this regards may result in the disqualification of this application.
-Signature of Applicant/agent on behalf of the Applicant/Company Date \ (Regulation 7) FOR.!\1 NO. 4 (B) A Timber Licence for the large scale harvest and extraction of timber or non-timber forest produce Licence No. --- A Timber LICENCE for the large scale harvest and extraction of timber or non-timber forest produce the estimated value is as described under the said Licence Terms and Conditions at Annex -I.
-This LICENCE IS HEREBY GRANTED TO: [state name of Applicant] of (address] in the Settlement of [state Settlement] on the island of [state fsland] whose occupation is [state occupation] herein referred to as the Licensee, pursuant to Regulation 8 of the Forestry Regulations, 2014, to carry out the following activity namely:
-TO HARVEST AND EXTRACT TIMBER OR NON-TIMBER FOREST PRODUCE AS DELINEATED BELOW NAMELY FOR THE AREA KNOWN AS: [The area(s) so affected by this Licence are annotated on map(.\) alfached ns Annex - 2} Timber Approximate volume per acre Total number of trees per acre Non-Timber Forest Produce Approximate weight of Non-Timber Forest Produce Type of Non-Timber forest produce Estimate Volume (cu ft OB) Pine Hardwood TOTAL VOLUME hereinafter affixed.
-Minister responsible for Forestry Date ······························································································································· ' I I (Regulation 10) FORM NO.S Application for a Permit to use or Transport a Portable or Power d riven saw in a Forest Estate or private forest estate A.
-I. 2. 3. 4. 5. 6. 7.
-B. 8. 9.
-General Information Location [Please provide GPS co-ordinates and/or GIS map depicting exact location in the forest area) 10. 11.
-C.
-Specific Information 12.
-Is this your first application for a permit to use/transport a portable or power driven saw? Yes No I I I \ If no. state in relation to the last perm it granted:
-(i)
-(ii) 13.
-Was the perm it granted? Yes No If yes. state
-(i)
-(iii) 14.
-Are you the owner of the portable or power driven saw? Yes No If no, state the name and address of the owner and how you came to be in possession of it: 15.
-Do you intend to use the portable or power saw to harvest timber and/or noll-timber forest produce? Yes No 16.
-Are you the holder of a valid permit or timber harvesting licence to harvest and remove timber and/or non-timber forest produce? Yes No If yes, state
-(i)
-(ii)
-(iii) 17.
-Give the particulars of the following:
-(a)
-(b)
-(c)
-(d)
-(e) !8. ····················································· ······································ D Declaration I certify that to the best of my knowledge and belief the information supplied by me above is accurate and complete. I understand that any misrepresentation made by me in this regards may result in the disqualification of this application.
-Signature of Applicant/agent on behalf of the Applicant/Company Date I I \ {Regulation 10) FORMN0.6 Permit to use or Transport a Portable or Power Driven Saw in a Forest Estate Permit No. ___ _ THIS PERMIT IS HEREBY GRANTED to [name of applicant] of (address) in the Settlement of [state Settlement) on the island of [state Island] whose occupation is [state occupation], pursuant to Regulation 10 of the Forestry Regulations, 20 14. to carry out the following activity namely: [state the narure of the activity that is to be carried out, where this is to be done including the name of the forest estate and nearest settlement and island] [The area so affected by this Permit is annotated on map attached as Annex -- J] THIS PERMIT SHALL NOT EXCEED A PERIOD OF ONE MONTH OR THE PERIOD OF THE ACCOMPANYING TIMBER LICENCE OR TIMBER PERMIT, WHICHEVER IS SHORTER.
-Director of Forestry Date I I \ I A.
-I. ., 3. 4. 5. 6. 7.
-B. 8. 9. (Regulation 17) FORMN0.7 Application for a prescribe Burning Permit in a Forest Estate General Information If Company. please indicate Bahamas Business Licence Location [Please provide GPS co-ordinates and/or G[S map depicting exact location in the forest area] I 0. 11.
-C.
-Specific Information 12. [s this your first application for a Prescribe burning permit? Yes No [f no, state:
-(i) (i i) \
+# First Schedule
+(Regulation 4)
+FORM NO. 1
+Application for a Permit to harvest Timber and
+Non-timber Forest Produce (area less than 1,000 acres or
+small scaled operation)
+File Ref. No......................
+Date:..............................
+SECTION ONE
+A General Information 1. Full Name of Applicant (or company):..................................
+2. If Company, please indicate Bahamas Business Licence No......... 3. Permanent street address of Applicant (or company).................
+................................................................................
+4. P. O. Box.....................................................................
+5. Telephone No. (s):..........................................................
+6. Fax No. (s)................................................................... 7. E-mail address:..............................................................
+B. Location 8. Name, location and approximate acreage of forest estate (or private
+forest estate) from which timber or non-timber produce are to be
+removed:........................................................................... [Please provide GPS co-ordinates and/or GIS map depicting exact
+location in the forest area]
+9. Nearest settlement:.........................................................
+10. Island:........................................................................
+C. Specific Information 11. Specifics of timber or non-timber produce to be
+removed:...........................................................................
+12. Quantity of produce to be removed:......................................
+13. Use of timber or non-timber forest produce:.........................
+..............................................................................
+14. Equipment to be used to harvest produce:........................... ..............................................................................
+15. Are you the holder of a valid permit to use and/transport a power
+saw?
+Yes * No *
+If yes, state (i) Permit No.................................................
+(ii) Date of Issue:.............................................
+16. Proposed date of commencement of removal:.............
+..............................................................................
+17. Proposed date for completion:............................................
+(N.B.: WHERE REQUIRED, THIS APPLICATION MUST BE ACCOMPANIED BY AN ENVIRONMENTAL IMPACT ASSESSMENT (PURSUANT TO SECTION 17(2) OF THE FORESTRY ACT), AN ENVIRONMENTAL MANAGEMENT PLAN, A BUSINESS PLAN, A
+FOREST MANAGEMENT PLAN WHICH IS INCLUSIVE OF A
+WORKING PLAN AND PLAN OF OPERATIONS )
+D Declaration. I certify:- That to the best of my knowledge and belief the information supplied
+by me above is accurate and complete. I understand that any
+misrepresentation made by me in this regard may result in the
+disqualification of this application.
+Signature of Applicant/Agent on behalf of the Applicant/Company
+Date
+(Regulation 4)
+FORM NO. 2
+Permit to Remove Timber or Non-Timber Forest Produce (area less than 1,000 acres or small scaled operation)
+Permit No. File Ref. No...............
+Date............................
+THIS PERMIT IS HEREBY GRANTED to [name of applicant] of
+[address] in the Settlement of [state Settlement] on the island of [state
+Island] whose occupation is [state occupation], pursuant to Regulation 4 of the Forestry Regulations, to carry out the following activity
+namely:
+[The area(s) so affected by this Permit are annotated on attached map
+as Annex -1]
+Description of Items to be removed: Type of operation
+Acres (ha)
+Type of Forest Produce
+Approximate size of trees (Ft)(m)
+Type of Non-Timber Forest Produce
+Total No. of Trees Estimate Volume (cu ft OB)
+Pine
+Hardwood
+TOTAL VOLUME This permit is valid for a period of three months as of the date of this
+permit.
+Minister responsible for Forestry
+Date
+Conditions of
+Permit:...........................................................................
+....................................................................................
+....................................................................................
+(Regulation 5)
+FORM NO. 3(A)
+Application for a permit to harvest a protected tree
+File Ref. No..................
+Date:..................
+1.
+(Name of Applicant)
+a. ADDRESS
+P.O. Box:
+Island:
+Telephone:
+Fax:
+b. PROPERTY OWNER (if different to 1(a) above)
+P.O. Box:
+Island:
+Telephone:
+Fax:
+2.
+a. Location or site of the tree(s) in question
+b. Is the site covered by a valid Permit for conduct of Excavation or
+Landfill? YES/NO
+If yes, provide Permit No.
+If no, what is the reason for the removal of the tree(s)
+(Example: Description of Operation: Land clearing, construction,
+removal/ transplant/destruction of a tree for construction purposes or to
+prevent damage to existing structures) c. Applicant is to provide details of the following that apply to the
+proposed activity to the extent possible:
+Land Clearing:
+Size of area:
+Common and scientific name of protected tree(s):
+Number of protected trees under the Act
+Age or size and/or height of tree(s):
+Type of equipment used for harvesting protected tree(s)
+Proposed method of harvesting protected tree(s)
+3. Restoration and after-use: Applicant to indicate planned restorative and reinstatement plans and
+future land use plans for the site.
+Signature of Applicant
+Co-Applicant
+Date:
+Please allow 7-14 business days for processing of application
+OFFICIAL USE
+Date of Application:
+Date of Public Notice if applicable:
+Site Visit By: Officer: Date:
+Evaluation of Application
+By: Date:
+Comments:
+Status:
+Approved: Refused:
+(Regulation 6)
+FORM NO. 3(B)
+PERMIT TO HARVEST A PROTECTED TREE ISSUED BY THE DIRECTOR OF FORESTRY
+PERMIT NO.:
+A permit is issued to
+of
+for the harvest of the Protected Tree(s) named below, under the
+provisions of section 11 of the Forestry Act (Ch. 242A),
+Subject to the following conditions:
+a) that the method of harvesting of protected trees adopted and the equipment used in the harvesting shall in all respects comply
+with the particulars furnished by the holder of the permit to the Director of Forestry upon application therefore (including those
+contained in the plans, drawings, specifications and calculations) except insofar as the Director of Forestry may in writing at any time authorise any variation in or departure from such
+particulars; b) This Permit is valid for six months and is not renewable.
+c) Upon completion of any harvesting carried out for commercial purposes, a surface which has been exposed as a result of the harvesting shall be restored (to the satisfaction of
+the Director of Forestry) to its original state of vegetation insofar as is reasonably possible.
+Director of Forestry
+Date
+(Regulation 7)
+FORM NO. 4(A)
+Application for a Timber Licence to harvest Timber or Non-timber Forest Produce (area of 1,000 acres or greater or
+large scaled operation)
+File Ref. No...................
+Date:........................... SECTION ONE
+A. General Information 1. Full Name of Applicant (or Company):.................................
+2. If Company, please indicate Bahamas Business Licence
+No..................................................................................
+3. Permanent street address of Applicant (or company):............... .....................................................................................
+4. P. O. Box.....................................................................
+5. Telephone No. (s):..........................................................
+6. Fax No. (s)...................................................................
+7. E-mail address:..............................................................
+B. Location 8. Name, location and approximate acreage of forest estate from
+which timber or non-timber produce are to be harvested....................
+.....................................................................................
+[Please provide GPS co-ordinates and/or GIS map depicting exact
+location in the forest area] 9. Nearest settlement:.........................................................
+10. Island:........................................................................
+C. Specific Information 11. Specifics of timber or non-timber produce to be removed............
+12. Quantity of produce to be removed:.....................................
+13. Use of timber or non-timber forest produce:...................... ......................................................................................
+14. Equipment to be used to harvest produce:...........................
+15. Are you the holder of a valid permit to use and/transport a power
+saw?
+Yes * No *
+If yes, state (i) Permit No.......................................
+(ii) Date of Issue:..................................
+16. Proposed date of commencement of removal:..........................
+17. Proposed date for completion:.............................................
+NOTE: APPLICATION MUST BE ACCOMPANIED BY AN ENVIRONMENTAL IMPACT ASSESSMENT (SECTION 17(2)
+OF THE ACT) COMPREHENSIVE BUSINESS PLAN, A
+FOREST MANAGEMENT PLAN INCORPORATING A
+WORKING PLAN AND PLAN OF OPERATIONS D Declaration I certify that to the best of my knowledge and belief the information
+supplied by me above is accurate and complete. I understand that any misrepresentation made by me in this regard may result in the
+disqualification of this application.
+Signature of Applicant/Agent on behalf of the Applicant/Company
+Date
+(Regulation 7)
+FORM NO. 4(B)
+A Timber Licence for the large scale harvest and extraction
+of timber or non-timber forest produce
+Licence No. File Ref. No..................
+Date...........................
+A Timber LICENCE for the large scale harvest and extraction of timber or non-timber forest produce the estimated value is as de-
+scribed under the said licence terms and conditions at Annex -1.
+This LICENCE IS HEREBY GRANTED TO: [state name of Applicant] of [address] in the Settlement of [state Settlement] on the island of [state island] whose occupation is [state
+occupation] herein referred to as the Licensee, pursuant to regulation 8 of the Forestry Re-gulations, to carry out the
+following activity namely:
+TO HARVEST AND EXTRACT TIMBER OR NON-
+TIMBER FOREST PRODUCE AS DELINEATED BELOW
+NAMELY FOR THE AREA KNOWN AS:
+.............................................................................. .............................................................................. [The area(s) so affected by this Licence are annotated on map(s)
+attached as Annex -2]
+Timber Approximate volume per acre
+Total number of trees per acre Non-Timber Forest Produce Approximate weight of Non-Timber Forest Produce
+Type of Non-Timber forest produce Estimate Volume (cu ft OB)
+Pine Hardwood
+TOTAL VOLUME This Licence is valid for a period of......................... as of the date of this licence hereinafter affixed.
+Minister responsible for Forestry
+Date
+Conditions of Licence:............................................................. ..............................................................................
+(Regulation 10)
+FORM NO. 5
+Application for a Permit to use or Transport a Portable or Power driven saw in a Forest Estate or private forest estate
+Application File Ref. No...................
+Date:...........................................
+A. General Information 1. Full Name of Applicant (or Company):........................... 2. If Company, please indicate Bahamas Business Licence
+No........................................................................... ...............................................................................
+3. Permanent Street Address of Applicant (or Company):................................................................. ..............................................................................
+4. P. O. Box.............................................................. 5. Telephone No. (s):...................................................
+6. Fax No. (s)............................................................ 7. E-mail address:......................................................
+B. Location 8. Name of forest estate where power saw is to be used:.....................................................................
+............................................................................ 9. Location of the area of operation:...............................
+[Please provide GPS co-ordinates and/or GIS map depicting exact location in the forest area] 10. Nearest Settlement:................................................
+11. Island:................................................................
+C. Specific Information 12. Is this your first application for a permit to use/transport a portable or power driven saw? Yes * No *
+If no, state in relation to the last permit granted:
+(i) Application No..................................
+(ii) Date of application:............................ 13. Was the permit granted? Yes * No *
+If yes, state (i) Permit No.:........................................
+(iii) Date of issue:......................................
+14. Are you the owner of the portable or power driven saw? Yes * No *
+If no, state the name and address of the owner and how you came to be in possession of it:
+.............................................................................. ..............................................................................
+15. Do you intend to use the portable or power saw to harvest timber and/or non-timber forest produce? Yes * No *
+16. Are you the holder of a valid permit or timber harvesting licence to harvest and remove timber and/or non-timber forest
+produce? Yes * No * If yes, state (i) Permit No.: ................................
+(ii) Licence No.:...............................
+(iii) Date of issue:..............................
+17. Give the particulars of the following: (a) Name/make of the power driven saw............................. (b) Length of the blade..................................................
+(c) Approximate age of power driven saw........................... (d) Serial number of power driven saw...............................
+(e) Any distinctive markings on the power driven saw........................................................................ .............................................................................
+18. Specifics of timber or non-timber produce to be removed:..................................................................
+.............................................................................
+D Declaration I certify that to the best of my knowledge and belief the
+information supplied by me above is accurate and complete. I understand that any misrepresentation made by me in this regard
+may result in the disqualification of this application.
+Signature of Applicant/Agent on behalf of the Applicant/Company
+Date
+(Regulation 10)
+FORM NO. 6
+Permit to use or Transport a Portable or Power Driven Saw
+in a Forest Estate
+Permit No. File Ref. No..................... Date...............................
+THIS PERMIT IS HEREBY GRANTED to [name of applicant] of [address) in the Settlement of [state Settlement] on
+the island of [state island] whose occupation is [state occupation], pursuant to regulation 10 of the Forestry Regulations, to carry out the following activity namely:
+[state the nature of the activity that is to be carried out, where
+this is to be done including the name of the forest estate and nearest settlement and island]
+[The area so affected by this Permit is annotated on map attached as Annex -1]
+THIS PERMIT SHALL NOT EXCEED A PERIOD OF
+ONE MONTH OR THE PERIOD OF THE ACCOMPANYING TIMBER LICENCE OR TIMBER
+PERMIT, WHICHEVER IS SHORTER.
+Director of Forestry
+Date
+(Regulation 17)
+FORM NO. 7
+Application for a prescribed Burning Permit in a Forest Estate
+Application File Ref. No.................... Date:...........................................
+A. General Information 1. Full Name of Applicant (or Company):...............................
+2. If Company, please indicate Bahamas Business Licence
+No..................................................................................
+3. Permanent Street Address of Applicant (or Company):................... .....................................................................................
+4. P.O. Box.....................................................................
+5. Telephone No. (s):..........................................................
+6. Fax No. (s)...................................................................
+7. E-mail address:..............................................................
+B. Location 8. Name of forest estate:......................................................
+......................................................................................
+9. Location and acreage of proposed activity:..............................
+...................................................................................... [Please provide GPS co-ordinates and/or GIS map depicting exact
+location in the forest area]
+10. Nearest Settlement:.........................................................
+11. Island:........................................................................
+C. Specific Information 12. Is this your first application for a burning permit?
+Yes * No *
+If no, state:
+(i) Application No.........................
+(ii) Date of application:....................
+13. Was the application successful? Yes * No *
+If yes, state
+(i) Permit No.................................
+(iii) Date of issue:...........................
+14. Please indicate whether a prescribed burn plan is attached, in compliance with requirements of regulation 17(2)(b).
+Yes * No *
+15. State whether the owners or occupiers of adjoining property have
+been notified of the proposed burn activity...................................
+...................................................................................... D. Declaration
+I certify that to the best of my knowledge and belief the information
+supplied by me above is accurate and complete. I understand that any misrepresentation made by me in this regard may result in the
+disqualification of this application. I also certify that I will serve notice
+on the occupiers of adjoining private lands of the intent to carry out a
+prescribed burn and the proposed dates and times of burning.
+Signature of Applicant/Agent on behalf of the Applicant/Company
+Date
+(Regulation 17) FORM NO. 8
+Burning Permit to light a fire for a prescribed burn in the Forest Estate
+Permit No.: File Ref. No.........................
+Date..................................
+THIS PERMIT IS HEREBY GRANTED to [name of applicant] of
+[address) in the Settlement of [state Settlement] on the island of [state
+island] whose occupation is [state occupation], pursuant to regulation
+17 of the Forestry Regulations, to carry out the following activity
+namely:
+[state the nature of the activity that is to be carried out, where this is to
+be done including the name of the forest estate, location, acreage,
+nearest settlement and island]
+[The area(s) so affected by this Permit is annotated on map(s) attached
+as Annex -1]
+Director of Forestry
+Date
+CONDITIONS:
+....................................................................................
+....................................................................................
+Exclusion Clause
+Neither a burning permit holder nor his or her agent, is liable for fire
+and smoke damages, or injury caused by a prescribed burn conducted
+in accordance with provisions of regulation 17, unless gross negligence
+is proven.
+(Regulation 17) FORM NO. 9
+Application for a Burning Permit for a charcoal kiln in a Forest Estate
+Application File Ref. No.................... Date:...........................................
+A General Information 1. Full Name of Applicant (or Company):...............................
+2. If Company, please indicate Bahamas Business Licence No.........
+3. Permanent Street Address of Applicant (or Company): ......................................................................................
+......................................................................................
+4. P. O. Box.....................................................................
+5. Telephone No. (s):..........................................................
+6. Fax No. (s)................................................................... 7. E-mail address:..............................................................
+B. Location 8. Name of forest estate:......................................................
+9. Location of proposed activity:.............................................
+...................................................................................... [Please provide GPS co-ordinates and/or GIS map depicting exact
+location in the forest area]
+10. Nearest Settlement:.........................................................
+11. Island:........................................................................
+C. Specific Information 12. Is this your first application for a burning permit for a Charcoal
+Kiln?
+Yes * No *
+If no, state:
+(i) Application No.:................................
+(ii) Date of application:...........................
+13. Was the application successful?
+Yes * No *
+If yes, state:
+(i) Permit No.:......................................
+(ii) Date of issue:...................................
+14. Please indicate whether a management plan is attached, in
+compliance with requirements of regulation 17(3)(b).
+Yes * No *
+15. Please indicate the type (s) (species) and the source of fuel wood
+to be used in the proposed activity ........................................ ..................................................................................
+16. State whether the owners or occupiers of adjoining property have
+been notified of the proposed charcoal kiln activity......................
+....................................................................................
+D. Declaration I certify that to the best of my knowledge and belief the information
+supplied by me above is accurate and complete. I understand that any
+misrepresentation made by me in this regard may result in the
+disqualification of this application. I also certify that I will at the time
+of the charcoal kiln activity remove trash and all flammable materials from this space as well as serve notice on the occupiers of adjoining
+private lands of the intent to carry out a charcoal kiln burn and the
+proposed times and dates of burning.
+Signature of Applicant/Agent on behalf of the Applicant/Company
+Date
+(Regulation 17) FORM NO. 10
+Burning permit to light a charcoal kiln in the Forest Estate
+Permit No. File Ref No.....................
+Date:............................
+THIS PERMIT IS HEREBY GRANTED to [name of applicant] of
+[address) in the Settlement of [state Settlement] on the island of [state island] whose occupation is [state occupation], pursuant to regulation
+17 of the Forestry Regulations, to carry out the following activity
+namely:
+[state the nature of the activity that is to be carried out, where this is to
+be done including the name of the forest estate, location, nearest settlement and island]
+[The area so affected by this Permit is annotated on map attached as
+Annex -1]
+Director of Forestry
+Date
+CONDITIONS: ....................................................................................
+.................................................................................... ....................................................................................
+....................................................................................
+Exclusion Clause Neither a burning permit holder nor his or her agent, is liable for fire,
+smoke damages or injury caused by the lighting and operation of a charcoal kiln conducted in accordance with the provisions of regulation
+16, unless gross negligence is proven.
