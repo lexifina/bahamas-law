@@ -1,6 +1,6 @@
 # Investment Funds (Financial Statements Extension of Time) Rules
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2004-0056; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2004/2004-0056/2004-0056_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2004-0056; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2004/2004-0056/2004-0056_2.pdf
 
 Made under the Act numbered 2019-0002 in the publisher's index.
 
