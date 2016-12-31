@@ -1,6 +1,6 @@
 # Declaration of Districts
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1968-0028; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1968/1968-0028/1968-0028_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1968-0028; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1968/1968-0028/1968-0028_2.pdf
 
 Made under the Act numbered 2024-0059 in the publisher's index.
 
