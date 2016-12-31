@@ -1,6 +1,6 @@
 # Animal Contagious Diseases (Prohibition of Imports) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1976-0098; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1976/1976-0098/1976-0098_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1976-0098; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1976/1976-0098/1976-0098_2.pdf
 
 Made under the Act numbered 2016-0007 in the publisher's index.
 
