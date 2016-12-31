@@ -1,6 +1,6 @@
 # External Insurance (Judicial Management) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0082; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0082/2009-0082_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0082; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0082/2009-0082_2.pdf
 
 Made under the Act numbered 2009-0015 in the publisher's index.
 
