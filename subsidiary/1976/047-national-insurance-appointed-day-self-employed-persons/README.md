@@ -1,6 +1,6 @@
 # National Insurance - Appointed Day - Self-Employed Persons
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1976-0047; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1976/1976-0047/1976-0047_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1976-0047; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1976/1976-0047/1976-0047_2.pdf
 
 Made under the Act numbered 1972-0021 in the publisher's index.
 
@@ -22,6 +22,7 @@ Commenced: 1976-04-05. Laws the edition lists: none.
 | [s-012](s-012.md) | 12. |
 | [s-013](s-013.md) | 13. |
 | [s-014](s-014.md) | 14. |
+| [s-014-a](s-014-a.md) | 14A. |
 | [s-015](s-015.md) | 15. |
 | [s-016](s-016.md) | 16. |
 | [s-017](s-017.md) | 17. |
