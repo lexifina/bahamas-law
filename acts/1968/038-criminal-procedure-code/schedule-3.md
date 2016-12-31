@@ -8,5 +8,5 @@ Offences under section 5 of the Explosive Substances (Illegal Use and Possession
 PART III
 Offences under section 44 of the Road Traffic Act (Ch. 220).
 PART IV
-Offences under the following sections of the Sexual Offences and Domestic Violence Act (Ch. 99) -
+Offences under the following sections of the Sexual Offences Act (Ch. 99) -
 7, 8, 10(2), 11, 12, 13(1)(b), 13(2)(b), 14, 15 and 16, 19, 21 to 23, 26 and 28.

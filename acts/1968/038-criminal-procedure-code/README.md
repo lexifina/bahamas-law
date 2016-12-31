@@ -1,6 +1,6 @@
 # Criminal Procedure Code Act
 
-Statute Law of The Bahamas, Act, legislation number 1968-0038; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0038/1968-0038_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1968-0038; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1968/1968-0038/1968-0038_2.pdf
 
 Commenced: 1969-04-02. Laws the edition lists: none.
 
@@ -55,6 +55,7 @@ Commenced: 1969-04-02. Laws the edition lists: none.
 | [s-047](s-047.md) | 47. Hearing in camera |
 | [s-048](s-048.md) | 48. Transfer of complaint to another magistrate's court |
 | [s-049](s-049.md) | 49. Procedure when a magistrate considers that he ought not to hear a case brought before him |
+| [s-050](s-050.md) | 50. Transfer of complaint |
 | [s-051](s-051.md) | 51. Power of a judge to order transfer of proceedings |
 | [s-052](s-052.md) | 52. Power of Attorney-General to enter nolle prosequi |
 | [s-053](s-053.md) | 53. Notice of nolle prosequi to be given by Registrar |
@@ -70,7 +71,7 @@ Commenced: 1969-04-02. Laws the edition lists: none.
 | [s-063](s-063.md) | 63. Service of summons |
 | [s-064](s-064.md) | 64. Service on company |
 | [s-065](s-065.md) | 65. Proof of service of summons |
-| [s-066](s-066.md) | 66. Special procedure in respect of certain offences |
+| [s-066](s-066.md) | 66. Repealed |
 | [s-067](s-067.md) | 67. If summons disobeyed, warrant may issue |
 | [s-068](s-068.md) | 68. Power to take bond for appearance |
 | [s-069](s-069.md) | 69. Court may order prisoner to be brought before it |
@@ -206,7 +207,7 @@ Commenced: 1969-04-02. Laws the edition lists: none.
 | [s-199](s-199.md) | 199. Appearance of both parties |
 | [s-200](s-200.md) | 200. If accused pleads guilty |
 | [s-201](s-201.md) | 201. Pleas in other cases |
-| [s-202](s-202.md) | 202. Procedure after plea of not guilty |
+| [s-202](s-202.md) | 202. |
 | [s-203](s-203.md) | 203. Acquittal of accused person if no case to answer |
 | [s-204](s-204.md) | 204. The defence |
 | [s-205](s-205.md) | 205. Evidence in reply |
@@ -277,6 +278,7 @@ Commenced: 1969-04-02. Laws the edition lists: none.
 | [s-270](s-270.md) | 270. Seizure of property obtained by offence |
 | [s-271](s-271.md) | 271. Rules |
 | [s-272](s-272.md) | 272. Anonymity of complainants in rape, etc., cases |
+| [schedule-1](schedule-1.md) | First Schedule |
 | [schedule-2](schedule-2.md) | Second Schedule - (Section 76) |
 | [schedule-3](schedule-3.md) | Third Schedule - (Section 214) |
 | [schedule-4](schedule-4.md) | Fourth Schedule - (Section 10) |
