@@ -2,9 +2,10 @@
 (a) Promoter is a financial institution; and
 (b) Investors are customers of the promoters and are parties to a Discretionary Management Agreement with the promoters.
 The Subscription Agreement of the fund shall contain a statement by the promoter confirming that a Discretionary Management Agreement exists between the promoter and the Investor.
+(a) The fund shall file with the Commission performance reports of the fund every six months summarizing:
+(i) Subscriptions and redemptions to the fund;
+(ii) NAV at the end of the relevant period;
+(iii) Return earned at the end of period; and
+(iv) The asset allocation of the fund.
+(b) The unaudited financial statements of the fund shall be filed with the Commission annually;
 The Operators of the fund no later than January 31 of each year shall certify to the Commission that the fund is qualified to operate as a SFM 001.
-A SFM 002 shall have a term sheet containing the following information: xiii. A statement that "the fund is licensed as a SFM 002 pursuant to the Investment Funds Act (Ch. 369A) operating as a fund - which is limited to having no more than ten investors who hold equity interests in the fund; whose investors are persons to whom a professional fund may be offered; and where a majority of the investors who hold equity interests in the fund have the power to appoint and remove the operators of the fund." The Subscription Agreement of the fund shall contain confirmation that the investor in the fund agrees with the regulatory requirements applicable to the SFM 002.
-The Constitutive Documents shall provide for the majority of the holders of equity interests in the fund to have the power to appoint or remove the operators of the The financial statements of the fund shall be audited unless all of the holders of the equity interests in the fund unanimously agree to waive the annual audit of the fund's financial statements;
-Where the annual audit of the financial statements of the fund has been waived the fund shall file with the Commission within six months of the waiver, a performance report of the fund and shall file such a report every six months thereafter as long as the waiver exists;
-The administrator of the fund shall make the NAV reports available to investors upon request.
-The Operators of the fund no later than January 31 of each year shall certify to the Commission that the fund is qualified to operate as a SFM 002.
