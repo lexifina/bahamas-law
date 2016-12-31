@@ -1,21 +1,25 @@
 # First Schedule - (Section 8(2))
 PART I
-RULES FOR THE REGISTRATION OF TRADE UNIONS OF
-EMPLOYEES
+RULES FOR THE REGISTRATION OF TRADE UNIONS OF EMPLOYEES
 1. In registering or refusing to register trade unions under this Act, the Registrar shall have regard to the desirability of securing the protection and promotion of the particular interests of employees employed in each industry, and of employees engaged in each craft and in each occupation, and in applying the rules set out in this Part of this Schedule the Registrar shall exercise his discretion accordingly.
 2. (1) The Registrar shall encourage the formation and registration of trade unions each representing a particular industry (hereafter in this Schedule referred to as "industrial trade unions"), wherever it is practicable to form such unions, and where it seems to him to be in the interest of the employees concerned, he shall encourage the formation and registration of trade unions each representing a particular craft (hereafter in this Schedule referred to as "craft trade unions").
 (2) When acting under this rule, the Registrar may, for the purpose of meeting the cases of small industries and of crafts having few members -
 (a) treat any industry which in his opinion is by itself too small to be represented by an industrial trade union, as part of any other industry with which it has any affinity or connection; or
 (b) treat as one industry a sufficient number of allied or related industries, each of which in his opinion is by itself too small to be represented by an industrial trade union, for the purpose of forming and registering an industrial trade union of sufficient size to be able to protect and promote the interests of its members; or
-(c) treat any craft which in his opinion is by itself too small to be represented by a craft trade union, as part of any other craft with which it has any affinity or connection; or (d) treat as one craft a sufficient number of allied or related crafts, each of which in his opinion is by itself too small to be represented by a craft trade union of sufficient size to be able to protect and promote the interests of its members; or (e) treat as included in a craft any unskilled occupation which is allied or related to that craft, where in his opinion the craft or the occupation has by itself too few members to form a trade union, for the purpose of forming a craft trade union of sufficient size to be able to protect and promote the interests of persons engaged in that craft and in that occupation.
-3. The Registrar shall not register any trade union unless the constitution of the union provides - (a) for the effective representation of the members employed in each particular industry, craft or occupation for the purposes of union management and for the purposes of collective bargaining; and (b) adequate safeguards to secure that the members employed in each particular industry, craft or occupation enjoy full control of the funds subscribed by the members employed in that industry, craft or occupation to the union; and (c) generally, for the effective representation and protection of the various sectional interests of the members employed or engaged in each particular industry, craft and occupation.
+(c) treat any craft which in his opinion is by itself too small to be represented by a craft trade union, as part of any other craft with which it has any affinity or connection; or
+(d) treat as one craft a sufficient number of allied or related crafts, each of which in his opinion is by itself too small to be represented by a craft trade union of sufficient size to be able to protect and promote the interests of its members; or
+(e) treat as included in a craft any unskilled occupation which is allied or related to that craft, where in his opinion the craft or the occupation has by itself too few members to form a trade union, for the purpose of forming a craft trade union of sufficient size to be able to protect and promote the interests of persons engaged in that craft and in that occupation.
+3. The Registrar shall not register any trade union unless the constitution of the union provides -
+(a) for the effective representation of the members employed in each particular industry, craft or occupation for the purposes of union management and for the purposes of collective bargaining; and
+(b) adequate safeguards to secure that the members employed in each particular industry, craft or occupation enjoy full control of the funds subscribed by the members employed in that industry, craft or occupation to the union; and
+(c) generally, for the effective representation and protection of the various sectional interests of the members employed or engaged in each particular industry, craft and occupation.
 4. The Registrar shall have regard to the differences between the proper functions of a trade union on the one hand, and of an association, federation or congress of trade unions on the other hand, and shall not register as a trade union any body, association, federation or congress which under its constitution offers membership to any other trade union, body or association.
 5. For the purposes of this Schedule -
 "industry" includes any trade, business or undertaking, and the performance of its functions by any public board or authority, and means any industry which can in general terms be distinguished from other industries, either by reference to the materials, tools, plant or equipment in general use in that industry, or to the larger categories of employees generally employed therein, or to the products or services usually produced or rendered by that industry;
 "craft" includes any skilled trade or skilled calling and means any craft which can in general terms be distinguished from other crafts, either by reference to the materials, tools, plant or equipment in general use in that craft, or to the products or services usually produced or rendered by that craft, or to the character of the skill or training required for the exercise of that craft.
 PART II (Section 9)
-MATTERS TO BE PROVIDED FOR IN THE
-CONSTITUTION OF A TRADE UNION OF EMPLOYEES
+MATTERS TO BE PROVIDED FOR IN THE CONSTITU-
+TION OF A TRADE UNION OF EMPLOYEES
 1. The name of the trade union and place of meeting for its business.
 2. The whole of the objects for which the trade union is to be established, the purposes for which its funds shall be applicable, and the conditions under which any member may become entitled to any benefit assured thereby, the subscriptions and dues, if any, to be paid by any member, and the fines and forfeitures to be imposed on any member of the trade union.
 3. (1) The qualifications for membership, which shall include the provision that no person shall be eligible for membership of the trade union unless he is, or has been, regularly and normally employed in the industry, or as a member of the craft or category of employees, which the union represents.
@@ -33,8 +37,8 @@ Provided that provision may be made that a person who is not a member or officer
 (b) the amendment of the constitution of the union, including any change of name;
 (c) the taking of strike action.
 PART III (Section 9)
-MATTERS TO BE PROVIDED FOR IN THE
-CONSTITUTION OF A TRADE UNION OF EMPLOYERS
+MATTERS TO BE PROVIDED FOR IN THE CONSTITU-
+TION OF A TRADE UNION OF EMPLOYERS
 1. All the matters referred to in Part II of this Schedule (except the matters referred to in paragraphs 3 and 8(c) thereof) shall be provided as if references to a trade union of employees, to being employed and to employees were, respectively, references to a trade union of employers, to employing and to employers:
 Provided that the requirements set forth in paragraph 2 of this Part of this Schedule shall have effect in respect of membership of a trade union of employers instead of those in paragraph 3 aforesaid.
 2. (1) The qualifications for membership, which shall include the provision that no person shall be eligible for membership of the union unless he is an employer in the industry which the union represents.

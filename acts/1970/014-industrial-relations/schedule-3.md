@@ -11,12 +11,19 @@ INTRODUCTION
 3. Good industrial relations are a joint responsibility.
 4. Management at all levels should give regular attention to industrial relations, and managers should wherever possible receive training in the industrial relations implications of their jobs.
 PART II
-5. Where a trade union has negotiating rights, management should - (a) jointly with the trade union maintain effective arrangements for negotiation, consultation and communication, and for settling grievances and disputes; (b) take all reasonable steps to ensure that managers observe collective agreements and use agreed procedures; and (c) make clear to employees that it welcomes their membership of the recognised trade union and their participation in the trade union's activities.
-6. Effective organisation of work is an important factor in good industrial relations. Management should therefore ensure that - (a) responsibility for each group of employees is clearly defined in the organisational structure; (b) each manager understands his responsibilities and has the authority and training necessary to do his job; and (c) individual employees or work groups know their objectives and priorities and are kept informed of progress towards achieving them.
+5. Where a trade union has negotiating rights, management should -
+(a) jointly with the trade union maintain effective arrangements for negotiation, consultation and communication, and for settling grievances and disputes;
+(b) take all reasonable steps to ensure that managers observe collective agreements and use agreed procedures; and
+(c) make clear to employees that it welcomes their membership of the recognised trade union and their participation in the trade union's activities.
+6. Effective organisation of work is an important factor in good industrial relations. Management should therefore ensure that -
+(a) responsibility for each group of employees is clearly defined in the organisational structure;
+(b) each manager understands his responsibilities and has the authority and training necessary to do his job; and
+(c) individual employees or work groups know their objectives and priorities and are kept informed of progress towards achieving them.
 Trade Unions of Employees
 7. The principal aim of trade unions of employees is to promote their members' interests. They can do this only if the undertakings in which their members are employed prosper. They therefore have an interest in co-operating in measures to promote efficiency. They also share with management the responsibility for good industrial relations.
 8. Trade unions of employees should therefore -
-(a) where appropriate, jointly with individual managements, maintain effective arrangements for negotiation, consultation and communication and for settling grievances and disputes; (b) where appropriate, jointly with employers' associations and others concerned, maintain effective arrangements at industry or other levels for settling disputes and for negotiating terms and conditions of employment;
+(a) where appropriate, jointly with individual managements, maintain effective arrangements for negotiation, consultation and communication and for settling grievances and disputes;
+(b) where appropriate, jointly with employers' associations and others concerned, maintain effective arrangements at industry or other levels for settling disputes and for negotiating terms and conditions of employment;
 (c) take all reasonable steps to ensure that their officers and members observe collective agreements and use agreed procedures; and
 (d) maintain effective procedures for resolving particular issues with other trade unions and make full use of any procedures established for settling inter-union disputes.
 9. Trade unions of employees should ensure that their officers -
@@ -141,7 +148,7 @@ PART V
 COLLECTIVE BARGAINING
 General
 48. Collective bargaining may take place at various levels, ranging from an industry to a group of employees within an establishment. Negotiation for the same group of employees may be conducted at different levels about different subjects.
-49. Where negotiations take place at more than one level, the matters to be bargained about at each level should be defined by agreement. The aim should be to assign to each level the matters which can be realistically settled at that level. Equally, whatever the level at which an agreement is reached, its terms should be capable of being applied effectively at the place of work.
+49. Where negotiations take place at more than one level, the matters to be bargained about at each level should be defined by agreement. The aim should be to assign to each level the matters which can be realistically settled at that level. Equal-ly, whatever the level at which an agreement is reached, its terms should be capable of being applied effectively at the place of work.
 Bargaining Units
 50. Collective bargaining in an establishment or undertaking is conducted in relation to defined groups of employees which can appropriately be covered by one negotiating process.
 51. A bargaining unit should cover as wide a group of employees as practicable. Too many small units make it difficult to ensure that related groups of employees are treated consistently. The number of separate units can often be reduced by the formation of a joint negotiating panel representing a number of unions.
@@ -189,18 +196,27 @@ Collective Agreements
 75. Collective agreements deal with matters of procedure and matters of substance which are of joint concern to management and employees. A single agreement may contain provisions of both kinds or they may be dealt with in separate agreements. In either case, the agreement should be in writing and there should be arrangements for checking that procedural provisions have not become out of date.
 76. Procedural provisions should lay down the constitution of any joint negotiating body or specify the parties to the procedure. They should also cover -
 (a) the matters to be bargained about and the levels at which bargaining should take place;
-(b) arrangements for negotiating terms and conditions of employment, and the circumstances in which either party can give notice of their wish to re-negotiate them; (c) facilities for trade union activities in the establishment and the appointment, status and functions of union officers; (d) procedures for settling collective disputes and individual grievances and for dealing with disciplinary matters; and (e) the constitution and scope of any consultative committees.
-77. Substantive provisions settle terms and conditions of employment. They should indicate the period for which they are to apply and cover - (a) wages and salaries, where appropriate, overtime rates, bonuses, piecework and other systems relating earnings to performance; (b) hours of work, and, where appropriate, provisions for overtime, and shift working; and (c) public holiday and vacation entitlement and pay.
+(b) arrangements for negotiating terms and conditions of employment, and the circumstances in which either party can give notice of their wish to re-negotiate them;
+(c) facilities for trade union activities in the establishment and the appointment, status and functions of union officers;
+(d) procedures for settling collective disputes and individual grievances and for dealing with disciplinary matters; and
+(e) the constitution and scope of any consultative committees.
+77. Substantive provisions settle terms and conditions of employment. They should indicate the period for which they are to apply and cover -
+(a) wages and salaries, where appropriate, overtime rates, bonuses, piecework and other systems relating earnings to performance;
+(b) hours of work, and, where appropriate, provisions for overtime, and shift working; and
+(c) public holiday and vacation entitlement and pay.
 78. Agreements may also cover such matters as -
-(a) techniques for determining levels of performance and job grading, for example,, work measurement and job evaluation; (b) procedures for handling redundancy and temporary lay-off;
+(a) techniques for determining levels of performance and job grading, for example,, work measurement and job evaluation;
+(b) procedures for handling redundancy and temporary lay-off;
 (c) the deduction by management of trade union dues from the pay of members.
-79. There is advantage in agreeing at industry level as much as suitable for adoption over the industry as a whole, including - (a) terms and conditions of employment suitable for general application; (b) general guide-lines for negotiating at a lower level matters which cannot be decided satisfactorily at industry level; and (c) a procedure for settling disputes, either for the industry as a whole or as a model for individual undertakings to adopt by agreement.
+79. There is advantage in agreeing at industry level as much as suitable for adoption over the industry as a whole, including -
+(a) terms and conditions of employment suitable for general application;
+(b) general guide-lines for negotiating at a lower level matters which cannot be decided satisfactorily at industry level; and
+(c) a procedure for settling disputes, either for the industry as a whole or as a model for individual undertakings to adopt by agreement.
 Disclosure of Information
 80. Collective bargaining can be conducted responsibly only if management and trade unions of employees have adequate information on the matters being negotiated.
 81. Management should endeavour to meet all reasonable requests from trade unions of employees for information which is relevant to the negotiations in hand. In particular, it should, in the most convenient form, make available, the information which is supplied to shareholders or published in annual reports.
 PART VI
-EMPLOYEE REPRESENTATION AT THE PLACE OF
-WORK
+EMPLOYEE REPRESENTATION AT THE PLACE OF WORK
 82. Employees need work-place representatives to put forward their collective views to management and to safeguard their interests. It is also an advantage for management to deal with representatives who can speak for their fellow employees.
 83. A work-place representative is the representative of the members of his trade union in the place of work, but the trade union of which he is an officer is responsible for his actions as its officer. Accordingly, trade unions should clearly define the powers and duties of work-place representatives, and the circumstances and manner in which they can be removed from office.
 84. Trade unions and management should seek agreement on -

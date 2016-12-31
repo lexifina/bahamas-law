@@ -1,6 +1,6 @@
 # Industrial Relations Act
 
-Statute Law of The Bahamas, Act, legislation number 1970-0014; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1970/1970-0014/1970-0014_1.pdf
+Statute Law of The Bahamas, Act, legislation number 1970-0014; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1970/1970-0014/1970-0014_2.pdf
 
 Commenced: 1971-03-01. Laws the edition lists: Act 14 of 1970.
 
@@ -54,7 +54,7 @@ Commenced: 1971-03-01. Laws the edition lists: Act 14 of 1970.
 | [s-046](s-046.md) | 46. Industrial agreements |
 | [s-047](s-047.md) | 47. Further provisions to be contained in industrial agreements |
 | [s-048](s-048.md) | 48. Procedure in relation to industrial agreements |
-| [s-049](s-049.md) | 49. Registration of industrial agreements by Tribunal |
+| [s-049](s-049.md) | 49. Registration of industrial agreements by the Registrar |
 | [s-050](s-050.md) | 50. Validity of industrial agreements |
 | [s-051](s-051.md) | 51. Effect of industrial agreement |
 | [s-052](s-052.md) | 52. Supplemental industrial agreements |
