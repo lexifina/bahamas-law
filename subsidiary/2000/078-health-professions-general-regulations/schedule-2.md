@@ -1,0 +1,13 @@
+# Second Schedule - (Regulation 3)
+FORM 1 CERTIFICATE OF REGISTRATION
+I hereby certify that ................................................................................ ...........................................................................meets the requirements (insert name of registrant)
+of the Health Professions Act, 1998 and the regulations thereunder and is registered in the Health Professions Register as a ....................... .................................................................................................. effective (insert class of health profession)
+the ....................................... day of ............................................ 20 ......
+Registration Number of Registrant: .......................................................
+Registrar
+Date of issue of Certificate ....................................................................
+Seal of Council
+FORM 2 LICENCE
+This is to certify that .................................................................... (insert name of licensee) who was duly registered in the Health Professions Register on the ..................................... day of ................................ 20 ......... with Registration Number ............................................ is hereby licensed as a Health Professional under the Act and is authorized to engage in the practice of .............................................................. (insert class of health profession) commencing on the .................... day of ......................... 20 ....... until ...................... day of 20 ........ ................................................. Registrar ................................................. Chairman
+Date of issue of Licence ..............................................................
+Seal of Council
