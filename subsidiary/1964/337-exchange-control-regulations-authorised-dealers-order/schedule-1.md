@@ -1,4 +1,4 @@
-# Schedule Officers in The Bahamas of the following banks - The Royal Bank of Canada.
+# Schedule Officers in The Bahamas of the following banks - RBC Royal Bank (Bahamas) Limited.
 Scotiabank (Bahamas) Limited.
 The Canadian Imperial Bank of Commerce.
 First National City Bank of New York.
@@ -16,8 +16,8 @@ First Home Banking Centre Limited.
 British American Bank (1993) Limited.
 CIBC Bahamas Limited.
 Finance Corporation of Bahamas Limited.
-EXCHANGE CONTROL REGULATIONS (ENFORCEMENT) ORDER (FOURTH SCHEDULE) [Commencement 1st October, 1956] The Controller of Exchange, in pursuance of paragraph 2 of Part I of the Fourth Schedule to the Exchange Control Regulations hereby authorises the Deputy Controller of Exchange, any police officer of and above the rank of assistant superintendent, any customs officer and any immigration officer to act for the purposes of the said paragraph 2.
-S.I. 27/1998.
+EXCHANGE CONTROL REGULATIONS (ENFORCEMENT) ORDER (FOURTH SCHEDULE) [Commencement 1st October, 1956] The Controller of Exchange, in pursuance of para-graph 2 of Part I of the Fourth Schedule to the Exchange Control Regulations hereby authorises the Deputy Con-troller of Exchange, any police officer of and above the rank of assistant superintendent, any customs officer and any immigration officer to act for the purposes of the said paragraph 2.
+S.I. 131/2010 S.I. 27/1998.
 S.I. 43/1966.
 S.I. 93/1966.
 S.I. 20/1973.
