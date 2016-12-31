@@ -1,6 +1,6 @@
 # Antiquities, Monuments and Museum Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1999-0038; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1999/1999-0038/1999-0038_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1999-0038; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1999/1999-0038/1999-0038_2.pdf
 
 Made under the Act numbered 1998-0005 in the publisher's index.
 
