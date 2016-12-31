@@ -1,6 +1,6 @@
 # Fisheries Resources (Jurisdiction and Conservation)(Declaration of Protected Areas)(The Exuma (Jewfish Cay) Marine Reserve) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0115; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0115/2009-0115_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0115; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0115/2009-0115_2.pdf
 
 Made under the Act numbered 1977-0013 in the publisher's index.
 
