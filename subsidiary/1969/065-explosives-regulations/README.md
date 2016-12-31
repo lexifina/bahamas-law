@@ -1,10 +1,10 @@
 # Explosives Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1969-0065; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1969/1969-0065/1969-0065_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1969-0065; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1969/1969-0065/1969-0065_2.pdf
 
 Made under the Act numbered 1968-0017 in the publisher's index.
 
-Commenced: 1970-01-01. Laws the edition lists: S.I. 65/1969.
+Commenced: 1970-01-01. Laws the edition lists: S.I. 65/1969, S.I. 72/2013.
 
 | File | Provision |
 | --- | --- |
