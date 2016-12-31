@@ -1,6 +1,6 @@
 # The Bahamas Prisons Service (Award of Medals) Rules
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1982-0015; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1982/1982-0015/1982-0015_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1982-0015; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1982/1982-0015/1982-0015_2.pdf
 
 Made under the Act numbered 2014-0008 in the publisher's index.
 
