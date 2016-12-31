@@ -1,6 +1,6 @@
 # Real Property Tax (Owner-Occupier Exemption) Variation Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1987-0055; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1987/1987-0055/1987-0055_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1987-0055; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1987/1987-0055/1987-0055_2.pdf
 
 Made under the Act numbered 1969-0023 in the publisher's index.
 
