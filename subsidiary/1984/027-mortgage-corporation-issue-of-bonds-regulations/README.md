@@ -1,10 +1,10 @@
 # Mortgage Corporation (Issue of Bonds) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1984-0027; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1984/1984-0027/1984-0027_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1984-0027; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1984/1984-0027/1984-0027_2.pdf
 
 Made under the Act numbered 1983-0001 in the publisher's index.
 
-Commenced: 1984-06-28. Laws the edition lists: S.I. 27/1984.
+Commenced: 1984-06-28. Laws the edition lists: S.I. 27/1984, S.I. 12/2015.
 
 | File | Provision |
 | --- | --- |
