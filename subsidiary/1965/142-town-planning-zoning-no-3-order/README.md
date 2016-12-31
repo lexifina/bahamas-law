@@ -1,6 +1,6 @@
 # Town Planning Zoning (No. 3) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1965-0142; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1965/1965-0142/1965-0142_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1965-0142; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1965/1965-0142/1965-0142_2.pdf
 
 Made under the Act numbered 2010-0004 in the publisher's index.
 
