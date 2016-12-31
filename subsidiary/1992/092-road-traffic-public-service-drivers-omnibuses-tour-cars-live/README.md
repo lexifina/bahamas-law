@@ -1,6 +1,6 @@
 # Road Traffic (Public Service Drivers)(Omnibuses, Tour Cars, Livery Cars and Taxi Cabs)(Standard of Appearance and Dress) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1992-0092; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1992/1992-0092/1992-0092_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1992-0092; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1992/1992-0092/1992-0092_2.pdf
 
 Made under the Act numbered 1958-0057 in the publisher's index.
 
