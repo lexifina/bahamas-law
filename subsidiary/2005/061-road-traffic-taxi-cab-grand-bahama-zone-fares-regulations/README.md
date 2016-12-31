@@ -1,6 +1,6 @@
 # Road Traffic (Taxi-Cab)(Grand Bahama Zone Fares) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2005-0061; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2005/2005-0061/2005-0061_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2005-0061; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2005/2005-0061/2005-0061_2.pdf
 
 Made under the Act numbered 1958-0057 in the publisher's index.
 
