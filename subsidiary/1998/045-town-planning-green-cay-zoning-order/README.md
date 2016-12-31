@@ -1,6 +1,6 @@
 # Town Planning (Green Cay) Zoning Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1998-0045; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1998/1998-0045/1998-0045_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1998-0045; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1998/1998-0045/1998-0045_2.pdf
 
 Made under the Act numbered 2010-0004 in the publisher's index.
 
