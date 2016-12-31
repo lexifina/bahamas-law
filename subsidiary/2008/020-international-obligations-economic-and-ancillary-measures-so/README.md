@@ -1,6 +1,6 @@
 # International Obligations (Economic and Ancillary Measures)(Somalia) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2008-0020; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2008/2008-0020/2008-0020_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2008-0020; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2008/2008-0020/2008-0020_2.pdf
 
 Made under the Act numbered 1993-0017 in the publisher's index.
 
