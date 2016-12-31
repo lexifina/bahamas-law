@@ -1,6 +1,6 @@
 # Essential Services (Airlines, Air Traffic Control and Airport Fire Services) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1979-0050; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1979/1979-0050/1979-0050_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1979-0050; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1979/1979-0050/1979-0050_2.pdf
 
 Made under the Act numbered 1970-0014 in the publisher's index.
 
