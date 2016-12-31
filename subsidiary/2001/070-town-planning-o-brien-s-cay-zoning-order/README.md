@@ -1,6 +1,6 @@
 # Town Planning (O’Brien’s Cay) Zoning Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2001-0070; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2001/2001-0070/2001-0070_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2001-0070; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2001/2001-0070/2001-0070_2.pdf
 
 Made under the Act numbered 2010-0004 in the publisher's index.
 
