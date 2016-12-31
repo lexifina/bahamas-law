@@ -1,6 +1,6 @@
 # National Insurance (Determination of Claims and Questions) Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1974-0064; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1974/1974-0064/1974-0064_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1974-0064; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1974/1974-0064/1974-0064_2.pdf
 
 Made under the Act numbered 1972-0021 in the publisher's index.
 
