@@ -1,1 +1,13 @@
-# First Schedule FEESFORPRNATEENGAGEMENTBYBAND $1,300.00 per hour or part tnereof Director of Music PARTB APPORTIONMENT OF FEES 2 1/2% Principal Corrections Officer/ $16.00 Chief Officer thereof Corrections Sergeant $12.00 thereof Corrections Officer $9.00 thereof. 1Sub. Leg. Vol. II, Ch. 208- p. 3. per hour or per hour or per hour or part part part 1, I i I I I 11 i
+# First Schedule
+FEES FOR PRIVATE ENGAGEMENT BY BAND
+PART A
+$1,300.00 per hour or part thereof
+PART B
+APPORTIONMENT OF FEES
+Director of Music 2 1/2%
+Principal Corrections Officer/ $16.00 per hour or part
+Chief Officer thereof
+Corrections Sergeant $12.00 per hour or part
+thereof
+Corrections Officer $9.00 per hour or part
+thereof.
