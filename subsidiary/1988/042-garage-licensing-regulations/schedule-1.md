@@ -18,7 +18,7 @@ APPLICATION FOR A LICENCE TO OPERATE A GARAGE
 DATE: .............................. ....................................... ............................................................... Signature of Applicant
 FORM 2 (Regulation 5(1))
 LICENCE TO OPERATE A GARAGE
-NO............... This licence issued pursuant to Section 4 of the Garage Licensing Act, 1980 authorises ........................................................................of
+NO............... This licence issued pursuant to section 4 of the Garage Licensing Act authorises ........................................................................of
 ..................................to operate a garage at ................................. ...................................................................................................... from.............................................................................................. to...................................................................................................
 This licence is subject to the following conditions:
 (a) that the Act, the Regulations made thereunder and the basic standards shall be complied with;

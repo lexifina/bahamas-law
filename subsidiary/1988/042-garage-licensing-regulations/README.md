@@ -1,10 +1,10 @@
 # Garage Licensing Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1988-0042; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1988/1988-0042/1988-0042_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1988-0042; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1988/1988-0042/1988-0042_2.pdf
 
 Made under the Act numbered 1980-0010 in the publisher's index.
 
-Commenced: 1988-11-02. Laws the edition lists: S.I. 42/1988.
+Commenced: 1988-11-02. Laws the edition lists: S.I. 42/1988, S.I. 71/2013.
 
 | File | Provision |
 | --- | --- |
