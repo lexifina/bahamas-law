@@ -1,6 +1,6 @@
 # Industrial Tribunal (Salaries for President and Vice President) Order
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0078; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0078/2009-0078_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2009-0078; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2009/2009-0078/2009-0078_2.pdf
 
 Made under the Act numbered 1970-0014 in the publisher's index.
 
