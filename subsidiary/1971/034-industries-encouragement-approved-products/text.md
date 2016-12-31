@@ -1,4 +1,4 @@
-INDUSTRIES ENCOURAGEMENT [CH.326 - 5 ------------------------------------------------------------------------------- [Original Service 2001] STATUTE LAW OF THE BAHAMAS Subsidiary Legislation made under the Industries Encouragement Act, Ch. 326 APPROVED PRODUCTS (SECTION 3) Paints.
+INDUSTRIES ENCOURAGEMENT [CH.326 - 5 ------------------------------------------------------------------------------- LRO 1/2017 STATUTE LAW OF THE BAHAMAS Subsidiary Legislation made under the Industries Encouragement Act, Ch. 326 APPROVED PRODUCTS (SECTION 3) Paints.
 S.I. 34/1971.
 Varnishes.
 S.I. 35/1971.
@@ -43,7 +43,7 @@ Hand-Printed Men's Shirts.
 S.I. 26/1972.
 Hand-Printed Aprons.
 S.I. 27/1972.
-CH.305 - 6] INDUSTRIES ENCOURAGEMENT STATUTE LAW OF THE BAHAMAS [Original Service 2001] S.I. 28/1972.
+CH.326 - 6] INDUSTRIES ENCOURAGEMENT STATUTE LAW OF THE BAHAMAS LRO 1/2017 S.I. 28/1972.
 Hand-Printed Ladies' Shirts.
 S.I. 29/1972.
 Hand-Printed Pillow Covers.
@@ -99,7 +99,8 @@ Hand-Crafted Leather Carrying Cases.
 S.I. 61/1972.
 Hand-Crafted Leather Picture Frames.
 S.I. 62/1972.
-Hand-Crafted Leather Murals S.I. 24/1973.
+Hand-Crafted Leather Murals.
+S.I. 24/1973.
 Payload and Operation Vans.
 S.I. 25/1973.
 Ice.
@@ -117,7 +118,7 @@ S.I. 31/1973.
 Aerostats (Tethered Balloons).
 S.I. 32/1973.
 Airborne Electronic Payloads.
-INDUSTRIES ENCOURAGEMENT [CH.326 - 7 ------------------------------------------------------------------------------- [Original Service 2001] STATUTE LAW OF THE BAHAMAS Sodium Hypochlorite (Household Bleach).
+INDUSTRIES ENCOURAGEMENT [CH.326 - 7 ------------------------------------------------------------------------------- LRO 1/2017 STATUTE LAW OF THE BAHAMAS Sodium Hypochlorite (Household Bleach).
 S.I. 76/1973.
 Plastic Bottles.
 S.I. 83/1973.
@@ -195,7 +196,7 @@ Canned Instant Mash.
 S.I. 6/1976.
 Plastic Footwear.
 S.I. 22/1976.
-CH.305 - 8] INDUSTRIES ENCOURAGEMENT STATUTE LAW OF THE BAHAMAS [Original Service 2001] S.I. 25/1976.
+CH.326 - 8] INDUSTRIES ENCOURAGEMENT STATUTE LAW OF THE BAHAMAS LRO 1/2017 S.I. 25/1976.
 Shell Necklaces.
 S.I. 26/1976.
 Macramé Belts.
@@ -270,7 +271,7 @@ S.I. 57/1977.
 Poinciana Seed Jewellery.
 S.I. 58/1977.
 Sea-Shell Jewellery.
-INDUSTRIES ENCOURAGEMENT [CH.326 - 9 ------------------------------------------------------------------------------- [Original Service 2001] STATUTE LAW OF THE BAHAMAS Coconut Shell Products; that is to say, Candy Dishes, Napkin Holders, Pencil Holders, Wine Goblets, Cups and Saucers, Key Chains and Planters.
+INDUSTRIES ENCOURAGEMENT [CH.326 - 9 ------------------------------------------------------------------------------- LRO 1/2017 STATUTE LAW OF THE BAHAMAS Coconut Shell Products; that is to say, Candy Dishes, Napkin Holders, Pencil Holders, Wine Goblets, Cups and Saucers, Key Chains and Planters.
 S.I. 59/1977.
 Tin Plate Cans.
 S.I. 70/1977.
@@ -290,7 +291,7 @@ Leathercrafts; that is to say, Disco Pouches, Sliding Pouches, Change Purses.
 S.I. 52/1981.
 Plastic Utensils; that is to say, Spoons, Knives, Forks, Stirrers and Straws.
 S.I. 59/1981.
-Conch Shell and WHelk Shell Costume Jewellery.
+Conch Shell and Whelk Shell Costume Jewellery.
 S.I. 60/1981.
 Condiments, Mouthwash, Scouring Powder and Liquid Detergent.
 S.I. 6/1982.
@@ -314,7 +315,7 @@ Cimetidine.
 S.I 68/1982.
 Fragrances, Cosmetics, Hair Care, Skin Care and Bath Products.
 S.I. 5/1983.
-CH.305 - 10] INDUSTRIES ENCOURAGEMENT STATUTE LAW OF THE BAHAMAS [Original Service 2001] S.I. 20/1983.
+CH.326 - 10] INDUSTRIES ENCOURAGEMENT STATUTE LAW OF THE BAHAMAS LRO 1/2017 S.I. 20/1983.
 Ceramics; that is to say, Ceramic Jewellery, Hand-Crafted and Painted Ceramics, Shell Works and Sand Castings.
 S.I. 21/1983.
 Rotational Moulding Products; that is to say, Septic Tanks, Water Cisterns, Traffic Bollards, Garbage Containers, Wind Surfing Boards and Inspection Chambers.
@@ -327,8 +328,8 @@ Janitorial and Carpet Cleaning Chemicals, Pet Care Products and Insecticides.
 S.I. 55/1983.
 Household and Bed Linens.
 S.I. 56/1983.
-Functional Furniture.
 S.I. 57/1983.
+Functional Furniture.
 Glues, Adhesives ( Sealers), Cement Aids, Charcoal Fluid and Thinners, Industrial Chemicals, Household Chemicals.
 S.I. 66/1983.
 Paint Brushes, Artist Brushes and Paint Rollers.
@@ -358,7 +359,7 @@ S.I. 24/1985.
 Nails.
 S.I. 27/1985.
 Coat Hangers.
-INDUSTRIES ENCOURAGEMENT [CH.326 - 11 LRO 1/2010 STATUTE LAW OF THE BAHAMAS Blown Glass Figurines and Gift Items.
+INDUSTRIES ENCOURAGEMENT CH.326 - 11 LRO 1/2017 STATUTE LAW OF THE BAHAMAS Blown Glass Figurines and Gift Items.
 S.I. 43/1985 Shorts, Swim Trunks, Shirts, Dresses, Sweat Suits and Underwear for Men, Women and Children.
 S.I. 44/1985 Caribe Sun Care Products.
 S.I. 46/1985 Plastic Bottle Caps.
@@ -392,7 +393,7 @@ S.I. 14/1991 Ceramic, Plastic or Straw Ornaments and Souvenirs.
 S.I. 15/1991 Portable Heat for Buffets, and related items, namely, Portable Stoves, Portable Cookers, Lamp Canisters, Glycol Coolant and Fuel Bottles.
 S.I. 30/1991 Processed Human Hair.
 S.I. 31/1991 Household, Office and School Furniture and Doors.
-S.I. 32/1991 CH.326 - 12] INDUSTRIES ENCOURAGEMENT STATUTE LAW OF THE BAHAMAS LRO 1/2010 S.I. 33/1991 Tricycles, Bicycles, Motorcycles, Golf-Carts and Lawnmowers.
+S.I. 32/1991 CH.326 - 12] INDUSTRIES ENCOURAGEMENT STATUTE LAW OF THE BAHAMAS LRO 1/2017 S.I. 33/1991 Tricycles, Bicycles, Motorcycles, Golf-Carts and Lawnmowers.
 S.I. 52/1991 Micro-Computer Systems.
 S.I. 53/1991 Clutch and Brake Systems.
 S.I. 72/1991 Yoghurt Products.
@@ -415,11 +416,53 @@ S.I. 71/1999 Caskets.
 S.I. 78/1999 Ultra-Light, All-Purpose, Motor Vehicle S.I. 108/1999 Copy Paper; Cash Register Rolls, Computer Printer Paper, Note Pads and Composition Books.
 S.I. 21/2000 UPVC Windows, Doors, Storm Shutters, Fly Screens, Patios and Conservatories with Sealed Unit Double-Glazing.
 S.I. 22/2000 Herbal and Fruit Teas/Beverages; Oils; Jams; Scones;
-Chocolates; Juju Dolls S.I. 42/2000 Re-manufactured LPG Cylinders.
+Chocolates; Juju Dolls.
+S.I. 42/2000 Re-manufactured LPG Cylinders.
 S.I. 99/2000 Semi-Submersible Vertical Tension Marine Platforms.
 S.I. 122/2001 Re-manufactured LP Gas Cylinders.
 S.I. 124/2001 Frozen Cooked Foods and Reconstituted Juice Products.
 S.I. 152/2001 Herbal and Fruit Teas/Beverages; Oils; Jams; Scones;
 Chocolates; Juju Dolls.
-S.I. 39/2002 Conch Shell Jewellery and Other Shell Products.
-S.I. 24/2008 Solid-Core PVC Lumber S.I. 69/2008 Wood Home and Office Furniture
+INDUSTRIES ENCOURAGEMENT CH.326 - 12A LRO 1/2017 STATUTE LAW OF THE BAHAMAS Conch Shell Jewellery and Other Shell Products.
+S.I. 39/2002 Solid-Core PVC Lumber.
+S.I. 24/2008 Wood Home and Office Furniture.
+S.I. 69/2008 Structural Steel.
+S.I. 24/2010 Biodiesel.
+S.I. 31/2010 Toilet Paper, Hand Towel, Napkins.
+S.I. 45/2010 Mattresses, Boxsprings, Pillows, Cushions.
+S.I. 102/2010 Radiator Fluids, Coolants, Household Chemicals, Cleaning Chemicals.
+S.I. 126/2010 Water and Juice Beverages.
+S.I. 16/2011 PVC Impact Resistant Doors and Windows.
+S.I. 22/2011 Cellular PVC.
+S.I. 31/2011 Aluminum Shutters.
+S.I. 116/2011 Souvenirs, Gifts, Craft Items.
+S.I. 37/2012 Chocolate Bars, Chocolate Coated Truffles, Mini Chocolates, Chocolate Coated Fruits and Nuts, Bulk Chocolate.
+S.I. 79/2012 Rolled Steel.
+S.I. 98/2012 Ice, Carboard Boxes, Plastic Bottles.
+S.I. 3/2013 Liquid Oxygen, Nitrous Oxide, Acetylene, Argon, Hel-ium, Hydrogen, Carbon Dioxide, Nitrogen.
+S.I. 8/2013 Fuel Tanks, Boat Parts.
+S.I. 21/2013 Kitchen Cabinets, Wooden Doors, Wooden Furniture, Wooden Trims, Mirrors and Bathroom Vanities.
+S.I. 28/2013 Boats.
+S.I. 30/2013 Poultry.
+S.I. 33/2013 Ice.
+S.I. 36/2013 Kitchen Cabinets, Wooden Doors, Wooden Furniture, Wooden Trims, Mirrors, Bathroom Vanities.
+S.I. 45/2013 Concrete Wheel Stops, Concrete Pavers, Anti-Parking.
+Pyramids.
+S.I. 49/2013 Baked Bread, Baked Rolls and Baked Cakes.
+S.I. 51/2013 Baked Bread, Baked Buns, Cakes and other Pastries.
+S.I. 68/2013 Motorcycles.
+S.I. 94/2013 Engineered Re-inforcing Bars.
+S.I. 96/2013 Icecream and Sorbet.
+S.I. 9/2014 Recyclate Products.
+S.I. 14/2014 Metal Sculpture.
+S.I. 22/2014 Standing Seam Roof.
+S.I. 24/2014 Boat Trailers.
+S.I. 40/2014 Signs.
+S.I. 43/2014 Blocks.
+S.I. 45/2014 Shampoo, Conditioner and Hair Treatment.
+S.I. 89/2014 CH.326 - 12B INDUSTRIES ENCOURAGEMENT STATUTE LAW OF THE BAHAMAS LRO 1/2017 S.I. 6/2015 Nylon Wall Panels.
+S.I. 9/2015 Plastic Bowls, Plastic Plates, Plastic Cups.
+S.I. 13/2015 Printed Fabric, Garments, Bags & Household Accessories.
+S.I. 50/2015 Bottled Water, Flavored Water, Soda, Labels.
+S.I. 55/2015 Solid Wooden Items S.I. 63/2015 Garments S.I. 65/2015 Steel Building Frames, Floor Joists, Roof Trusses S.I. 74/2015 Spray Polyurethane Foam.
+S.I. 67/2016 Trailers S.I. 75/2016 Purified Bottled Water
