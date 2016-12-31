@@ -1,6 +1,6 @@
 # Police Disciplinary Regulations
 
-Statute Law of The Bahamas, subsidiary legislation, legislation number 1965-0126; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1965/1965-0126/1965-0126_1.pdf
+Statute Law of The Bahamas, subsidiary legislation, legislation number 1965-0126; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1965/1965-0126/1965-0126_2.pdf
 
 Made under the Act numbered 2009-0003 in the publisher's index.
 
