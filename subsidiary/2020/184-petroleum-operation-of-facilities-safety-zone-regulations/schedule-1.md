@@ -1,0 +1,1 @@
+# Schedule (regulation 2) NAME OR OTHER DESIGNATION LATITUDE LONGITUDE Cooper 23°12' 12.35 N 079° 08' 14.1 W Made the day of December, 2020 MINISTER RESPONSIBLE FOR PETROLEUM Made the 24th day of December, 2020 Signed DION A. FOULKES Acting Minister Responsible for Petroleum
