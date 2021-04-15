@@ -1,8 +1,8 @@
 # Airport Authority Act
 
-Statute Law of The Bahamas, Act, legislation number 2000-0006; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2000/2000-0006/2000-0006_2.pdf
+Statute Law of The Bahamas, Act, legislation number 2000-0006; consolidation (edition 3): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2000/2000-0006/2000-0006_3.pdf
 
-Commenced: 2000-05-01. Laws the edition lists: Act 6 of 2000, S.I. 33/2006, S.I. 26/2007, Act 38 of 2007, Act 26 of 2008, Act 4 of 2014, Act 23 of 2016.
+Commenced: 2000-05-01. Laws the edition lists: S.I. 33/2006, S.I. 26/2007, Act 38 of 2007, Act 26 of 2008, Act 4 of 2014, Act 23 of 2016, Act 10 of 2021.
 
 | File | Provision |
 | --- | --- |
@@ -29,7 +29,7 @@ Commenced: 2000-05-01. Laws the edition lists: Act 6 of 2000, S.I. 33/2006, S.I.
 | [s-021](s-021.md) | 21. Airport Security |
 | [s-022](s-022.md) | 22. Power of Arrest |
 | [s-023](s-023.md) | 23. Penalty |
-| [s-024](s-024.md) | 24. Amendment of First and Second Schedules |
+| [s-024](s-024.md) | 24. Amendment of First, Second and Third Schedules |
 | [s-025](s-025.md) | 25. Regulations |
 | [s-026](s-026.md) | 26. Transfer of public officers |
 | [s-027](s-027.md) | 27. Offer of permanent employment to public officers |
@@ -39,6 +39,3 @@ Commenced: 2000-05-01. Laws the edition lists: Act 6 of 2000, S.I. 33/2006, S.I.
 | [s-029-b](s-029-b.md) | 29B. Establishment of the Family Island Airports Department |
 | [s-030](s-030.md) | 30. Construction of laws, contracts, etc., in relation to transferred assets |
 | [s-031](s-031.md) | 31. Transitional provisions |
-| [schedule-1](schedule-1.md) | First Schedule - (Section 3(1)) |
-| [schedule-2](schedule-2.md) | Second Schedule - (Section 3(2)) |
-| [schedule-3](schedule-3.md) | Third Schedule - (Sections 3 and 29A) |
