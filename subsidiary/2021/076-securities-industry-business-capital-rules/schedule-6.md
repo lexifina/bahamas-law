@@ -1,0 +1,5 @@
+# Third Schedule (Paragraph 18) FORM 2 PLATFORM DUE DILIGENCE ATTESTATION OF PROJECT INITIATOR To be filed with the Securities Commission of The Bahamas within five (5) days of the close of the distribution period.
+I hereby attest that we have completed the necessary due diligence and confirm that nothing has come to our attention that would prohibit the offering from proceeding.
+I further attest that the required information will be made available to the Securities Commission of The Bahamas in accordance with section 79 of the Securities Industry Act, 2011.
+Identified company subject to the background check:
+Company Name: ______________________________________________ Company Address: ____________________________________________ Name: ______________________________________________________ Signature:____________________________ Date: _________________ Date of Sale of Security: __________________ Made this 23rd day of June, 2021 Signed ROBERT LOTMORE Chairman Securities Commission of The Bahamas
