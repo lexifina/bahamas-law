@@ -1,0 +1,3 @@
+# Schedule (paragraph 2) Ten Dollar Silver Proof Coin - Golden Duo Denomination Gross Weight in Grams Metallic Composition Forms, Designs and Devices Ten Dollars Numismatic Coin 31.10 .999 Fine Silver A round coin measuring 39mm in diameter, weighing 31.10 grams with a milled edge, bearing on the obverse the Coat of Arms of The Bahamas together with the words "Commonwealth of The Bahamas" which forms a crown around the Coat of Arms. Below the Coat of Arms is the date, 2021. The reverse features a rendering of Steven Gardiner and Shaunae Miller-Uibo in motion surrounded by a track with the inscription "TOKYO 2020/21" above their respective gold medal winning times.
+Made this 19th day of January, 2022.
+Signed PHILIP DAVIS Minister of Finance
