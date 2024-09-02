@@ -1,0 +1,1 @@
+# First Schedule @section 2@2AA Classes and E<uivalent Amounts of Cannabis Column 1 Column 2 Item Class of Cannabis ;uantity that is e<uivalent to 1 gram of dried cannabis Dried cannabis 1 gram Fresh cannabis 5 grams Solids containing cannabis 15 grams Non=solids containing cannabis 70 grams Cannabis concentrates 0.25 gram Cannabis plant seeds 1 seed
