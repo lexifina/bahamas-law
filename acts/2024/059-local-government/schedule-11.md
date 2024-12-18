@@ -1,0 +1,1 @@
+# Third Schedule (Sections 7, 16, 30 to 36, 77) LOCAL GOVERNMENT DISTRICTS Acklins Berry Islands Bimini City of Freeport Crooked Island and Long Cay Exuma Cays Grand Cay Great Abaco Cays Green Turtle Cay Harbour Island Inagua Mangrove Cay Mayaguana Moores Island North Eleuthera Ragged Island Rum Cay San Salvador Spanish Wells Sweeting's Cay

@@ -1,0 +1,1 @@
+# Third Schedule District Position Total Stipend Councillor $125.00 Councillor/Deputy Chief $300.00 Councillor Councillor/ Chief Councillor $650.00 DISTRICT COUNCIL BOARDS Position Total Stipend Board member $50.00 Board member/Deputy Chairman $75.00 Board member/Chairman $100.00
