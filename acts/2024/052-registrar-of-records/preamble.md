@@ -1,0 +1,21 @@
+1f6 all writings under the Royal Sign 2anual and renunciations of dower; 1g6 affidavits; and 1h6 any other document prescri4ed 4y the 2inister in regulations. . ppointment o eitrar o ecord.
+The -overnor>-eneral0 acting in accordance with the advice of the Pu4lic Service Commission may appoint a person to hold the office of Registrar of Records.
+The Registrar of Records shall 4e responsi4le for the administration of = 1i6 4irths0 marriages and deaths; 1ii6 deeds; 1iii6 documents; and 1iv6 records under the relevant legislation.
+The Registrar of Records shall act under the general direction and supervision of the 2inister. .  aliication or appointment.
+A person shall 4e eligi4le for appointment as Registrar of Records if that person is fit and proper and qualified to hold office = with a minimum of seven years e<perience in = 1i6 law; 1ii6 finance; 1iii6 accounting; or 1iv6 4usiness or corporation management and administration; and is a person of integrity and good character; 1c6 not having 4een convicted of a crime involving dishonesty or violence; and 1d6 not having 4een ad?udged or otherwise declared 4an@rupt under any law. . ppointment o ep t eitrar ecord and itant eitrar o ecord.
+The -overnor>-eneral0 acting in accordance with the advice of the Pu4lic Service Commission0 may appoint one or more suita4le persons to hold the office of = Deputy Registrar of Records; and Page > 3 Assistant Registrar of Records.
+The Deputy Registrar of Records and Assistant Registrar of Records shall assist the Registrar of Records in the discharge of his duties.
+During the temporary a4sence of the Registrar of Records0 a Deputy Registrar of Records and Assistant Registrar of Records may lawfully perform all the duties and e<ercise all the powers of the Registrar of Records as directed in writing 4y the Registrar of Records. . !etin o po"er in eitrar o ecord.
+The Registrar of Records shall have the powers and carry out the functions previously carried out 4y the Registrar -eneral in relation to the administration of = 4irths0 marriages and deaths; deeds0 1c6 documents; and 1d6 records.
+All powers0 authorities0 ?urisdictions0 rights0 privileges0 duties and lia4ilities 4y any written law conferred or imposed on the Registrar -eneral whether original or e  shall 4e conferred and imposed on the Registrar of Records.
+Any reference to the Registrar -eneral in any written law0 agreement0 contract0 deed or other document0 shall 4e deemed to refer to0 and shall 4e read and construed as a reference to the Registrar of Records in the e<ercise of his functions under this Act. #. $o"er to adminiter oath.
+The power to administer oaths and ta@e solemn declarations or affirmations in all matters required to 4e ta@en or made 4y any Act shall 4e vested in the = Registrar of Records;
+Deputy Registrar of Records; and 1c6 Assistant Registrar of Records.
+A pu4lic officer in the office of the Registrar of Records or designated in writing 4y notice pu4lished in the Gazette may administer oaths and ta@e affirmations required to 4e ta@en or made 4y the Registration of Records Act or any other written law.
+Page > 4 %. &ranitional pro'iion.
+A person who immediately 4efore the appointed day holds the office of Registrar -eneral0 Deputy Registrar -eneral or Assistant Registrar -eneral shall as from the appointed day of coming into force of this Act = hold office as Registrar of Records0 Deputy Registrar of Records or Assistant Registrar of Records; and is deemed to have 4een duly appointed to such office0 in accordance with this Act. (.  le.
+The 2inister may ma@e rules for carrying into effect the o4?ects of this Act. 1). epeal.
+The Registrar -eneral Act 1Ch. 186 is repealed. 11. *one+ ential amendment.
+A reference in any written law to the Registrar -eneral in the conte<t of registration of 4irths0 marriages and deaths0 deeds0 documents and records shall 4e construed as a reference to the Registrar of Records in accordance with section 3.
+A reference in any written law to the Registrar -eneral Act 1Ch. 186 shall 4e construed as a reference to this Act.
+The Acts specified in the first column of the hee are here4y amended in the manner indicated in the second column of the hee.
