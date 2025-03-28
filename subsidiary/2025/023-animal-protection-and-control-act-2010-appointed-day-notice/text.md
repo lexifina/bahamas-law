@@ -1,0 +1,1 @@
+and Control Act, 2010 (No. 19 of 2010), the 1st day of March, 2025 is appointed the day on which the Act shall come into operation on the following islands -- Grand Bahama Eleuthera (including cays) Spanish Wells Harbour Island Exuma (including cays) Abaco S.I. No. 23 of 2025
