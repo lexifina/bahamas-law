@@ -1,0 +1,17 @@
+# Public Debt Management (Bahamas Registered Stock 2027, 2029, 2032, 2034, 2044 and 2054) Directions, 2025
+
+Statute Law of The Bahamas, subsidiary legislation, legislation number 2025-0026; consolidation (edition 1): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/2025/2025-0026/2025-0026_1.pdf
+
+Made under the Act numbered 2021-0006 in the publisher's index.
+
+Commenced: 2025-04-15. Laws the edition lists: none.
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. |
+| [s-002](s-002.md) | 2. |
+| [s-003](s-003.md) | 3. |
+| [s-004](s-004.md) | 4. |
+| [s-005](s-005.md) | 5. |
+| [s-006](s-006.md) | 6. |
+| [s-007](s-007.md) | 7. |
