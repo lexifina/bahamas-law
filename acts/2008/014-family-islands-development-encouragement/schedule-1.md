@@ -1,2 +1,4 @@
-# Schedule - (sections 3 & 4)
-Sweetings Cay and Water Cay (Grand Bahama) Grand Cay and Moores Island (Abaco) Current Island (Eleuthera) Andros Cat Island San Salvador Rum Cay Long Island Crooked Island Long Cay Acklins Ragged Island and Cays Mayaguana Inagua Great Stirrup Cay (Berry Islands) Little Stirrup Cay (Berry Islands) Little San Salvador (Eleuthera) Princess Cay (Eleuthera) Gorda Cay (Abaco) Chub Cay - Berry Islands Exuma
+# Schedule
+(sections 3 & 4)
+Grand Bahama
+All other Family Islands and Cays
