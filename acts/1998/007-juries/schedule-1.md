@@ -1,9 +1,10 @@
-# First Schedule - (Section 4(a))
+# First Schedule
+(Section 4(a))
 PERSONS EXEMPT FROM JURY SERVICE
 1. The Governor-General and his personal staff.
 2. Judges of the Court of Appeal and of the Supreme Court and their spouses.
 3. Ministers of Government.
-4. Members of the Senate and the House of Assembly.
+4 Members of the Senate and the House of Assembly.
 5. Counsel and Attorneys in actual practice and their clerks.
 6. Registered medical practitioners.
 7. Persons officiating as priests or ministers of their respective religions.
@@ -20,3 +21,4 @@ PERSONS EXEMPT FROM JURY SERVICE
 10. Persons under permanent physical or mental incapacity.
 11. The clerks and messengers of the Senate and of the House of Assembly during such time as the Legislature is in Session.
 12. Members of the Industrial Tribunal and their spouses.
+Page 17

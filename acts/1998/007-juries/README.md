@@ -1,8 +1,8 @@
 # Juries Act
 
-Statute Law of The Bahamas, Act, legislation number 1998-0007; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1998/1998-0007/1998-0007_2.pdf
+Statute Law of The Bahamas, Act, legislation number 1998-0007; consolidation (edition 3): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1998/1998-0007/1998-0007_3.pdf
 
-Commenced: 1998-06-01. Laws the edition lists: Act 7 of 1998, Act 22 of 2006, Act 45 of 2007, Act 44 of 2014, Act 10 of 2015, S.I. 73/2015.
+Commenced: 1998-06-01. Laws the edition lists: Act 22 of 2006, Act 45 of 2007, Act 44 of 2014, Act 10 of 2015.
 
 | File | Provision |
 | --- | --- |
@@ -21,7 +21,7 @@ Commenced: 1998-06-01. Laws the edition lists: Act 7 of 1998, Act 22 of 2006, Ac
 | [s-012](s-012.md) | 12. Service of summons |
 | [s-013](s-013.md) | 13. Court may excuse a juror |
 | [s-014](s-014.md) | 14. Selection of Jury |
-| [s-015](s-015.md) | 15. Balls with number of jurors sworn to be kept apart |
+| [s-015](s-015.md) | 15. Balls with numbers of jurors sworn to be kept apart |
 | [s-016](s-016.md) | 16. Same jury may try other matters |
 | [s-017](s-017.md) | 17. Talesmen |
 | [s-018](s-018.md) | 18. Number of jurors and alternate jurors |
@@ -37,12 +37,12 @@ Commenced: 1998-06-01. Laws the edition lists: Act 7 of 1998, Act 22 of 2006, Ac
 | [s-028](s-028.md) | 28. Discharge of jury in certain circumstances |
 | [s-029](s-029.md) | 29. Jurors' fees |
 | [s-030](s-030.md) | 30. Accommodation, maintenance and refreshment of jurors |
-| [s-030-a](s-030-a.md) | 30A. Provisions for Travel, etc. for Family Island Jurors |
+| [s-030-a](s-030-a.md) | 30A. Provisions for travel, etc. for Family Island Jurors |
 | [s-031](s-031.md) | 31. View |
 | [s-032](s-032.md) | 32. Fines for non-attendance or refusal to serve |
 | [s-032-a](s-032-a.md) | 32A. Employer and employees |
 | [s-033](s-033.md) | 33. Release of juror from attendance |
 | [s-034](s-034.md) | 34. Rules |
 | [s-035](s-035.md) | 35. Savings |
-| [schedule-1](schedule-1.md) | First Schedule - (Section 4(a)) |
-| [schedule-2](schedule-2.md) | Second Schedule - (Section 4(b)) |
+| [schedule-1](schedule-1.md) | First Schedule |
+| [schedule-2](schedule-2.md) | Second Schedule |
