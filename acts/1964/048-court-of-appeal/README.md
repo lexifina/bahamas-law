@@ -1,8 +1,8 @@
 # Court of Appeal Act
 
-Statute Law of The Bahamas, Act, legislation number 1964-0048; consolidation (edition 2): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1964/1964-0048/1964-0048_2.pdf
+Statute Law of The Bahamas, Act, legislation number 1964-0048; consolidation (edition 3): https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1964/1964-0048/1964-0048_3.pdf
 
-Commenced: 1965-01-07. Laws the edition lists: Act 48 of 1964, Act 62 of 1965, Act 3 of 1967, Act 32 of 1971.
+Commenced: 1965-01-07. Laws the edition lists: Act 62 of 1965, Act 3 of 1967, Act 32 of 1971, Act 5 of 1987, Act 4 of 1989, Act 6 of 1990, Act 26 of 1996, Act 31 of 1999, Act 4 of 2000, Act 8 of 2000, Act 17 of 2000, Act 21 of 2004, Act 22 of 2010, Act 41 of 2011, Act 5 of 2021, Act 58 of 2023, Act 37 of 2024, S.I. 54/2025.
 
 | File | Provision |
 | --- | --- |
@@ -11,7 +11,8 @@ Commenced: 1965-01-07. Laws the edition lists: Act 48 of 1964, Act 62 of 1965, A
 | [s-003](s-003.md) | 3. Justices of Court of Appeal |
 | [s-004](s-004.md) | 4. Seal |
 | [s-005](s-005.md) | 5. Appointment of Registrar and Deputy Registrar |
-| [s-006](s-006.md) | 6. Functions of Registrar and Deputy Registrar |
+| [s-005-a](s-005-a.md) | 5A. Appointment of Assistant Registrar |
+| [s-006](s-006.md) | 6. Functions of Registrar, Deputy Registrar and Assistant Registrar |
 | [s-006-a](s-006-a.md) | 6A. Power to administer oaths and perform other functions |
 | [s-007](s-007.md) | 7. Quorum of Court of Appeal |
 | [s-008](s-008.md) | 8. Rules of court |
