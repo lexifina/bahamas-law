@@ -1,4 +1,5 @@
-# Fourth Schedule - (Section 57)
+# Fourth Schedule
+(Section 57)
 NON-COMPULSORY PILOTAGE
 (a) Ships under thirty gross tons registered measurement;
 (b) Ships in the employment of the Board of Trade, which are ordinarily employed in the Lighthouse Service of The Bahamas;

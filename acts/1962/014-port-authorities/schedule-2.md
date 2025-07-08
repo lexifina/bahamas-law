@@ -1,4 +1,5 @@
-# Second Schedule - (Section 34)
+# Second Schedule
+(Section 34)
 PORT DEPARTMENT PROPERTY
 (a) Prince George's Wharf and Bridge.
 (b) The Public Abutment from East Street Slip to the Western Boundary of Rawson Square.
