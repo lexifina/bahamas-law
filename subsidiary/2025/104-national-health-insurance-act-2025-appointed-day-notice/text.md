@@ -1,0 +1,1 @@
+Act, 2025, Monday the 24th November 2025 is appointed the day on which Parts I, II and sections 1 through 27, 28(1), 29 through 64, together with the First, Second, and Third Schedules of the Act shall come into force. (NO. 67 OF 2025)
