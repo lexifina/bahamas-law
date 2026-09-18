@@ -1,0 +1,4 @@
+# Schedule (paragraph 2) Ten Dollar Silver Proof Coin - Flamingo Denomination Gross Weight in grams Metallic Composition Forms, Designs and Devices Ten Dollars Numismatic Coin 31.21 .9999 Fine Silver A round coin measuring 38.61 mm in diameter with a smooth edge, bearing on the obverse the Coat of Arms of The Bahamas together with the words "Commonwealth of The Bahamas", which forms a crown around the Coat of Arms. Below the Coat of Arms is the inscribed year, 2026. The reverse features an artist's rendering of a resting flamingo with a flamboyance of flamingos in the background standing in shallow water, flanked above by the inscription "FLAMINGO" and underneath by the inscription "10 DOLLARS".
+Made this day of , 2026.
+MINISTER OF FINANCE Made this 16th day of September, 2026.
+Signed MICHAEL HALKITIS MINISTER OF FINANCE
