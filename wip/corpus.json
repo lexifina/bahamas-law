@@ -1,0 +1,62 @@
+{
+ "country": {
+  "code": "BS",
+  "name": "The Bahamas",
+  "slug": "bahamas",
+  "lang": "en",
+  "tz": "America/Nassau",
+  "future_branch": "future",
+  "publisher": {
+   "name": "Government of The Bahamas, Bahamas Laws On-line (Statute Law of The Bahamas)",
+   "email": "publisher@laws-bahamas-gov-bs.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Each law is dated by the \"Date Commenced\" the publisher's act index or its Acts by Year list gives for it; no date is derived from publication.",
+   "source": "https://laws.bahamas.gov.bs/cms/legislation/acts_only/by-alphabetical-order.html"
+  },
+  "licence_note": "Bahamas Laws On-line, Government of The Bahamas: \"The legislation contained on this website is subject to Government of The Bahamas Copyright protection. Any reproduction shall ensure its accuracy, and the source and copyright status of the material is made evident to users. The website may only be used for informational non-commercial purposes and must not be used in a derogatory or defamatory manner.\" (the site's Copyright page; its page metadata names the Isle of Man Attorney General's Chambers, a leftover from the iLAWSSYNC software). This repository is private."
+ },
+ "sources": [
+  {
+   "name": "Bahamas Laws On-line: act index by letter, point in time",
+   "url": "https://laws.bahamas.gov.bs/cms/legislation/acts_only/by-alphabetical-order.html",
+   "retrieved": "2026-10-29",
+   "requests": 5,
+   "licence": "Government of The Bahamas Copyright; the site may be used for informational non-commercial purposes (its Copyright page, quoted in licence_note)",
+   "notes": "POST pointintime_post=YYYY-MM-DD and submit4=<letter>; lists the consolidation current on that day and the amending acts made since, with commencement dates. Pages read: T on 2026-10-29, P on 2026-10-29, D on 2026-10-29, P on 2016-12-30, P on 2016-12-31."
+  },
+  {
+   "name": "Bahamas Laws On-line: Acts by Year",
+   "url": "https://laws.bahamas.gov.bs/cms/legislation/acts_only/acts-by-year.html",
+   "retrieved": "2026-10-29",
+   "requests": 7,
+   "licence": "Government of The Bahamas Copyright; the site may be used for informational non-commercial purposes (its Copyright page, quoted in licence_note)",
+   "notes": "POST year=YYYY; titles and commencement dates. Years read: 1973, 2003, 2007, 2008, 2010, 2011, 2014."
+  },
+  {
+   "name": "Bahamas Laws On-line: Copyright",
+   "url": "https://laws.bahamas.gov.bs/cms/?view=article&id=115:copyright&catid=14:general-articles",
+   "retrieved": "2026-10-29",
+   "requests": 1,
+   "licence": "Government of The Bahamas Copyright; the site may be used for informational non-commercial purposes (its Copyright page, quoted in licence_note)",
+   "notes": "The site's copyright statement, quoted in the README and licence note."
+  },
+  {
+   "name": "Bahamas Laws On-line: Constitution (Amendment) Act, 2017 (PDF)",
+   "url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/AMENDING/2017/2017-0020A/2017-0020A.pdf",
+   "sha256": "e082d4c80cb01b2ce0df5a50a1f0b3f59dcc347ef606510b1eb9d168e5444134",
+   "retrieved": "2026-10-29",
+   "requests": 1,
+   "licence": "Government of The Bahamas Copyright; the site may be used for informational non-commercial purposes (its Copyright page, quoted in licence_note)",
+   "notes": "A scanned image with no text layer; not read (no OCR)."
+  }
+ ],
+ "decisions": [
+  "Sources: only laws.bahamas.gov.bs, read directly (it answers without a bot challenge, and its robots.txt allows /cms/images/LEGISLATION/); at most 3 requests a second.",
+  "Text: each consolidation PDF's own text layer; running heads, page feet, footnotes and footnote markers, and Part, Book and Title headings are dropped; marginal headings become each provision's first line; quotes and dashes are normalised to ASCII; end-of-line hyphens are removed when the joined word occurs elsewhere in these texts and kept when the hyphenated form does, or either half is capitalised.",
+  "Every date is a commencement date from the publisher's own index; no publication date is used."
+ ],
+ "ai_use": [
+  "none: no model wrote or changed any legal text, date or credit; parsing is deterministic code."
+ ]
+}

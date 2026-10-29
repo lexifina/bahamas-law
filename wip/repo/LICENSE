@@ -1,0 +1,29 @@
+The legal texts come from Bahamas Laws On-line, the Government of The Bahamas' publication of the Statute Law of
+The Bahamas:
+
+  Bahamas Laws On-line, https://laws.bahamas.gov.bs (consolidated Acts as PDFs, the act index and the Acts by Year
+  lists, retrieved 2026-10-29).
+
+The publisher's notice (https://laws.bahamas.gov.bs/cms/?view=article&id=115:copyright&catid=14:general-articles):
+
+  "The legislation contained on this website is subject to Government of The Bahamas Copyright protection. Any
+  reproduction shall ensure its accuracy, and the source and copyright status of the material is made evident to
+  users. The website may only be used for informational non-commercial purposes and must not be used in a derogatory
+  or defamatory manner."
+
+The site's footer reads "(c) 2026 The Government of The Bahamas - All Rights Reserved". Its page metadata carries a
+different rights line naming the Isle of Man Attorney General's Chambers; that line comes from the iLAWSSYNC software
+the site runs on and is not the Bahamas notice.
+
+No licence to republish is given. This repository is therefore private; whether and how it may be published is the
+owner's decision.
+
+Changes made by Lexifina: each consolidation was converted from its PDF text layer to one Markdown file per section,
+article or schedule, one paragraph per line; spacing, quotes and dashes were normalised and end-of-line hyphens
+joined; running heads, footnotes, marginal notes, and Part, Book and Title headings were left out; and the versions
+were arranged as git commits credited to the laws the publisher names for each change. The wording of the law was not
+changed. The Government of The Bahamas does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

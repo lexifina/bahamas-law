@@ -1,0 +1,11 @@
+{
+  "path": "bs",
+  "code": "BS",
+  "name": "Bahamas",
+  "level": "country",
+  "repo": "https://github.com/lexifina/bahamas-law",
+  "build": "built: Constitution (1 version, 1973-07-10), Penal Code (7 versions, 2009-10-01 to 2016-12-31), Data Protection Act (1 version, 2007-04-02); each act's latest version is the publisher's current consolidation",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 1
+}
