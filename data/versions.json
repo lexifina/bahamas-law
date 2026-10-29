@@ -1,0 +1,83 @@
+{
+ "country": "BS",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "The Constitution of the Commonwealth of The Bahamas",
+   "url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1973/1973-1080/1973-1080_1.pdf",
+   "versions": [
+    {
+     "from": "1973-07-10",
+     "units": 138,
+     "source_url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1973/1973-1080/1973-1080_1.pdf",
+     "sha256": "91bfffec50a71b3d5d8cfa3a333528ba1d38b81fcf214a82aee65bd87bf33df0"
+    }
+   ]
+  },
+  {
+   "slug": "penal-code",
+   "short": "Penal Code",
+   "title": "Penal Code (Ch. 84)",
+   "url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1873/1873-0015/1873-0015_2.pdf",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 497,
+     "source_url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1873/1873-0015/1873-0015_1.pdf",
+     "sha256": "207efa6d2badd72080b789293882c25b59e5c7e07d45d83655e229731077cdf9"
+    },
+    {
+     "from": "2011-01-04",
+     "units": 497,
+     "source_url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1873/1873-0015/1873-0015_2.pdf",
+     "sha256": "39b3466af154269c53c033abbd02c960b6d6a21b101826892a4f66948b826da4"
+    },
+    {
+     "from": "2011-06-01",
+     "units": 497,
+     "source_url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1873/1873-0015/1873-0015_2.pdf",
+     "sha256": "39b3466af154269c53c033abbd02c960b6d6a21b101826892a4f66948b826da4"
+    },
+    {
+     "from": "2011-10-04",
+     "units": 497,
+     "source_url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1873/1873-0015/1873-0015_2.pdf",
+     "sha256": "39b3466af154269c53c033abbd02c960b6d6a21b101826892a4f66948b826da4"
+    },
+    {
+     "from": "2011-11-04",
+     "units": 497,
+     "source_url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1873/1873-0015/1873-0015_2.pdf",
+     "sha256": "39b3466af154269c53c033abbd02c960b6d6a21b101826892a4f66948b826da4"
+    },
+    {
+     "from": "2015-11-12",
+     "units": 499,
+     "source_url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1873/1873-0015/1873-0015_2.pdf",
+     "sha256": "39b3466af154269c53c033abbd02c960b6d6a21b101826892a4f66948b826da4"
+    },
+    {
+     "from": "2016-12-31",
+     "units": 500,
+     "source_url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1873/1873-0015/1873-0015_2.pdf",
+     "sha256": "39b3466af154269c53c033abbd02c960b6d6a21b101826892a4f66948b826da4"
+    }
+   ]
+  },
+  {
+   "slug": "data-protection",
+   "short": "Data Protection Act",
+   "title": "Data Protection (Privacy of Personal Information) Act (Ch. 324A)",
+   "url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2003/2003-0003/2003-0003_1.pdf",
+   "versions": [
+    {
+     "from": "2007-04-02",
+     "units": 33,
+     "source_url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2003/2003-0003/2003-0003_1.pdf",
+     "sha256": "0dd2991928d7fcfb126609449c4d84b8982154eddebde750dc6fcce9315fac12"
+    }
+   ]
+  }
+ ]
+}
