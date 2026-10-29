@@ -1,0 +1,23 @@
+{
+ "parts": {
+  "10-constitution.json": {
+   "acts": [
+    "constitution"
+   ],
+   "sha256": "5a5ee0bf9b16453aff6d3ae64aa94705a19bffe8b845e4e245922aed93f7eab8"
+  },
+  "20-penal-code.json": {
+   "acts": [
+    "penal-code"
+   ],
+   "sha256": "2b0d02eb42bfef4d8b1ee8eba61399b773435edaa3acd8abb94c8b357ae86023"
+  },
+  "30-data-protection.json": {
+   "acts": [
+    "data-protection"
+   ],
+   "sha256": "2669be21876da9e099f939852722bb3b6ef99a0c79aff9730b3ccf1424ef44b4"
+  }
+ },
+ "schema": 1
+}
