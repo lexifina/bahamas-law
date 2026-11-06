@@ -1,5 +1,7 @@
 # The Bahamas: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Bahamas' national law, which global-law reads at `bahamas/national/acts/`.
+
 The law of The Bahamas as a git history: one file per section or article, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a section; `tools/on.py` gives the text in force on any day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `bs/`. The text is the Government of The Bahamas' own consolidation, the *Statute Law of The Bahamas* revised editions served as PDFs by [Bahamas Laws On-line](https://laws.bahamas.gov.bs), read from each PDF's text layer.
