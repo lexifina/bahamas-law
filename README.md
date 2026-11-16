@@ -59,6 +59,7 @@ Each change is credited to the law the 2017 edition's amendment notes name (`Act
 - Each act's latest version is exactly the consolidation the publisher's index serves as current on the retrieval day (29 October 2026).
 - Credits come only from the publisher's amendment notes and its index; whatever they do not explain is committed by the publisher and labelled "unexplained".
 - History is append-only: no merge commits, no dates going backwards, no commit dated after the build, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ Each change is credited to the law the 2017 edition's amendment notes name (`Act
 See [`LICENSE`](LICENSE). The publisher's Copyright page makes the legislation subject to Government of The Bahamas copyright, requires any reproduction to be accurate and to make its source and copyright status evident, and allows the site to be used for informational non-commercial purposes; it gives no licence to republish. Lexifina's arrangement, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
