@@ -87,3 +87,11 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote or changed any legal text, date or credit; parsing is deterministic code.
+
+## Expansion to the whole statute book (2026-11-27)
+
+Commits after 082bfc7 are appended by a second builder (`scripts/bahamas-law/runner/` in the Lexifina workspace: `bs_fetch.py`, `bs_index.py`, `bs_build.py`, `lro_bisect.py`, reusing the PDF layout reader `pdftext.py` of the first build):
+
+1. `bs_fetch.py` reads the act index for every letter on the build day (POST `pointintime_post`, `submit4`), the Acts by Year pages (POST `year`), then every PDF the index names: each principal Act's current edition `_k` and the earlier editions `_1`..`_k-1` the site still serves, and each piece of subsidiary legislation. One request in flight about a second apart, more only after ten clean minutes.
+2. A pure-rename commit moves `penal-code/` and `data-protection/` into `acts/<year>/<number>-<slug>/`; `tools/on.py` reads their earlier commits at the old paths.
+3. `bs_build.py` turns each edition into one commit (one file per section, article or schedule), dated as `STRUCTURE.md` says: the latest commencement among the laws the edition lists (Acts by Year / index "Date Commenced"), else the first day the point-in-time index serves its revised edition (`lro_bisect.py`). Editions without a text layer or a reliable day are listed in `data/held.csv`. Editions already in the history (Penal Code LRO 1/2010 and 1/2017, the Constitution, the Data Protection Act) are not rebuilt.
