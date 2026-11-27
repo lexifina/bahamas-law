@@ -8,5 +8,5 @@ Commenced: 1956-10-01. Laws the edition lists: none.
 
 | File | Provision |
 | --- | --- |
-| [preamble](preamble.md) | CH.360 - 56] EXCHANGE CONTROL REGULATIONS STATUTE LAW OF THE BAHAMAS LRO 1/2017 |
+| [preamble](preamble.md) | EXCHANGE CONTROL REGULATIONS |
 | [schedule-1](schedule-1.md) | Schedule Officers in The Bahamas of the following banks - RBC Royal Bank (Bahamas) Limited. |
