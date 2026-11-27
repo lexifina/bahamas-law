@@ -9,4 +9,3 @@ Commenced: 2015-12-03. Laws the edition lists: S.I. 111/2013.
 | File | Provision |
 | --- | --- |
 | [s-001](s-001.md) | 1. |
-| [s-002](s-002.md) | 2. |
