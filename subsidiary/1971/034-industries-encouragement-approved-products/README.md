@@ -8,4 +8,4 @@ Commenced: 1971-01-01. Laws the edition lists: none.
 
 | File | Provision |
 | --- | --- |
-| [text](text.md) | INDUSTRIES ENCOURAGEMENT [CH.326 - 5 ------------------------------------------------------------------------------- LRO 1/2017 STATUTE LAW OF THE BAHAMAS Subsidiary Legislation made under the Industries Encouragement Act, Ch. 326 APPROVED PRODUCTS (SECTION 3) Paints. |
+| [text](text.md) | Subsidiary Legislation made under the Industries Encouragement Act, Ch. 326 APPROVED PRODUCTS (SECTION 3) Paints. |
