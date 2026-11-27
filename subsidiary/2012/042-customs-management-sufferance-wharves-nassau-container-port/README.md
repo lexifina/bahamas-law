@@ -12,3 +12,5 @@ Commenced: 2012-04-15. Laws the edition lists: S.I. 42/2012.
 | [s-002](s-002.md) | 2. |
 | [s-003](s-003.md) | 3. |
 | [s-004](s-004.md) | 4. |
+| [schedule-1](schedule-1.md) | First Schedule NASSAU CONTAINER PORT, APD LIMITED RESTRICTIONS To be used for the loading and unloading of goods by sufferance. |
+| [schedule-2](schedule-2.md) | Second Schedule John Alfred Dock, Bay Street, Nassau, Bahamas; |
