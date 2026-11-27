@@ -1,0 +1,25 @@
+{
+  "corpus": "bs/national/acts",
+  "name": "The Bahamas: the Constitution, the principal Acts and the subsidiary legislation of the Statute Law of The Bahamas, as consolidated on Bahamas Laws On-line",
+  "label": "The Bahamas",
+  "language": "en",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Source",
+      "Kind"
+    ],
+    "time": "12:00 America/Nassau"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the latest-commencing law the edition lists, else the Act itself or the publisher",
+  "citation": {
+    "file": "((?:acts|subsidiary)/[0-9]{4}/[^/]+|constitution)/(?:s|art)-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(section|s\\.?|article|art\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://laws.bahamas.gov.bs"
+  ]
+}
