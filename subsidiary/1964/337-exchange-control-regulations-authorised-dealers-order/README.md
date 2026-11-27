@@ -8,5 +8,5 @@ Commenced: 1964-07-04. Laws the edition lists: none.
 
 | File | Provision |
 | --- | --- |
-| [preamble](preamble.md) | EXCHANGE CONTROL REGULATIONS [CH.360 - 55 ------------------------------------------------------------------------------- LRO 1/2017 STATUTE LAW OF THE BAHAMAS branch were a body corporate resident in Serbia or Montenegro, as the case may be. Orders given by branches outside Serbia or Montenegro of any body corporate resident in Serbia or Montenegro or by branches of any business whose head office is in Serbia or Montenegro shall be deemed to be given on behalf of persons resident in Serbia or Montenegro, as the case may be, irrespective of the location of such branches; |
+| [preamble](preamble.md) | EXCHANGE CONTROL REGULATIONS branch were a body corporate resident in Serbia or Montenegro, as the case may be. Orders given by branches outside Serbia or Montenegro of any body corporate resident in Serbia or Montenegro or by branches of any business whose head office is in Serbia or Montenegro shall be deemed to be given on behalf of persons resident in Serbia or Montenegro, as the case may be, irrespective of the location of such branches; |
 | [schedule-1](schedule-1.md) | Schedule Officers in The Bahamas of the following banks - RBC Royal Bank (Bahamas) Limited. |
