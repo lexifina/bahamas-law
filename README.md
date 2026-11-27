@@ -9,9 +9,9 @@ The law of The Bahamas as a git history: one file per section or article, one co
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Bahamas' national law, which global-law reads at `bahamas/national/acts/`.
 
-**What is in it now:** three acts from the *Statute Law of The Bahamas*: the Constitution of the Commonwealth of The Bahamas, in one version (in force from 10 July 1973); the Penal Code (Ch. 84), in 7 versions from 1 October 2009 to 31 December 2016; and the Data Protection (Privacy of Personal Information) Act (Ch. 324A), in one version (in force from 2 April 2007). [`data/laws.csv`](data/laws.csv) lists the 62 laws the record names, with the day each took effect where it made a change; each act's `README.md` lists its provisions and when each changed.
+**What is in it now:** the Constitution, the principal Acts and the subsidiary legislation of the *Statute Law of The Bahamas*, each in every consolidated edition Bahamas Laws On-line still serves, dated by the commencement of the latest law the edition lists. The layout is in [`STRUCTURE.md`](STRUCTURE.md); editions held back (no text layer, no reliable date) are listed in [`data/held.csv`](data/held.csv).
 
-Each act has its own folder, one file per section or article: `penal-code/s-290.md` is section 290 of the Penal Code, the definition of murder; the Constitution is in `constitution/` (`art-001.md` onward, with `preamble.md`) and the Data Protection Act in `data-protection/`.
+Each act has its own folder, one file per section or article: `acts/1873/015-penal-code/s-290.md` is section 290 of the Penal Code, the definition of murder; the Constitution is in `constitution/` (`art-001.md` onward, with `preamble.md`), Acts in `acts/<year>/<number>-<name>/` and subsidiary legislation in `subsidiary/<year>/<number>-<name>/`.
 
 The text is in English, as the Government's revised editions print it in their PDFs.
 
@@ -19,10 +19,10 @@ The text is in English, as the Government's revised editions print it in their P
 
 | Question | Command |
 | --- | --- |
-| Every change to section 290 of the Penal Code | `git log -p --word-diff -- penal-code/s-290.md` |
-| Which law wrote each line of section 290? | `git blame penal-code/s-290.md` |
-| Every version of the Penal Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- penal-code ':!penal-code/README.md'` |
-| Section 290 as in force on 1 January 2011 | `python tools/on.py 2011-01-01 penal-code s-290` |
+| Every change to section 290 of the Penal Code | `git log -p --word-diff -- acts/1873/015-penal-code/s-290.md penal-code/s-290.md` |
+| Which law wrote each line of section 290? | `git blame acts/1873/015-penal-code/s-290.md` |
+| Every version of the Penal Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- acts/1873/015-penal-code penal-code ':!*README.md'` |
+| Section 290 as in force on 1 January 2011 | `python tools/on.py 2011-01-01 acts/1873/015-penal-code s-290` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -38,7 +38,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add bahamas/national/acts
-python3 tools/law.py show 2026-01-01 bahamas/national/acts/penal-code/s-290.md
+python3 tools/law.py show 2026-01-01 bahamas/national/acts/acts/1873/015-penal-code/s-290.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -55,7 +55,7 @@ Each change is credited to the law the 2017 edition's amendment notes name (`Act
 
 ## How it is checked
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before and compares it with the corpus: 9 versions of 3 acts, 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before and compares it with the corpus: the first build's 9 versions of 3 acts, 0 mismatches; each later edition is the publisher's PDF text layer converted by unner/bs_build.py\, its source PDF named in the commit (see [`REPRODUCE.md`](REPRODUCE.md)).
 - Each act's latest version is exactly the consolidation the publisher's index serves as current on the retrieval day (29 October 2026).
 - Credits come only from the publisher's amendment notes and its index; whatever they do not explain is committed by the publisher and labelled "unexplained".
 - History is append-only: no merge commits, no dates going backwards, no commit dated after the build, and every commit's trailers parse.
@@ -63,9 +63,9 @@ Each change is credited to the law the 2017 edition's amendment notes name (`Act
 
 ## What it does not show
 
-- **Most Bahamian law.** Only these three acts: no other act, no subsidiary legislation and no case law.
+- **Editions the site no longer serves, or serves only as scans.** Earlier editions that answer 403, and PDFs without a text layer (no OCR is done), are not here: see [`data/held.csv`](data/held.csv). Case law is not in this repository.
 - **Amendments the publisher has not consolidated.** The Penal Code (Amendment) Acts of 2018, 2020 and 2024, and the Constitution (Amendment) Act, 2017 (served only as a scanned image, with no text layer; nothing here is read by OCR), are in no consolidation the site serves, so they are not applied.
-- **Earlier history.** Every Penal Code change before the 2010 edition is folded into its first version.
+- **Earlier history.** Every change before an act's oldest served edition is folded into that edition.
 - **Typesetting.** Running heads, footnotes, amendment notes and Part, Book and Title headings are left out; spacing, quotes and dashes are normalised.
 - **Changes within a line.** Each paragraph is one line, so blame credits a whole paragraph to the law that changed one word of it.
 

@@ -37,10 +37,18 @@ def branches() -> tuple[str, str | None]:
     return 'main', None
 
 
+# Act folders moved by one pure-rename commit (STRUCTURE.md); history before the move is read at the old path.
+RENAMED = {'acts/1873/015-penal-code': 'penal-code', 'acts/2003/003-data-protection': 'data-protection'}
+
+
 def history(branch: str, path: str, repo=None) -> list[tuple[str, str, str]]:
     """(commit, in-force day, author) for every commit touching path, newest first."""
     args = ('log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%an', branch, '--', path)
     out = git(*args) if repo is None else _g(repo, *args)
+    for new_path, old_path in RENAMED.items():  # folders moved by a pure-rename commit: their earlier commits
+        if path == new_path or path.startswith(new_path + '/'):
+            a2 = args[:-1] + (old_path + path[len(new_path):],)
+            out += git(*a2) if repo is None else _g(repo, *a2)
     rows = []
     for line in out.splitlines():
         h, d, a = (line.split('\t') + ['', ''])[:3]

@@ -15,8 +15,9 @@ The site's footer reads "(c) 2026 The Government of The Bahamas - All Rights Res
 different rights line naming the Isle of Man Attorney General's Chambers; that line comes from the iLAWSSYNC software
 the site runs on and is not the Bahamas notice.
 
-No licence to republish is given. This repository is therefore private; whether and how it may be published is the
-owner's decision.
+No licence to republish is given. The site allows informational, non-commercial use with the source and copyright
+status made evident; this repository is published on that basis (decided 2026-11-18): free, non-commercial, with
+the source and copyright notice above.
 
 Changes made by Lexifina: each consolidation was converted from its PDF text layer to one Markdown file per section,
 article or schedule, one paragraph per line; spacing, quotes and dashes were normalised and end-of-line hyphens
