@@ -6,6 +6,6 @@ Commenced: 2016-07-01. Laws the edition lists: Act 20 of 2016.
 
 | File | Provision |
 | --- | --- |
-| [s-001](s-001.md) | 1. Short title |
-| [s-002](s-002.md) | 2. Waiver of tax and surcharge on owner-occupied property |
-| [s-003](s-003.md) | 3. Waiver of tax on renovated dilapidated buildings |
+| [s-001](s-001.md) | 1. |
+| [s-002](s-002.md) | 2. |
+| [s-003](s-003.md) | 3. |
